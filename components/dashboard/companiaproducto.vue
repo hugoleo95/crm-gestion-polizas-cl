@@ -31,7 +31,7 @@
             :class="[{ active: chartFor==='comisionS' }]"
             @click="chartFor = 'comisionS'"
           >
-            Comisión Simplee
+            Comisión Corredora
           </p>
         </div>
       </div>
@@ -368,7 +368,7 @@ export default {
     font-style: normal;
     font-size: 14px;
     line-height: 18px;
-    color: #acacac;
+    color: #233348;
     position: relative;
     display: grid;
     grid-template-areas: "hero";

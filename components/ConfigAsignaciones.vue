@@ -527,7 +527,7 @@ export default {
 }
 select {
   appearance: auto !important;
-  color: #acacac;
+  color: #233348;
   height: 34px;
   background: #ffffff;
   border: 1px solid #e1e1e1;

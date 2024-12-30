@@ -3199,7 +3199,7 @@ export default {
   font-weight: 600;
   font-size: 16px;
   line-height: 14px;
-  color: #acacac;
+  color: #233348;
 }
 .lead-relation {
   padding: 20px;

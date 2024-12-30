@@ -634,7 +634,7 @@ form.f-login {
   line-height: 23px;
   left: 5%;
   /* identical to box height */
-  color: #acacac;
+  color: #233348;
 }
 .login-re {
   width: 100%;
@@ -656,7 +656,7 @@ form.f-login {
   line-height: 23px;
   left: 5%;
   /* identical to box height */
-  color: #acacac;
+  color: #233348;
 }
 input.login__input {
   padding-left: 64px;
@@ -705,7 +705,7 @@ textarea:hover {
   margin: 4px 0;
   width: 100%;
   text-align: left;
-  color: #acacac;
+  color: #233348;
 }
 input.login__input-re {
   padding-left: 64px;
@@ -724,7 +724,7 @@ input.login__input-re {
   margin: 4px 0;
   width: 100%;
   text-align: left;
-  color: #acacac;
+  color: #233348;
   height: 20px;
 }
 .login__input-re:active,
@@ -745,7 +745,7 @@ input.login__input-re {
   font-weight: normal;
   font-size: 17px;
   line-height: 21px;
-  color: #acacac;
+  color: #233348;
 }
 .sign-in-container .olvidaste {
   font-family: Rubik;
@@ -755,7 +755,7 @@ input.login__input-re {
   line-height: 21px;
   text-decoration-line: underline;
   cursor: pointer;
-  color: #acacac;
+  color: #233348;
 }
 .sign-in-container .sincuenta {
   font-family: Rubik;
@@ -764,7 +764,7 @@ input.login__input-re {
   font-size: 15px;
   line-height: 21px;
   cursor: pointer;
-  color: #acacac;
+  color: #233348;
 }
 .sign-in-container .sincuenta a {
   font-weight: bold;
@@ -1098,7 +1098,7 @@ button.sesion {
     font-weight: normal;
     font-size: 17px;
     line-height: 21px;
-    color: #acacac;
+    color: #233348;
   }
   .sign-in-container .olvidaste {
     font-family: Rubik;
@@ -1108,7 +1108,7 @@ button.sesion {
     line-height: 21px;
     text-decoration-line: underline;
     cursor: pointer;
-    color: #acacac;
+    color: #233348;
   }
   .sign-in-container .sincuenta {
     font-family: Rubik;
@@ -1117,7 +1117,7 @@ button.sesion {
     font-size: 15px;
     line-height: 21px;
     cursor: pointer;
-    color: #acacac;
+    color: #233348;
   }
   .sign-in-container .sincuenta a {
     font-weight: bold;
@@ -1272,7 +1272,7 @@ button.sesion {
     line-height: 23px;
     left: 5%;
     /* identical to box height */
-    color: #acacac;
+    color: #233348;
   }
   .login-re {
     width: 78%;
@@ -1294,7 +1294,7 @@ button.sesion {
     line-height: 23px;
     left: 5%;
     /* identical to box height */
-    color: #acacac;
+    color: #233348;
   }
   input.login__input {
     padding-left: 64px;
@@ -1312,7 +1312,7 @@ button.sesion {
     margin: 8px 0;
     width: 100%;
     text-align: left;
-    color: #acacac;
+    color: #233348;
     height: auto;
   }
   .login__input:active,
@@ -1343,7 +1343,7 @@ button.sesion {
     margin: 4px 0;
     width: 100%;
     text-align: left;
-    color: #acacac;
+    color: #233348;
   }
   input.login__input-re {
     padding-left: 64px;
@@ -1362,7 +1362,7 @@ button.sesion {
     margin: 4px 0;
     width: 100%;
     text-align: left;
-    color: #acacac;
+    color: #233348;
     height: 20px;
   }
   .login__input-re:active,
@@ -1627,7 +1627,7 @@ button.sesion {
     font-size: 17px;
     line-height: 23px;
     left: 5%;
-    color: #acacac;
+    color: #233348;
   }
   .login__input {
     background: #ffff;
@@ -1660,7 +1660,7 @@ button.sesion {
     font-size: 15px;
     line-height: 21px;
     cursor: pointer;
-    color: #acacac;
+    color: #233348;
   }
   .sincuenta a {
     font-weight: bold;

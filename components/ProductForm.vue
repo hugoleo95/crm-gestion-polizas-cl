@@ -1822,7 +1822,7 @@ input:valid {
 
 .inputcheck {
   margin-top: 5px;
-  color: #acacac;
+  color: #233348;
   height: 14px;
   background: #ffffff;
   border: 1px solid #e1e1e1;

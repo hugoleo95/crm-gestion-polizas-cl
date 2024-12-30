@@ -23,9 +23,16 @@
           header-text-variant="white"
           class="cursor-pointer"
           align="center"
-          @click.prevent="PushProducto"
         >
-          <b-card-text>Descripción del producto.</b-card-text>
+          <b-card-text class="mb-2"><strong>Compañias:</strong> Sura, Renta Nacional, BCI</b-card-text>
+          <b-button
+            @click.prevent="PushProducto"
+            class="mr-2"
+            variant="primary"
+          >Nueva cotización</b-button><b-button
+            @click.prevent="ListProducto"
+            variant="warning"
+          >Listar Cotizaciones</b-button>
         </b-card>
 
         <b-card
@@ -35,9 +42,16 @@
           header-text-variant="white"
           class="cursor-pointer"
           align="center"
-          @click.prevent="PushProducto"
         >
-          <b-card-text>Descripción del producto.</b-card-text>
+          <b-card-text class="mb-2"><strong>Compañias:</strong> Sura, Renta Nacional, BCI</b-card-text>
+          <b-button
+            @click.prevent="PushProducto"
+            class="mr-2"
+            variant="primary"
+          >Nueva cotización</b-button><b-button
+            @click.prevent="ListProducto"
+            variant="warning"
+          >Listar Cotizaciones</b-button>
         </b-card>
         <b-card
           border-variant="primary"
@@ -46,9 +60,16 @@
           header-text-variant="white"
           class="cursor-pointer"
           align="center"
-          @click.prevent="PushProducto"
         >
-          <b-card-text>Descripción del producto.</b-card-text>
+          <b-card-text class="mb-2"><strong>Compañias:</strong> Sura, Renta Nacional, BCI</b-card-text>
+          <b-button
+            @click.prevent="PushProducto"
+            class="mr-2"
+            variant="primary"
+          >Nueva cotización</b-button><b-button
+            @click.prevent="ListProducto"
+            variant="warning"
+          >Listar Cotizaciones</b-button>
         </b-card>
       </b-card-group>
     </div>
@@ -61,9 +82,16 @@
           header-text-variant="white"
           class="cursor-pointer"
           align="center"
-          @click.prevent="PushProducto"
         >
-          <b-card-text>Descripción del producto.</b-card-text>
+          <b-card-text class="mb-2"><strong>Compañias:</strong> Sura, Renta Nacional, BCI</b-card-text>
+          <b-button
+            @click.prevent="PushProducto"
+            class="mr-2"
+            variant="primary"
+          >Nueva cotización</b-button><b-button
+            @click.prevent="ListProducto"
+            variant="warning"
+          >Listar Cotizaciones</b-button>
         </b-card>
 
         <b-card
@@ -73,9 +101,16 @@
           header-text-variant="white"
           class="cursor-pointer"
           align="center"
-          @click.prevent="PushProducto"
         >
-          <b-card-text>Descripción del producto.</b-card-text>
+          <b-card-text class="mb-2"><strong>Compañias:</strong> Sura, Renta Nacional, BCI</b-card-text>
+          <b-button
+            @click.prevent="PushProducto"
+            class="mr-2"
+            variant="primary"
+          >Nueva cotización</b-button><b-button
+            @click.prevent="ListProducto"
+            variant="warning"
+          >Listar Cotizaciones</b-button>
         </b-card>
         <b-card
           border-variant="primary"
@@ -84,9 +119,16 @@
           header-text-variant="white"
           class="cursor-pointer"
           align="center"
-          @click.prevent="PushProducto"
         >
-          <b-card-text>Descripción del producto.</b-card-text>
+          <b-card-text class="mb-2"><strong>Compañias:</strong> Sura, Renta Nacional, BCI</b-card-text>
+          <b-button
+            @click.prevent="PushProducto"
+            class="mr-2"
+            variant="primary"
+          >Nueva cotización</b-button><b-button
+            @click.prevent="ListProducto"
+            variant="warning"
+          >Listar Cotizaciones</b-button>
         </b-card>
       </b-card-group>
     </div>
@@ -129,9 +171,16 @@ export default {
     }
   },
   methods: {
-    PushProducto (query) {
+    PushProducto () {
+      let query = {}
+      query.modo = "new";
       this.$router.push({ path: "cotizador/garantia/sura", query });
     },
+    ListProducto () {
+      let query = {}
+      query.modo = "list";
+      this.$router.push({ path: "cotizador/garantia/sura", query });
+    }
   }
 }
 </script>
@@ -383,7 +432,7 @@ textarea:focus {
   line-height: 17px;
   font-size: 0.9rem;
   font-weight: 500;
-  color: #acacac !important;
+  color: #233348 !important;
   .icon {
     display: flex;
     &::after {
@@ -393,14 +442,14 @@ textarea:focus {
       content: "";
       width: 0.65em;
       height: 0.35em;
-      background-color: #acacac;
+      background-color: #233348;
       clip-path: polygon(25% 0, 50% 50%, 75% 0%, 100% 0, 50% 100%, 0 0);
     }
     svg {
       height: 18px;
       min-width: 14px;
       margin-right: 5px;
-      color: #acacac;
+      color: #233348;
     }
   }
 }
@@ -419,7 +468,7 @@ textarea:focus {
 }
 input[type="radio"],
 input[type="checkbox"] {
-  color: #acacac;
+  color: #233348;
   height: 14px;
   background: #ffffff;
   border: 1px solid #e1e1e1;
@@ -576,7 +625,7 @@ a:active {
 button {
   &.active {
     color: #000000;
-    border-bottom: 3px solid #acacac;
+    border-bottom: 3px solid #233348;
   }
 }
 input,
@@ -1374,7 +1423,7 @@ display-flex,
   font-weight: 600;
   font-size: 16px;
   line-height: 14px;
-  color: #acacac;
+  color: #233348;
 }
 h2,
 h3,

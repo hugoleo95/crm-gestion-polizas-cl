@@ -118,7 +118,7 @@ export default {
   justify-content: center;
   align-items: center;
   row-gap: 16px;
-  border: 1px dashed #acacac;
+  border: 1px dashed #233348;
   transition: 0.3s ease all;
   font-family: "Rubik";
   font-style: normal;

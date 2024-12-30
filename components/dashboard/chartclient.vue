@@ -395,7 +395,7 @@ export default {
 
 .percentage {
   font-size: 0.95rem;
-  color: #acacac;
+  color: #233348;
   font-weight: 300;
   line-height: 17px;
 }

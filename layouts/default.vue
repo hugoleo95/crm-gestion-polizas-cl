@@ -296,6 +296,7 @@ export default {
     ...mapState('leads', ['alertMessagelead', 'polizaerror']),
     ...mapGetters(['unreadNotifications']),
     pageTitle () {
+      console.log(this.$route.name, 'aquiii')
       return (
         this.$route.name.charAt(0).toUpperCase() + this.$route.name.slice(1)
       )

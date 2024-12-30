@@ -920,7 +920,7 @@ export default {
   }
 }
 .separator {
-  border-left: 0.75px solid #acacac; /* Border on the left */
+  border-left: 0.75px solid #233348; /* Border on the left */
   width: 0.75px; /* Width instead of height */
   height: 26px;
 }
@@ -935,7 +935,7 @@ export default {
     flex-direction: row;
     align-items: center;
     div {
-      color: #acacac;
+      color: #233348;
       font-size: 18px;
     }
   }
@@ -959,6 +959,6 @@ export default {
   font-weight: 600;
   font-size: 16px;
   line-height: 14px;
-  color: #acacac;
+  color: #233348;
 }
 </style>

@@ -23,7 +23,7 @@
           <div class="titulosResultados">Total N: <span>{{ ventas[0] }}</span></div>
           <div class="titulosResultados">Prima: <span>{{ ventas[1] ? formtNum(ventas[1]) : 0.00 }} {{ monedaMostrar }}</span></div>
           <div class="titulosResultados">Comisión: <span>{{ ventas[1] ? formtNum(ventas[2]) : 0.00 }} {{ monedaMostrar }}</span></div>
-          <div class="titulosResultados">Comisión Simplee: <span>{{ ventas[1] ? formtNum(ventas[3]) : 0.00 }} {{ monedaMostrar }}</span></div>
+          <div class="titulosResultados">Comisión Corredora: <span>{{ ventas[1] ? formtNum(ventas[3]) : 0.00 }} {{ monedaMostrar }}</span></div>
           <!--<div class="titulosResultados mb-2">Comisión Proyectada: <span>{{ meta ? formtNum(meta) : 0.00 }} {{ monedaMostrar }}</span></div>-->
           <div>
             <bar :chart-data="chart" />
@@ -69,7 +69,7 @@
                 <stop
                   v-if="percentage < 100"
                   offset="0%"
-                  stop-color="#ACACAC"
+                  stop-color="#233348"
                 />
               </linearGradient>
             </svg>

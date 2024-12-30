@@ -81,7 +81,7 @@
                 <stop
                   v-if="percentage < 100"
                   offset="0%"
-                  stop-color="#ACACAC"
+                  stop-color="#233348"
                 />
               </linearGradient>
             </svg>

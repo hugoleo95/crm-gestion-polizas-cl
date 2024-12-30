@@ -165,7 +165,7 @@ export default {
   mixins: [Session],
   data () {
     return {
-      titlestate: 'Estado de solicitudes',
+      titlestate: 'Estado de polizas',
       calendar: true,
       Event: {},
       urlcalendar: 'https://calendar.google.com/calendar/embed?src=' + this.$store.state.localStorage.user.email + '&bgcolor=%23233348&wkst=2&showPrint=0&showTitle=0&showNav=1&mode=WEEK&color=%23039BE5&color=%23AD1457&color=%2333B679&color=%230B8043',
@@ -216,9 +216,9 @@ export default {
     ChangeTitle (value) {
       console.log(value)
       if (moment(value) > moment('2023-01-01')) {
-        this.titlestate = 'Estado de solicitudes'
+        this.titlestate = 'Estado de polizas'
       } else {
-        this.titlestate = 'Estado de leads'
+        this.titlestate = 'Estado de contactos'
       }
     },
     newEvent () {

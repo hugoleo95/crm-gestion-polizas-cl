@@ -223,7 +223,7 @@ a:hover {
   line-height: 23px;
   left: 5%;
 
-  color: #acacac;
+  color: #233348;
 }
 
 .login__input {
@@ -258,7 +258,7 @@ input.login__input {
   font-size: 15px;
   line-height: 21px;
   cursor: pointer;
-  color: #acacac;
+  color: #233348;
 }
 .sincuenta a {
   font-weight: bold;

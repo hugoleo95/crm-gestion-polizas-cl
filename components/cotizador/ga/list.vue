@@ -24,6 +24,19 @@
       <div class="d-flex mb-2 justify-content-end results">
         <span> {{ totalRows }} Resultados</span>
       </div>
+      <div class="d-flex justify-content-between mb-3">
+        <nuxt-link :to="{ path: '/cotizador' }">
+          <span
+            class="text-base pointer"
+          >
+            <fa-icon
+              :icon="['fas', 'arrow-left']"
+              class="text-primary return"
+            />
+            <b>Regresar a los productos</b>
+          </span>
+        </nuxt-link>
+      </div>
       <div class="main">
         <div class="form-sections">
           <div class="table-responsive">
@@ -211,9 +224,11 @@ export default {
       this.Polizas = Response;
     },
     backlistdos () {
-      const queries = {};
+      const queries = {
+        modo: "list",
+      };
       this.$router.push({
-        path: "/cotizador",
+        path: "/cotizador/garantia/sura",
         query: queries,
       });
       this.option = 'list'
@@ -267,7 +282,7 @@ export default {
     },
     updateLeadIdInQuery (query) {
       query.type = "ga";
-      this.$router.push({ path: "cotizador", query });
+      this.$router.push({ path: "sura", query });
     },
     newQuote () {
       // this.$emit('newquote')

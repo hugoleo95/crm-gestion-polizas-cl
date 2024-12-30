@@ -198,7 +198,7 @@ label {
   margin-bottom: 8px;
 }
 ::placeholder {
-  color: #ACACAC;
+  color: #233348;
   font-size: 14px;
 }
 .input-error {
@@ -226,7 +226,7 @@ select {
   -ms-appearance: unset !important;
 }
 .form-input {
-  border: 1px solid #ACACAC;
+  border: 1px solid #233348;
   font-size: 13px;
   border-radius: 8px;
   height: 36px;

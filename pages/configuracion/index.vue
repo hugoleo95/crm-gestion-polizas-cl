@@ -759,7 +759,7 @@ input {
   }
 }
 textarea {
-  color: #acacac;
+  color: #233348;
   resize: none;
   background: #ffffff;
   border: 1px solid #e1e1e1;

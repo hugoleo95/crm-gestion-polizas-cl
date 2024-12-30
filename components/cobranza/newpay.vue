@@ -1394,7 +1394,7 @@ export default {
   color: #000000 !important;
 }
 .data {
-  color: #acacac;
+  color: #233348;
   list-style-type: none;
 }
 .form-row .form-group {
@@ -1427,7 +1427,7 @@ label {
   margin-bottom: 8px;
 }
 ::placeholder {
-  color: #acacac;
+  color: #233348;
   font-size: 14px;
 }
 .input-error {
@@ -1462,7 +1462,7 @@ select {
   -ms-appearance: unset !important;
 }
 .form-input {
-  border: 1px solid #acacac;
+  border: 1px solid #233348;
   font-size: 13px;
   border-radius: 8px;
   height: 36px;
@@ -1483,7 +1483,7 @@ select {
   margin-left: -30px;
 }
 .input-uf {
-  color: #acacac;
+  color: #233348;
   height: 34px;
   background: #ffffff;
   border: none;

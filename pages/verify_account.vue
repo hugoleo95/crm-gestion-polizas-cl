@@ -214,7 +214,7 @@ a:hover {
   line-height: 23px;
   left: 5%;
 
-  color: #acacac;
+  color: #233348;
 }
 
 .verify__input {
@@ -249,7 +249,7 @@ input.verify__input {
   font-size: 15px;
   line-height: 21px;
   cursor: pointer;
-  color: #acacac;
+  color: #233348;
 }
 .sincuenta a {
   font-weight: bold;

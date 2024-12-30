@@ -1174,7 +1174,7 @@ textarea:focus {
   line-height: 17px;
   font-size: 0.9rem;
   font-weight: 500;
-  color: #acacac !important;
+  color: #233348 !important;
   .icon {
     display: flex;
     &::after {
@@ -1184,14 +1184,14 @@ textarea:focus {
       content: "";
       width: 0.65em;
       height: 0.35em;
-      background-color: #acacac;
+      background-color: #233348;
       clip-path: polygon(25% 0, 50% 50%, 75% 0%, 100% 0, 50% 100%, 0 0);
     }
     svg {
       height: 18px;
       min-width: 14px;
       margin-right: 5px;
-      color: #acacac;
+      color: #233348;
     }
   }
 }
@@ -1209,7 +1209,7 @@ textarea:focus {
   margin-right: 7px;
 }
 input[type="checkbox"] {
-  color: #acacac !important;
+  color: #233348 !important;
   height: 16px !important;
   background: #ffffff !important;
   border: 1px solid #e1e1e1 !important;
@@ -1220,7 +1220,7 @@ input[type="checkbox"] {
   margin-right: 16px;
 }
 input[type="radio"] {
-  color: #acacac !important;
+  color: #233348 !important;
   height: 16px !important;
   background: #ffffff !important;
   border: 1px solid #e1e1e1 !important;
@@ -1372,7 +1372,7 @@ a:active {
 button {
   &.active {
     color: #000000;
-    border-bottom: 3px solid #acacac;
+    border-bottom: 3px solid #233348;
   }
 }
 input,
@@ -1524,7 +1524,7 @@ textarea {
   height: 60% !important;
   color: #000 !important;
   width: 100% !important;
-  border: 3px solid #acacac !important;
+  border: 3px solid #233348 !important;
   padding: 11px 20px !important;
   box-sizing: border-box !important;
   font-weight: 500 !important;

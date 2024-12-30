@@ -868,19 +868,19 @@
     color: red;
   }
   ::placeholder {
-    color: #acacac;
+    color: #233348;
     opacity: 0.7;
   }
   :-ms-input-placeholder {
-    color: #acacac;
+    color: #233348;
     opacity: 0.7;
   }
   ::-webkit-input-placeholder {
-    color: #acacac;
+    color: #233348;
     opacity: 0.7;
   } /* WebKit */
   ::-moz-placeholder {
-    color: #acacac;
+    color: #233348;
     opacity: 0.7;
   }
   .form-row {

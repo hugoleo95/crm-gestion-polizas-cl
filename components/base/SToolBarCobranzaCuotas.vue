@@ -574,7 +574,7 @@ export default {
     line-height: 17px;
     font-size: 0.9rem;
     font-weight: 500;
-    color: #acacac !important;
+    color: #233348 !important;
     .icon {
       display: flex;
       &::after {
@@ -584,14 +584,14 @@ export default {
         content: "";
         width: 0.65em;
         height: 0.35em;
-        background-color: #acacac;
+        background-color: #233348;
         clip-path: polygon(25% 0, 50% 50%, 75% 0%, 100% 0, 50% 100%, 0 0);
       }
       svg {
         height: 18px;
         min-width: 14px;
         margin-right: 5px;
-        color: #acacac;
+        color: #233348;
       }
     }
   }
@@ -599,7 +599,7 @@ export default {
     margin-bottom: 0;
   }
   input {
-    color: #acacac;
+    color: #233348;
     height: 36px;
     background: #ffffff;
     border: 1px solid #e1e1e1;
