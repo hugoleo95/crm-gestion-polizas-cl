@@ -1,0 +1,927 @@
+{
+    "tableFields": [
+        {
+            "key": "name",
+            "label": "Nombre",
+            "sortable": true
+        },
+        {
+            "key": "email",
+            "label": "Email",
+            "sortable": true
+        },
+        {
+            "key": "phone",
+            "label": "Teléfono"
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha",
+            "sortable": true
+        },
+        {
+            "key": "channel",
+            "label": "Canal",
+            "sortable": true
+        },
+        {
+            "key": "state",
+            "label": "Estado"
+        },
+        {
+            "key": "user_details",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "priority",
+            "label": "Prioridad"
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ],
+    "tableFieldsClient": [
+        {
+            "key": "name",
+            "label": "Nombre",
+            "sortable": true,
+            "class": "pl-4"
+        },
+        {
+            "key": "razon_social",
+            "label": "Razón social",
+            "sortable": true
+        },
+        {
+            "key": "rut",
+            "label": "Rut",
+            "sortable": true
+        },
+        {
+            "key": "email",
+            "label": "Email",
+            "sortable": true
+        },
+        {
+            "key": "phone",
+            "label": "Teléfono"
+        },
+        {
+            "key": "last_request_creation",
+            "label": "Ultima solicitud",
+            "sortable": true
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha creación",
+            "sortable": true
+        },
+        {
+            "key": "user_details",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ],
+    "tableFieldsClientFusion": [
+        {
+            "key": "selectedrow",
+            "label": "",
+            "sortable": false
+        },
+        {
+            "key": "name",
+            "label": "Nombre",
+            "sortable": true
+        },
+        {
+            "key": "razon_social",
+            "label": "Razón social",
+            "sortable": true
+        },
+        {
+            "key": "rut",
+            "label": "Rut",
+            "sortable": true
+        },
+        {
+            "key": "email",
+            "label": "Email",
+            "sortable": true
+        },
+        {
+            "key": "phone",
+            "label": "Teléfono"
+        },
+        {
+            "key": "last_request_creation",
+            "label": "Ultima solicitud",
+            "sortable": true
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha creación",
+            "sortable": true
+        },
+        {
+            "key": "user_details",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        }
+    ],
+    "tableFieldsCorporativo": [
+        {
+            "key": "poliza",
+            "label": "N° de póliza",
+            "sortable": true,
+            "class": "pl-4"
+        },
+        {
+            "key": "compania",
+            "label": "Compañía",
+            "sortable": true
+        },
+        {
+            "key": "valid_since",
+            "label": "Inicio vigencia",
+            "sortable": true
+        },
+        {
+            "key": "validity_until",
+            "label": "Fin vigencia",
+            "sortable": true
+        },
+        {
+            "key": "prima",
+            "label": "Prima"
+        },
+        {
+            "key": "comision",
+            "label": "Comisión",
+            "sortable": true
+        },
+        {
+            "key": "name",
+            "label": "Nombre asegurado",
+            "sortable": true,
+            "thStyle": "color: #0097A7;"
+        },
+        {
+            "key": "rut",
+            "label": "RUT asegurado",
+            "sortable": true,
+            "thStyle": "color: #0097A7;"
+        },
+        {
+            "key": "profesion",
+            "label": "Profesión",
+            "sortable": true,
+            "thStyle": "color: #0097A7;"
+        },
+        {
+            "key": "especialidad",
+            "label": "Especialidad",
+            "sortable": true,
+            "thStyle": "color: #0097A7;"
+        },
+        {
+            "key": "endoso",
+            "label": "Tipo endoso",
+            "sortable": true,
+            "thStyle": "color: #0097A7;"
+        }
+    ],
+    "tableFieldsRequest": [
+        {
+            "key": "priority_score",
+            "label": "",
+            "sortable": false
+        },
+        {
+            "key": "lead_details",
+            "label": "Nombre",
+            "sortable": true
+        },
+        {
+            "key": "razon_social",
+            "label": "Razón social",
+            "sortable": true
+        },
+        {
+            "key": "phone",
+            "label": "Teléfono",
+            "sortable": true
+        },
+        {
+            "key": "request_type",
+            "label": "Tipo solicitud",
+            "sortable": true
+        },
+        {
+            "key": "product_group",
+            "label": "Producto",
+            "sortable": true
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha",
+            "sortable": true
+        },
+        {
+            "key": "state",
+            "label": "Estado",
+            "sortable": true
+        },
+        {
+            "key": "user_details",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ],
+    "tableFieldsRequestVentas": [
+        {
+            "key": "priority_score",
+            "label": "",
+            "sortable": false
+        },
+        {
+            "key": "lead_details",
+            "label": "Nombre",
+            "sortable": true
+        },
+        {
+            "key": "razon_social",
+            "label": "Razón social",
+            "sortable": true
+        },
+        {
+            "key": "phone",
+            "label": "Teléfono",
+            "sortable": true
+        },
+        {
+            "key": "product_group",
+            "label": "Producto",
+            "sortable": true
+        },
+        {
+            "key": "prima",
+            "label": "Prima",
+            "sortable": true
+        },
+        {
+            "key": "comision_final",
+            "label": "comisión final",
+            "sortable": true
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha",
+            "sortable": true
+        },
+        {
+            "key": "state",
+            "label": "Estado",
+            "sortable": true
+        },
+        {
+            "key": "user_details",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ],
+    "tableFieldsCobranza": [
+        {
+            "key": "name",
+            "label": "Nombre",
+            "sortable": false
+        },
+        {
+            "key": "product_name",
+            "label": "Producto",
+            "sortable": true
+        },
+        {
+            "key": "nro_poliza",
+            "label": "Numero Poliza",
+            "sortable": true
+        },
+        {
+            "key": "n_cuotas",
+            "label": "N° de cuotas",
+            "sortable": true
+        },
+        {
+            "key": "valor_proxima_cuota",
+            "label": "Valor próxima cuota",
+            "sortable": true
+        },
+        {
+            "key": "current_payment_type",
+            "label": "Tipo de pago",
+            "sortable": true
+        },
+        {
+            "key": "fecha_pago",
+            "label": "Fecha de pago",
+            "sortable": true
+        },
+        {
+            "key": "dues_list",
+            "label": "Estado",
+            "sortable": true
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha Creación",
+            "sortable": true
+        },
+        {
+            "key": "executive",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ],
+    "tableFieldsCobranzaPagos": [
+        {
+            "key": "rut",
+            "label": "RUT",
+            "sortable": true
+        },
+        {
+            "key": "razon_social",
+            "label": "Razón social",
+            "sortable": false
+        },
+        {
+            "key": "nro_poliza",
+            "label": "Poliza",
+            "sortable": true
+        },
+        {
+            "key": "company",
+            "label": "Compañía",
+            "sortable": true
+        },
+        {
+            "key": "status_dues",
+            "label": "Cuotas",
+            "sortable": true
+        },
+        {
+            "key": "payment_date",
+            "label": "Fecha",
+            "sortable": true
+        },
+        {
+            "key": "state",
+            "label": "Estatus",
+            "sortable": true
+        },
+        {
+            "key": "executive",
+            "label": "Kam",
+            "sortable": true
+        },
+        {
+            "key": "reminder_sent",
+            "label": "Notificación",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": ""
+        }
+    ],
+    "tableFieldsRC": [
+        {
+            "key": "persons",
+            "label": "Nombre",
+            "sortable": true
+        },
+        {
+            "key": "general_data",
+            "label": "Cotización",
+            "sortable": true
+        },
+        {
+            "key": "nro_policy",
+            "label": "Numero Poliza",
+            "sortable": true
+        },
+        {
+            "key": "payment_plan",
+            "label": "Pagado",
+            "sortable": true
+        },
+        {
+            "key": "prima_total",
+            "label": "Prima",
+            "sortable": true
+        },
+        {
+            "key": "type_proposal",
+            "label": "Tipo propuesta",
+            "sortable": true
+        },
+        {
+            "key": "state",
+            "label": "Estado",
+            "sortable": true
+        },
+        {
+            "key": "metadata",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ],
+    "tableFieldsMP": [
+        {
+            "key": "persons",
+            "label": "Nombre",
+            "sortable": true
+        },
+        {
+            "key": "policy_data",
+            "label": "Numero Poliza",
+            "sortable": true
+        },
+        {
+            "key": "paid",
+            "label": "Pagado",
+            "sortable": true
+        },
+        {
+            "key": "prima_total",
+            "label": "Prima",
+            "sortable": true
+        },
+        {
+            "key": "type_proposal",
+            "label": "Tipo propuesta",
+            "sortable": true
+        },
+        {
+            "key": "state",
+            "label": "Estado",
+            "sortable": true
+        },
+        {
+            "key": "user_details",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ],
+    "tableFieldsGA": [
+        {
+            "key": "contractor_name",
+            "label": "Nombre",
+            "sortable": true
+        },
+        {
+            "key": "additional_data",
+            "label": "Numero Poliza",
+            "sortable": true
+        },
+        {
+            "key": "tipo_ga",
+            "label": "Tipo",
+            "sortable": true
+        },
+        {
+            "key": "nro_licitacion",
+            "label": "Nro Licitación",
+            "sortable": true
+        },
+        {
+            "key": "prima_total",
+            "label": "Prima",
+            "sortable": true
+        },
+        {
+            "key": "payment_state",
+            "label": "Estado",
+            "sortable": true
+        },
+        {
+            "key": "status_renta",
+            "label": "Renta",
+            "sortable": true
+        },
+        {
+            "key": "user_details",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "created_at",
+            "label": "Fecha",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ],
+    "tableFieldsMudangoPartners": [
+        {
+            "key": "nro_id_servicio",
+            "label": "Nro Del Servicio",
+            "sortable": true
+        },
+        {
+            "key": "user_full_name",
+            "label": "Nombre",
+            "sortable": true
+        },
+        {
+            "key": "rfc",
+            "label": "RFC ",
+            "sortable": true
+        },
+        {
+            "key": "email",
+            "label": "Email",
+            "sortable": true
+        },
+        {
+            "key": "phone",
+            "label": "Telefono",
+            "sortable": true
+        },
+        {
+            "key": "start_day",
+            "label": "Fecha Salida",
+            "sortable": true
+        },
+        {
+            "key": "end_day",
+            "label": "Fecha Llegada",
+            "sortable": true
+        },
+        {
+            "key": "plan_cost",
+            "label": "Plan Costo",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Ver Detalle"
+        }
+    ],
+    "statesKeys": [
+        "en_espera_de_informacion_cliente",
+        "en_espera_de_pago",
+        "en_espera_de_precio",
+        "en_espera_de_confirmacion",
+        "resuelto",
+        "en_licitacion",
+        "sin_estado",
+        "abandono",
+        "volver_a_llamar",
+        "derivado_a_kam",
+        "dg_contactado",
+        "sin_contactar",
+        "dg_sin_contactar",
+        "no_contactar",
+        "error_de_pago"
+    ],
+    "typesbuyKeys": [
+        null,
+        "contado",
+        "contado_transbank",
+        "pac_activo",
+        "pac_no_activo",
+        "pat_activo",
+        "pat_no_activo",
+        "aviso_de_cobranza",
+        "suscripcion_transbank",
+        "anual",
+        "mensual",
+        "semestral"
+    ],
+    "request_typeKeys": [
+        null,
+        "alianza_comercial",
+        "solicitud_cotizacion",
+        "cancelacion_o_anulacion_de_poliza",
+        "denuncia_siniestro",
+        "endosos",
+        "renovacion",
+        "soporte",
+        "solicitud_informacion_productos"
+    ],
+    "request_groupmx": [
+        "sin_grupo",
+        "seguro_de_responsabilidad_civil",
+        "seguro_de_danos",
+        "seguro_de_transporte_y_carga",
+        "seguro_de_vehiculos",
+        "seguro_de_proteccion_cibernetica",
+        "otros_seguros",
+        "seguro_colectivo_de_gastos_medicos_mayores",
+        "affinity"
+    ],
+    "request_groupcl": [
+        "sin_grupo",
+        "diagnostico_de_riesgo",
+        "seguro_de_accidentes_personales",
+        "seguro_de_responsabilidad_civil",
+        "seguros_para_la_ingenieria",
+        "seguro_de_vehiculos",
+        "seguro_de_incendio_sismo_y_robo",
+        "seguro_de_transporte_y_carga",
+        "otros_seguros",
+        "seguro_colectivo_de_salud",
+        "seguro_de_garantia"
+    ],
+    "detailedStates": {
+        "abandono": {
+            "class": "abandono",
+            "text": "Abandono",
+            "icon": "times"
+        },
+        "perdido": {
+            "class": "perdido",
+            "text": "Perdido",
+            "icon": "times"
+        },
+        "resuelto": {
+            "class": "confirmacion",
+            "text": "Resuelto",
+            "icon": "check"
+        },
+        "cliente_no_aplica": {
+            "class": "perdido",
+            "text": "No aplica",
+            "icon": "times"
+        },
+        "en_espera_de_informacion_cliente": {
+            "class": "informacion",
+            "text": "Informacion",
+            "icon": "clock"
+        },
+        "en_espera_de_precio": {
+            "class": "informacion",
+            "text": "Precio",
+            "icon": "clock"
+        },
+        "en_espera_de_pago": {
+            "class": "informacion",
+            "text": "Espera Pago",
+            "icon": "clock"
+        },
+        "en_espera_de_confirmacion": {
+            "class": "confirmacion",
+            "text": "Confirmación",
+            "icon": "clock"
+        },
+        "en_licitacion": {
+            "class": "licitacion",
+            "text": "En licitacion",
+            "icon": "gavel"
+        },
+        "sin_contactar": {
+            "class": "sin_contactar",
+            "text": "Sin contactar",
+            "icon": "clock"
+        },
+        "sin_estado": {
+            "class": "sin-estado",
+            "text": "Sin estado",
+            "icon": "circle"
+        },
+        "contactado": {
+            "class": "licitacion",
+            "text": "Contactado",
+            "icon": "check"
+        },
+        "cliente_cerrado": {
+            "class": "cerrado",
+            "text": "Cerrado",
+            "icon": "check"
+        },
+        "volver_a_llamar": {
+            "class": "llamar",
+            "text": "Volver a Llamar",
+            "icon": "phone"
+        },
+        "no_contactar": {
+            "class": "perdido",
+            "text": "No Contactar",
+            "icon": "times"
+        },
+        "derivado_a_kam": {
+            "class": "confirmacion",
+            "text": "Derivado a KAM"
+        },
+        "dg_sin_contactar": {
+            "class": "perdido",
+            "text": "Sin contactar",
+            "icon": "circle"
+        },
+        "error_de_pago": {
+            "class": "error_de_pago",
+            "text": "Error pago",
+            "icon": "exclamation-triangle"
+        }
+    },
+    "detailedStatesGA": {
+        "failed": {
+            "class": "failed",
+            "text": "Fallido",
+            "icon": "circle"
+        },
+        "paid": {
+            "class": "paid",
+            "text": "Pagado",
+            "icon": "check"
+        },
+        "pending": {
+            "class": "pending",
+            "text": "Pendiente",
+            "icon": "clock"
+        },
+        "canceled": {
+            "class": "canceled",
+            "text": "Cancelada",
+            "icon": "times"
+        }
+    },
+    "detailedStatesRC": {
+        "not_processed": {
+            "class": "not_processed",
+            "text": "No procesado",
+            "icon": "clock"
+        },
+        "processed": {
+            "class": "processed",
+            "text": "Procesado",
+            "icon": "check"
+        },
+        "quote": {
+            "class": "quote",
+            "text": "Cotización"
+        },
+        "cancelled": {
+            "class": "cancelled",
+            "text": "Cancelado"
+        },
+        "proposal": {
+            "class": "proposal",
+            "text": "Propuesta"
+        }
+    },
+    "priorities": [
+        "sin_prioridad",
+        "alta",
+        "media",
+        "baja"
+    ],
+    "products": [
+        "asistencia_viaje",
+        "complementario_salud_individual",
+        "asistencia_telemedicina",
+        "accidentes_personales",
+        "garantia",
+        "garantia_corfo",
+        "garantia_sercotec",
+        "ap_digital",
+        "ap_colectivo",
+        "ap_individual",
+        "arriendo",
+        "asiento_pasajero",
+        "automovil",
+        "condominio",
+        "ciber",
+        "equipo_movil",
+        "equipo_pesado",
+        "espacios_comunes",
+        "d_and_o",
+        "rc_stand_eventos",
+        "flota_vehiculos",
+        "gastos_medicos_mayores",
+        "gastos_medicos_mayores_individual",
+        "hogar",
+        "incendio",
+        "moto",
+        "rc",
+        "rc_mal_praxis",
+        "rc_profesional",
+        "transporte_terrestre",
+        "trc",
+        "vehiculos_pesados",
+        "rc_mop_digital",
+        "rc_construccion_digital",
+        "rc_empresas_digital",
+        "rc_mercosur",
+        "rc_motos_autos",
+        "ap_individual",
+        "apv",
+        "salud",
+        "vida",
+        "asistencia_telemedicina",
+        "seguro_pyme",
+        "minipyme",
+        "vida_tradicional",
+        "seguro_covid",
+        "colectivo_vida",
+        "colectivo_salud",
+        "colectivo_salud_bci",
+        "risk_diagnostic",
+        "ap_mas_vida_guardia",
+        "rc_empresas",
+        "rc_construccion",
+        "rc_medica",
+        "rc_drone",
+        "todo_riesgo_de_construccion",
+        "vehiculos_livianos",
+        "property",
+        "carga_anual",
+        "carga_unica",
+        "vida_conductor",
+        "garantia_publica",
+        "garantia_privada",
+        "seriedad_oferta",
+        "fiel_cumplimiento",
+        "rc_actividades_inmuebles",
+        "seguro_de_credito",
+        "rc_constratistas",
+        "maquinaria_pesada",
+        "mok",
+        "paquetes_vida",
+        "paquetes_ap",
+        null
+    ],
+    "tableFieldsCuotasVencidas": [
+        {
+            "key": "date",
+            "label": "Fecha de Cuota",
+            "sortable": true
+        },
+        {
+            "key": "company",
+            "label": "Compañía",
+            "sortable": true
+        },
+        {
+            "key": "amount",
+            "label": "Monto",
+            "sortable": true
+        },
+        {
+            "key": "cobranza_payment_type",
+            "label": "Tipo de pago",
+            "sortable": true
+        },
+        {
+            "key": "executive",
+            "label": "Ejecutiva/o",
+            "sortable": true
+        },
+        {
+            "key": "nro_poliza",
+            "label": "Numero Poliza",
+            "sortable": true
+        },
+        {
+            "key": "actions",
+            "label": "Acciones"
+        }
+    ]
+}

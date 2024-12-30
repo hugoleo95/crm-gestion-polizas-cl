@@ -1,0 +1,55 @@
+[
+    {
+        "key": "nro_poliza",
+        "label": "N° póliza"
+    },
+    {
+        "key": "razon_social",
+        "label": "Razón social"
+    },
+    {
+        "key": "name",
+        "label": "Producto",
+        "sortable": true
+    },
+    {
+        "label": "Compañia",
+        "key": "company",
+        "sortable": true
+    },
+    {
+        "key": "fecha_inicio_vigencia",
+        "label": "Inicio vigencia",
+        "sortable": true
+    },
+    {
+        "key": "fecha_termino_vigencia",
+        "label": "Término vigencia",
+        "sortable": true
+    },
+    {
+        "key": "prima",
+        "label": "Prima"
+    },
+    {
+        "key": "comision",
+        "label": "Comisión"
+    },
+    {
+        "key": "state",
+        "label": "Estado"
+    },
+    {
+        "key": "product_type",
+        "label": "Tipo"
+    },
+    {
+        "key": "user",
+        "label": "Ejecutiva/o",
+        "sortable": true
+    },
+    {
+        "key": "actions",
+        "label": "Acciones"
+    }
+]

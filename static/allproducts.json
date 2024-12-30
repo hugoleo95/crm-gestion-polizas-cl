@@ -1,0 +1,234 @@
+[
+  {
+    "value": "risk_diagnostic",
+    "text": "Diagnóstico De Riesgo"
+  },
+  {
+    "value": "ap_digital",
+    "text": "AP Digital"
+  },
+  {
+    "value": "ap_colectivo",
+    "text": "AP Colectivo"
+  },
+  {
+    "value": "ap_individual",
+    "text": "AP Individual"
+  },
+  {
+    "value": "ap_mas_vida_guardia",
+    "text": "AP + Vida Guardias"
+  },
+  {
+    "value": "rc_empresas_digital",
+    "text": "RC Digital Empresas"
+  },
+  {
+    "value": "rc_mercosur",
+    "text": "RCI Mercosur"
+  },
+  {
+    "value": "rc_mop_digital",
+    "text": "RC Digital MOP"
+  },
+  {
+    "value": "rc_construccion_digital",
+    "text": "RC Digital Construcción"
+  },
+  {
+    "value": "rc_empresas",
+    "text": "RC Empresa"
+  },
+  {
+    "value": "rc_construccion",
+    "text": "RC Construcción"
+  },
+  {
+    "value": "rc_medica",
+    "text": "RC Médica"
+  },
+  {
+    "value": "rc_profesional",
+    "text": "RC Profesional"
+  },
+  {
+    "value": "rc_drone",
+    "text": "RC Drone"
+  },
+  {
+    "value": "d_and_o",
+    "text": "RC D&O"
+  },
+  {
+    "value": "rc",
+    "text": "RC(Producto antiguo)"
+  },
+  {
+    "value": "rc_mal_praxis",
+    "text": "RC Mal Praxis (Producto antiguo)"
+  },
+  {
+    "value": "todo_riesgo_de_construccion",
+    "text": "Todo Riesgo De Construcción"
+  },
+  {
+    "value": "equipo_movil",
+    "text": "Equipo Movil"
+  },
+  {
+    "value": "trc",
+    "text": "TRC (Producto antiguo)"
+  },
+  {
+    "value": "vehiculos_pesados",
+    "text": "Vehiculos Pesados"
+  },
+  {
+    "value": "vehiculos_livianos",
+    "text": "Vehículo Liviano"
+  },
+  {
+    "value": "flota_vehiculos",
+    "text": "Flota Vehiculos"
+  },
+  {
+    "value": "moto",
+    "text": "Motocicletas"
+  },
+  {
+    "value": "automovil",
+    "text": "Automovil (Producto antiguo)"
+  },
+  {
+    "value": "property",
+    "text": "Property"
+  },
+  {
+    "text": "Pyme",
+    "value": "seguro_pyme"
+  },
+  {
+    "text": "Minipyme",
+    "value": "minipyme"
+  },
+  {
+    "text": "Hogar (Producto antiguo)",
+    "value": "hogar"
+  },
+  {
+    "text": "Incendio (Producto antiguo)",
+    "value": "incendio"
+  },
+  {
+    "text": "Carga Anual",
+    "value": "carga_anual"
+  },
+  {
+    "text": "Carga Única",
+    "value": "carga_unica"
+  },
+  {
+    "text": "Transporte Terrestre (Producto antiguo)",
+    "value": "transporte_terrestre"
+  },
+  {
+    "text": "Asiento De Pasajeros",
+    "value": "asiento_pasajero"
+  },
+  {
+    "text": "Vida Conductor",
+    "value": "vida_conductor"
+  },
+  {
+    "text": "Condominio / Espacios Comunes",
+    "value": "espacios_comunes"
+  },
+  {
+    "text": "Complementario Salud Individual",
+    "value": "complementario_salud_individual"
+  },
+  {
+    "text": "Asistencia En Viaje",
+    "value": "asistencia_viaje"
+  },
+  {
+    "text": "Asistencia Telemedicina",
+    "value": "asistencia_telemedicina"
+  },
+  {
+    "text": "Condominio (Producto antiguo)",
+    "value": "condominio"
+  },
+  {
+    "text": "Arriendo (Producto antiguo)",
+    "value": "arriendo"
+  },
+  {
+    "text": "Vida Tradicional",
+    "value": "vida_tradicional"
+  },
+  {
+    "text": "APV (Producto antiguo)",
+    "value": "apv"
+  },
+  {
+    "text": "Colectivo Vida (Producto antiguo)",
+    "value": "colectivo_vida"
+  },
+  {
+    "text": "Colectivo De Salud",
+    "value": "colectivo_salud"
+  },
+  {
+    "text": "Colectivo De Salud BCI",
+    "value": "colectivo_salud_bci"
+  },
+  {
+    "text": "Salud (Producto antiguo)",
+    "value": "salud"
+  },
+  {
+    "text": "Seguro COVID (Producto antiguo)",
+    "value": "seguro_covid"
+  },
+  {
+    "text": "Garantía Pública (Producto antiguo)",
+    "value": "garantia_publica"
+  },
+  {
+    "text": "Garantía Privada (Producto antiguo)",
+    "value": "garantia_privada"
+  },
+  {
+    "text": "Seriedad de oferta",
+    "value": "seriedad_oferta"
+  },
+  {
+    "text": "Fiel Cumplimiento",
+    "value": "fiel_cumplimiento"
+  },
+  {
+    "text": "Correcto Uso de Anticipo",
+    "value": "correcto_uso"
+  },
+  {
+    "text": "Otras Garantías",
+    "value": "otras_garantias"
+  },
+  {
+    "text": "Seguro de Crédito ",
+    "value": "seguro_de_credito"
+  },
+  {
+    "text": "Garantía CORFO (Producto antiguo)",
+    "value": "garantia_corfo"
+  },
+  {
+    "text": "Garantía SERCOTEC (Producto antiguo)",
+    "value": "garantia_sercotec"
+  },
+  {
+    "text": "Garantía (Producto antiguo)",
+    "value": "garantia"
+  }
+]

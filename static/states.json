@@ -1,0 +1,62 @@
+[
+  {
+    "value": "abandono",
+    "text": "Abandono"
+  },
+  {
+    "value": "cliente_cerrado",
+    "text": "Cerrado"
+  },
+  {
+    "value": "cliente_no_aplica",
+    "text": "Cliente no aplica"
+  },
+  {
+    "value": "en_espera_de_informacion_cliente",
+    "text": "Espera de informacion"
+  },
+  {
+    "value": "en_espera_de_pago",
+    "text": "Espera de pago"
+  },
+  {
+    "value": "en_espera_de_precio",
+    "text": "Espera de precio"
+  },
+  {
+    "value": "en_espera_de_confirmacion",
+    "text": "Espera de confirmación"
+  },
+  {
+    "value": "en_licitacion",
+    "text": "En licitación"
+  },
+  {
+    "value": "error_de_pago",
+    "text": "Error de pago"
+  },
+  {
+    "value": "no_contactar",
+    "text": "No Contactar"
+  },
+  {
+    "value": "derivado_a_kam",
+    "text": "Derivado a KAM"
+  },
+  {
+    "value": "perdido",
+    "text": "Perdido"
+  },
+  {
+    "value": "sin_contactar",
+    "text": "Sin contactar"
+  },
+  {
+    "value": "sin_estado",
+    "text": "Sin estado"
+  },
+  {
+    "value": "volver_a_llamar",
+    "text": "Volver a Llamar"
+  }
+]

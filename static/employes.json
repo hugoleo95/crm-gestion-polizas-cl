@@ -1,0 +1,94 @@
+[
+    {
+        "value": "1-20",
+        "text": "Hasta 20"
+    },
+    {
+        "value": "21-50",
+        "text": "Hasta 50"
+    },
+    {
+        "value": "1-50",
+        "text": "Entre 1 y 50 "
+    },
+    {
+        "value": "51-100",
+        "text": "Entre 51 y 100"
+    },
+    {
+        "value": "101-125",
+        "text": "Entre 101 y 125"
+    },
+    {
+        "value": "126-150",
+        "text": "Entre 126 y 150"
+    },
+    {
+        "value": "151-175",
+        "text": "Entre 151 y 175"
+    },
+    {
+        "value": "176-200",
+        "text": "Entre 176 y 200"
+    },
+    {
+        "value": ">200",
+        "text": ">200"
+    },
+    {
+        "value": "201-225",
+        "text": "Entre 201 y 225"
+    },
+    {
+        "value": "226-250",
+        "text": "Entre 226 y 250"
+    },
+    {
+        "value": "251-275",
+        "text": "Entre 251 y 275"
+    },
+    {
+        "value": "276-300",
+        "text": "Entre 276 y 300"
+    },
+    {
+        "value": "301-325",
+        "text": "Entre 301 y 325"
+    },
+    {
+        "value": "326-350",
+        "text": "Entre 326 y 350"
+    },
+    {
+        "value": "351-375",
+        "text": "Entre 351 y 375"
+    },
+    {
+        "value": "376-400",
+        "text": "Entre 376 y 400"
+    },
+    {
+        "value": "401-425",
+        "text": "Entre 401 y 425"
+    },
+    {
+        "value": "426-450",
+        "text": "Entre 426 y 450"
+    },
+    {
+        "value": "451-475",
+        "text": "Entre 451 y 475"
+    },
+    {
+        "value": "476-500",
+        "text": "Entre 476 y 500"
+    },
+    {
+        "value": "501-525",
+        "text": "Entre 501 y 525"
+    },
+    {
+        "value": "526-550",
+        "text": "Entre 526 y 550"
+    }
+]

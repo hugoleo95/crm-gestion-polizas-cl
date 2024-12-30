@@ -1,0 +1,1390 @@
+[
+    {
+      "value": "ALGARROBO",
+      "text": "ALGARROBO"
+    },
+    {
+      "value": "ALHUE",
+      "text": "ALHUE"
+    },
+    {
+      "value": "ALTO BIO BIO",
+      "text": "ALTO BIO BIO"
+    },
+    {
+      "value": "ALTO DEL CARMEN",
+      "text": "ALTO DEL CARMEN"
+    },
+    {
+      "value": "ALTO HOSPICIO",
+      "text": "ALTO HOSPICIO"
+    },
+    {
+      "value": "ANCUD",
+      "text": "ANCUD"
+    },
+    {
+      "value": "ANDACOLLO",
+      "text": "ANDACOLLO"
+    },
+    {
+      "value": "ANGOL",
+      "text": "ANGOL"
+    },
+    {
+      "value": "ANTOFAGASTA",
+      "text": "ANTOFAGASTA"
+    },
+    {
+      "value": "ANTUCO",
+      "text": "ANTUCO"
+    },
+    {
+      "value": "ANTÁRTICA",
+      "text": "ANTÁRTICA"
+    },
+    {
+      "value": "ARAUCO",
+      "text": "ARAUCO"
+    },
+    {
+      "value": "ARICA",
+      "text": "ARICA"
+    },
+    {
+      "value": "AYSEN / AISEN",
+      "text": "AYSEN / AISEN"
+    },
+    {
+      "value": "BUIN",
+      "text": "BUIN"
+    },
+    {
+      "value": "BULNES",
+      "text": "BULNES"
+    },
+    {
+      "value": "CABILDO",
+      "text": "CABILDO"
+    },
+    {
+      "value": "CABO DE HORNOS",
+      "text": "CABO DE HORNOS"
+    },
+    {
+      "value": "CABRERO",
+      "text": "CABRERO"
+    },
+    {
+      "value": "CALAMA",
+      "text": "CALAMA"
+    },
+    {
+      "value": "CALBUCO",
+      "text": "CALBUCO"
+    },
+    {
+      "value": "CALDERA",
+      "text": "CALDERA"
+    },
+    {
+      "value": "CALERA DE TANGO",
+      "text": "CALERA DE TANGO"
+    },
+    {
+      "value": "CALLE LARGA",
+      "text": "CALLE LARGA"
+    },
+    {
+      "value": "CAMARONES",
+      "text": "CAMARONES"
+    },
+    {
+      "value": "CAMIÑA",
+      "text": "CAMIÑA"
+    },
+    {
+      "value": "CANELA",
+      "text": "CANELA"
+    },
+    {
+      "value": "CARAHUE",
+      "text": "CARAHUE"
+    },
+    {
+      "value": "CARTAGENA",
+      "text": "CARTAGENA"
+    },
+    {
+      "value": "CASABLANCA",
+      "text": "CASABLANCA"
+    },
+    {
+      "value": "CASTRO",
+      "text": "CASTRO"
+    },
+    {
+      "value": "CATEMU",
+      "text": "CATEMU"
+    },
+    {
+      "value": "CAUQUENES",
+      "text": "CAUQUENES"
+    },
+    {
+      "value": "CAÑETE",
+      "text": "CAÑETE"
+    },
+    {
+      "value": "CERRILLOS",
+      "text": "CERRILLOS"
+    },
+    {
+      "value": "CERRO NAVIA",
+      "text": "CERRO NAVIA"
+    },
+    {
+      "value": "CHAITEN",
+      "text": "CHAITEN"
+    },
+    {
+      "value": "CHANCO",
+      "text": "CHANCO"
+    },
+    {
+      "value": "CHAÑARAL",
+      "text": "CHAÑARAL"
+    },
+    {
+      "value": "CHEPICA",
+      "text": "CHEPICA"
+    },
+    {
+      "value": "CHIGUAYANTE",
+      "text": "CHIGUAYANTE"
+    },
+    {
+      "value": "CHILE CHICO",
+      "text": "CHILE CHICO"
+    },
+    {
+      "value": "CHILLAN",
+      "text": "CHILLAN"
+    },
+    {
+      "value": "CHILLAN VIEJO",
+      "text": "CHILLAN VIEJO"
+    },
+    {
+      "value": "CHIMBARONGO",
+      "text": "CHIMBARONGO"
+    },
+    {
+      "value": "CHOLCHOL",
+      "text": "CHOLCHOL"
+    },
+    {
+      "value": "CHONCHI",
+      "text": "CHONCHI"
+    },
+    {
+      "value": "CISNES",
+      "text": "CISNES"
+    },
+    {
+      "value": "COBQUECURA",
+      "text": "COBQUECURA"
+    },
+    {
+      "value": "COCHAMO",
+      "text": "COCHAMO"
+    },
+    {
+      "value": "COCHRANE",
+      "text": "COCHRANE"
+    },
+    {
+      "value": "CODEGUA",
+      "text": "CODEGUA"
+    },
+    {
+      "value": "COELEMU",
+      "text": "COELEMU"
+    },
+    {
+      "value": "COIHUECO",
+      "text": "COIHUECO"
+    },
+    {
+      "value": "COINCO",
+      "text": "COINCO"
+    },
+    {
+      "value": "COLBUN",
+      "text": "COLBUN"
+    },
+    {
+      "value": "COLCHANE",
+      "text": "COLCHANE"
+    },
+    {
+      "value": "COLINA",
+      "text": "COLINA"
+    },
+    {
+      "value": "COLLIPULLI",
+      "text": "COLLIPULLI"
+    },
+    {
+      "value": "COLTAUCO",
+      "text": "COLTAUCO"
+    },
+    {
+      "value": "COMBARBALA",
+      "text": "COMBARBALA"
+    },
+    {
+      "value": "CONCEPCION",
+      "text": "CONCEPCION"
+    },
+    {
+      "value": "CONCHALI",
+      "text": "CONCHALI"
+    },
+    {
+      "value": "CONCON",
+      "text": "CONCON"
+    },
+    {
+      "value": "CONSTITUCION",
+      "text": "CONSTITUCION"
+    },
+    {
+      "value": "CONTULMO",
+      "text": "CONTULMO"
+    },
+    {
+      "value": "COPIAPO",
+      "text": "COPIAPO"
+    },
+    {
+      "value": "COQUIMBO",
+      "text": "COQUIMBO"
+    },
+    {
+      "value": "CORONEL",
+      "text": "CORONEL"
+    },
+    {
+      "value": "CORRAL",
+      "text": "CORRAL"
+    },
+    {
+      "value": "COYHAIQUE / COIHAIQUE",
+      "text": "COYHAIQUE / COIHAIQUE"
+    },
+    {
+      "value": "CUNCO",
+      "text": "CUNCO"
+    },
+    {
+      "value": "CURACAUTIN",
+      "text": "CURACAUTIN"
+    },
+    {
+      "value": "CURACAVI",
+      "text": "CURACAVI"
+    },
+    {
+      "value": "CURACO DE VELEZ",
+      "text": "CURACO DE VELEZ"
+    },
+    {
+      "value": "CURANILAHUE",
+      "text": "CURANILAHUE"
+    },
+    {
+      "value": "CURARREHUE",
+      "text": "CURARREHUE"
+    },
+    {
+      "value": "CUREPTO",
+      "text": "CUREPTO"
+    },
+    {
+      "value": "CURICO",
+      "text": "CURICO"
+    },
+    {
+      "value": "DALCAHUE",
+      "text": "DALCAHUE"
+    },
+    {
+      "value": "DIEGO DE ALMAGRO",
+      "text": "DIEGO DE ALMAGRO"
+    },
+    {
+      "value": "DOÑIHUE",
+      "text": "DOÑIHUE"
+    },
+    {
+      "value": "EL BOSQUE",
+      "text": "EL BOSQUE"
+    },
+    {
+      "value": "EL CARMEN",
+      "text": "EL CARMEN"
+    },
+    {
+      "value": "EL MONTE",
+      "text": "EL MONTE"
+    },
+    {
+      "value": "EL QUISCO",
+      "text": "EL QUISCO"
+    },
+    {
+      "value": "EL TABO",
+      "text": "EL TABO"
+    },
+    {
+      "value": "EMPEDRADO",
+      "text": "EMPEDRADO"
+    },
+    {
+      "value": "ERCILLA",
+      "text": "ERCILLA"
+    },
+    {
+      "value": "ESTACION CENTRAL",
+      "text": "ESTACION CENTRAL"
+    },
+    {
+      "value": "FLORIDA",
+      "text": "FLORIDA"
+    },
+    {
+      "value": "FREIRE",
+      "text": "FREIRE"
+    },
+    {
+      "value": "FREIRINA",
+      "text": "FREIRINA"
+    },
+    {
+      "value": "FRESIA",
+      "text": "FRESIA"
+    },
+    {
+      "value": "FRUTILLAR",
+      "text": "FRUTILLAR"
+    },
+    {
+      "value": "FUTALEUFU",
+      "text": "FUTALEUFU"
+    },
+    {
+      "value": "FUTRONO",
+      "text": "FUTRONO"
+    },
+    {
+      "value": "GALVARINO",
+      "text": "GALVARINO"
+    },
+    {
+      "value": "GENERAL LAGOS",
+      "text": "GENERAL LAGOS"
+    },
+    {
+      "value": "GORBEA",
+      "text": "GORBEA"
+    },
+    {
+      "value": "GRANEROS",
+      "text": "GRANEROS"
+    },
+    {
+      "value": "GUAITECAS",
+      "text": "GUAITECAS"
+    },
+    {
+      "value": "HIJUELAS",
+      "text": "HIJUELAS"
+    },
+    {
+      "value": "HUALAIHUE",
+      "text": "HUALAIHUE"
+    },
+    {
+      "value": "HUALAÑE",
+      "text": "HUALAÑE"
+    },
+    {
+      "value": "HUALPEN",
+      "text": "HUALPEN"
+    },
+    {
+      "value": "HUALQUI",
+      "text": "HUALQUI"
+    },
+    {
+      "value": "HUARA",
+      "text": "HUARA"
+    },
+    {
+      "value": "HUASCO",
+      "text": "HUASCO"
+    },
+    {
+      "value": "HUECHURABA",
+      "text": "HUECHURABA"
+    },
+    {
+      "value": "ILLAPEL",
+      "text": "ILLAPEL"
+    },
+    {
+      "value": "INDEPENDENCIA",
+      "text": "INDEPENDENCIA"
+    },
+    {
+      "value": "IQUIQUE",
+      "text": "IQUIQUE"
+    },
+    {
+      "value": "ISLA DE MAIPO",
+      "text": "ISLA DE MAIPO"
+    },
+    {
+      "value": "ISLA DE PASCUA",
+      "text": "ISLA DE PASCUA"
+    },
+    {
+      "value": "ISLA JUAN FERNANDEZ",
+      "text": "ISLA JUAN FERNANDEZ"
+    },
+    {
+      "value": "LA CALERA",
+      "text": "LA CALERA"
+    },
+    {
+      "value": "LA CISTERNA",
+      "text": "LA CISTERNA"
+    },
+    {
+      "value": "LA CRUZ",
+      "text": "LA CRUZ"
+    },
+    {
+      "value": "LA ESTRELLA",
+      "text": "LA ESTRELLA"
+    },
+    {
+      "value": "LA FLORIDA",
+      "text": "LA FLORIDA"
+    },
+    {
+      "value": "LA GRANJA",
+      "text": "LA GRANJA"
+    },
+    {
+      "value": "LA HIGUERA",
+      "text": "LA HIGUERA"
+    },
+    {
+      "value": "LA LIGUA",
+      "text": "LA LIGUA"
+    },
+    {
+      "value": "LA PINTANA",
+      "text": "LA PINTANA"
+    },
+    {
+      "value": "LA REINA",
+      "text": "LA REINA"
+    },
+    {
+      "value": "LA SERENA",
+      "text": "LA SERENA"
+    },
+    {
+      "value": "LA UNION",
+      "text": "LA UNION"
+    },
+    {
+      "value": "LAGO RANCO",
+      "text": "LAGO RANCO"
+    },
+    {
+      "value": "LAGO VERDE",
+      "text": "LAGO VERDE"
+    },
+    {
+      "value": "LAGUNA BLANCA",
+      "text": "LAGUNA BLANCA"
+    },
+    {
+      "value": "LAJA",
+      "text": "LAJA"
+    },
+    {
+      "value": "LAMPA",
+      "text": "LAMPA"
+    },
+    {
+      "value": "LANCO",
+      "text": "LANCO"
+    },
+    {
+      "value": "LAS CABRAS",
+      "text": "LAS CABRAS"
+    },
+    {
+      "value": "LAS CONDES",
+      "text": "LAS CONDES"
+    },
+    {
+      "value": "LAUTARO",
+      "text": "LAUTARO"
+    },
+    {
+      "value": "LEBU",
+      "text": "LEBU"
+    },
+    {
+      "value": "LICANTEN",
+      "text": "LICANTEN"
+    },
+    {
+      "value": "LIMACHE",
+      "text": "LIMACHE"
+    },
+    {
+      "value": "LINARES",
+      "text": "LINARES"
+    },
+    {
+      "value": "LITUECHE",
+      "text": "LITUECHE"
+    },
+    {
+      "value": "LLAILLAY / LLAYLLAY",
+      "text": "LLAILLAY / LLAYLLAY"
+    },
+    {
+      "value": "LLANQUIHUE",
+      "text": "LLANQUIHUE"
+    },
+    {
+      "value": "LO BARNECHEA",
+      "text": "LO BARNECHEA"
+    },
+    {
+      "value": "LO ESPEJO",
+      "text": "LO ESPEJO"
+    },
+    {
+      "value": "LO PRADO",
+      "text": "LO PRADO"
+    },
+    {
+      "value": "LOLOL",
+      "text": "LOLOL"
+    },
+    {
+      "value": "LONCOCHE",
+      "text": "LONCOCHE"
+    },
+    {
+      "value": "LONGAVI",
+      "text": "LONGAVI"
+    },
+    {
+      "value": "LONQUIMAY",
+      "text": "LONQUIMAY"
+    },
+    {
+      "value": "LOS ALAMOS",
+      "text": "LOS ALAMOS"
+    },
+    {
+      "value": "LOS ANDES",
+      "text": "LOS ANDES"
+    },
+    {
+      "value": "LOS ANGELES",
+      "text": "LOS ANGELES"
+    },
+    {
+      "value": "LOS LAGOS",
+      "text": "LOS LAGOS"
+    },
+    {
+      "value": "LOS MUERMOS",
+      "text": "LOS MUERMOS"
+    },
+    {
+      "value": "LOS SAUCES",
+      "text": "LOS SAUCES"
+    },
+    {
+      "value": "LOS VILOS",
+      "text": "LOS VILOS"
+    },
+    {
+      "value": "LOTA",
+      "text": "LOTA"
+    },
+    {
+      "value": "LUMACO",
+      "text": "LUMACO"
+    },
+    {
+      "value": "MACHALI",
+      "text": "MACHALI"
+    },
+    {
+      "value": "MACUL",
+      "text": "MACUL"
+    },
+    {
+      "value": "MAFIL",
+      "text": "MAFIL"
+    },
+    {
+      "value": "MAIPU",
+      "text": "MAIPU"
+    },
+    {
+      "value": "MALLOA",
+      "text": "MALLOA"
+    },
+    {
+      "value": "MARCHIHUE",
+      "text": "MARCHIHUE"
+    },
+    {
+      "value": "MARIA ELENA",
+      "text": "MARIA ELENA"
+    },
+    {
+      "value": "MARIA PINTO",
+      "text": "MARIA PINTO"
+    },
+    {
+      "value": "MARIQUINA",
+      "text": "MARIQUINA"
+    },
+    {
+      "value": "MAULE",
+      "text": "MAULE"
+    },
+    {
+      "value": "MAULLIN",
+      "text": "MAULLIN"
+    },
+    {
+      "value": "MEJILLONES",
+      "text": "MEJILLONES"
+    },
+    {
+      "value": "MELIPEUCO",
+      "text": "MELIPEUCO"
+    },
+    {
+      "value": "MELIPILLA",
+      "text": "MELIPILLA"
+    },
+    {
+      "value": "MOLINA",
+      "text": "MOLINA"
+    },
+    {
+      "value": "MONTE PATRIA",
+      "text": "MONTE PATRIA"
+    },
+    {
+      "value": "MOSTAZAL",
+      "text": "MOSTAZAL"
+    },
+    {
+      "value": "MULCHEN",
+      "text": "MULCHEN"
+    },
+    {
+      "value": "NACIMIENTO",
+      "text": "NACIMIENTO"
+    },
+    {
+      "value": "NANCAGUA",
+      "text": "NANCAGUA"
+    },
+    {
+      "value": "NATALES",
+      "text": "NATALES"
+    },
+    {
+      "value": "NAVIDAD",
+      "text": "NAVIDAD"
+    },
+    {
+      "value": "NEGRETE",
+      "text": "NEGRETE"
+    },
+    {
+      "value": "NINHUE",
+      "text": "NINHUE"
+    },
+    {
+      "value": "NOGALES",
+      "text": "NOGALES"
+    },
+    {
+      "value": "NUEVA IMPERIAL",
+      "text": "NUEVA IMPERIAL"
+    },
+    {
+      "value": "O'HIGGINS",
+      "text": "O'HIGGINS"
+    },
+    {
+      "value": "OLIVAR",
+      "text": "OLIVAR"
+    },
+    {
+      "value": "OLLAGÜE",
+      "text": "OLLAGÜE"
+    },
+    {
+      "value": "OLMUE",
+      "text": "OLMUE"
+    },
+    {
+      "value": "OSORNO",
+      "text": "OSORNO"
+    },
+    {
+      "value": "OVALLE",
+      "text": "OVALLE"
+    },
+    {
+      "value": "PADRE HURTADO",
+      "text": "PADRE HURTADO"
+    },
+    {
+      "value": "PADRE LAS CASAS",
+      "text": "PADRE LAS CASAS"
+    },
+    {
+      "value": "PAIHUANO",
+      "text": "PAIHUANO"
+    },
+    {
+      "value": "PAILLACO",
+      "text": "PAILLACO"
+    },
+    {
+      "value": "PAINE",
+      "text": "PAINE"
+    },
+    {
+      "value": "PALENA",
+      "text": "PALENA"
+    },
+    {
+      "value": "PALMILLA",
+      "text": "PALMILLA"
+    },
+    {
+      "value": "PANGUIPULLI",
+      "text": "PANGUIPULLI"
+    },
+    {
+      "value": "PANQUEHUE",
+      "text": "PANQUEHUE"
+    },
+    {
+      "value": "PAPUDO",
+      "text": "PAPUDO"
+    },
+    {
+      "value": "PAREDONES",
+      "text": "PAREDONES"
+    },
+    {
+      "value": "PARRAL",
+      "text": "PARRAL"
+    },
+    {
+      "value": "PEDRO AGUIRRE CERDA",
+      "text": "PEDRO AGUIRRE CERDA"
+    },
+    {
+      "value": "PELARCO",
+      "text": "PELARCO"
+    },
+    {
+      "value": "PELLUHUE",
+      "text": "PELLUHUE"
+    },
+    {
+      "value": "PEMUCO",
+      "text": "PEMUCO"
+    },
+    {
+      "value": "PENCAHUE",
+      "text": "PENCAHUE"
+    },
+    {
+      "value": "PENCO",
+      "text": "PENCO"
+    },
+    {
+      "value": "PERALILLO",
+      "text": "PERALILLO"
+    },
+    {
+      "value": "PERQUENCO",
+      "text": "PERQUENCO"
+    },
+    {
+      "value": "PETORCA",
+      "text": "PETORCA"
+    },
+    {
+      "value": "PEUMO",
+      "text": "PEUMO"
+    },
+    {
+      "value": "PEÑAFLOR",
+      "text": "PEÑAFLOR"
+    },
+    {
+      "value": "PEÑALOLEN",
+      "text": "PEÑALOLEN"
+    },
+    {
+      "value": "PICA",
+      "text": "PICA"
+    },
+    {
+      "value": "PICHIDEGUA",
+      "text": "PICHIDEGUA"
+    },
+    {
+      "value": "PICHILEMU",
+      "text": "PICHILEMU"
+    },
+    {
+      "value": "PINTO",
+      "text": "PINTO"
+    },
+    {
+      "value": "PIRQUE",
+      "text": "PIRQUE"
+    },
+    {
+      "value": "PITRUFQUEN",
+      "text": "PITRUFQUEN"
+    },
+    {
+      "value": "PLACILLA",
+      "text": "PLACILLA"
+    },
+    {
+      "value": "PORTEZUELO",
+      "text": "PORTEZUELO"
+    },
+    {
+      "value": "PORVENIR",
+      "text": "PORVENIR"
+    },
+    {
+      "value": "POZO ALMONTE",
+      "text": "POZO ALMONTE"
+    },
+    {
+      "value": "PRIMAVERA",
+      "text": "PRIMAVERA"
+    },
+    {
+      "value": "PROVIDENCIA",
+      "text": "PROVIDENCIA"
+    },
+    {
+      "value": "PUCHUNCAVI",
+      "text": "PUCHUNCAVI"
+    },
+    {
+      "value": "PUCON",
+      "text": "PUCON"
+    },
+    {
+      "value": "PUDAHUEL",
+      "text": "PUDAHUEL"
+    },
+    {
+      "value": "PUENTE ALTO",
+      "text": "PUENTE ALTO"
+    },
+    {
+      "value": "PUERTO MONTT",
+      "text": "PUERTO MONTT"
+    },
+    {
+      "value": "PUERTO OCTAY",
+      "text": "PUERTO OCTAY"
+    },
+    {
+      "value": "PUERTO VARAS",
+      "text": "PUERTO VARAS"
+    },
+    {
+      "value": "PUMANQUE",
+      "text": "PUMANQUE"
+    },
+    {
+      "value": "PUNITAQUI",
+      "text": "PUNITAQUI"
+    },
+    {
+      "value": "PUNTA ARENAS",
+      "text": "PUNTA ARENAS"
+    },
+    {
+      "value": "PUQUELDON",
+      "text": "PUQUELDON"
+    },
+    {
+      "value": "PUREN",
+      "text": "PUREN"
+    },
+    {
+      "value": "PURRANQUE",
+      "text": "PURRANQUE"
+    },
+    {
+      "value": "PUTAENDO",
+      "text": "PUTAENDO"
+    },
+    {
+      "value": "PUTRE",
+      "text": "PUTRE"
+    },
+    {
+      "value": "PUYEHUE",
+      "text": "PUYEHUE"
+    },
+    {
+      "value": "QUEILEN",
+      "text": "QUEILEN"
+    },
+    {
+      "value": "QUELLON",
+      "text": "QUELLON"
+    },
+    {
+      "value": "QUEMCHI",
+      "text": "QUEMCHI"
+    },
+    {
+      "value": "QUILACO",
+      "text": "QUILACO"
+    },
+    {
+      "value": "QUILICURA",
+      "text": "QUILICURA"
+    },
+    {
+      "value": "QUILLECO",
+      "text": "QUILLECO"
+    },
+    {
+      "value": "QUILLON",
+      "text": "QUILLON"
+    },
+    {
+      "value": "QUILLOTA",
+      "text": "QUILLOTA"
+    },
+    {
+      "value": "QUILPUE",
+      "text": "QUILPUE"
+    },
+    {
+      "value": "QUINCHAO",
+      "text": "QUINCHAO"
+    },
+    {
+      "value": "QUINTA DE TILCOCO",
+      "text": "QUINTA DE TILCOCO"
+    },
+    {
+      "value": "QUINTA NORMAL",
+      "text": "QUINTA NORMAL"
+    },
+    {
+      "value": "QUINTERO",
+      "text": "QUINTERO"
+    },
+    {
+      "value": "QUIRIHUE",
+      "text": "QUIRIHUE"
+    },
+    {
+      "value": "RANCAGUA",
+      "text": "RANCAGUA"
+    },
+    {
+      "value": "RANQUIL",
+      "text": "RANQUIL"
+    },
+    {
+      "value": "RAUCO",
+      "text": "RAUCO"
+    },
+    {
+      "value": "RECOLETA",
+      "text": "RECOLETA"
+    },
+    {
+      "value": "RENAICO",
+      "text": "RENAICO"
+    },
+    {
+      "value": "RENCA",
+      "text": "RENCA"
+    },
+    {
+      "value": "RENGO",
+      "text": "RENGO"
+    },
+    {
+      "value": "REQUINOA",
+      "text": "REQUINOA"
+    },
+    {
+      "value": "RETIRO",
+      "text": "RETIRO"
+    },
+    {
+      "value": "RINCONADA",
+      "text": "RINCONADA"
+    },
+    {
+      "value": "RIO BUENO",
+      "text": "RIO BUENO"
+    },
+    {
+      "value": "RIO CLARO",
+      "text": "RIO CLARO"
+    },
+    {
+      "value": "RIO HURTADO",
+      "text": "RIO HURTADO"
+    },
+    {
+      "value": "RIO IBAÑEZ",
+      "text": "RIO IBAÑEZ"
+    },
+    {
+      "value": "RIO NEGRO",
+      "text": "RIO NEGRO"
+    },
+    {
+      "value": "RIO VERDE",
+      "text": "RIO VERDE"
+    },
+    {
+      "value": "ROMERAL",
+      "text": "ROMERAL"
+    },
+    {
+      "value": "SAAVEDRA",
+      "text": "SAAVEDRA"
+    },
+    {
+      "value": "SAGRADA FAMILIA",
+      "text": "SAGRADA FAMILIA"
+    },
+    {
+      "value": "SALAMANCA",
+      "text": "SALAMANCA"
+    },
+    {
+      "value": "SAN ANTONIO",
+      "text": "SAN ANTONIO"
+    },
+    {
+      "value": "SAN BERNARDO",
+      "text": "SAN BERNARDO"
+    },
+    {
+      "value": "SAN CARLOS",
+      "text": "SAN CARLOS"
+    },
+    {
+      "value": "SAN CLEMENTE",
+      "text": "SAN CLEMENTE"
+    },
+    {
+      "value": "SAN ESTEBAN",
+      "text": "SAN ESTEBAN"
+    },
+    {
+      "value": "SAN FABIAN",
+      "text": "SAN FABIAN"
+    },
+    {
+      "value": "SAN FELIPE",
+      "text": "SAN FELIPE"
+    },
+    {
+      "value": "SAN FERNANDO",
+      "text": "SAN FERNANDO"
+    },
+    {
+      "value": "SAN GREGORIO",
+      "text": "SAN GREGORIO"
+    },
+    {
+      "value": "SAN IGNACIO",
+      "text": "SAN IGNACIO"
+    },
+    {
+      "value": "SAN JAVIER",
+      "text": "SAN JAVIER"
+    },
+    {
+      "value": "SAN JOAQUIN",
+      "text": "SAN JOAQUIN"
+    },
+    {
+      "value": "SAN JOSE DE MAIPO",
+      "text": "SAN JOSE DE MAIPO"
+    },
+    {
+      "value": "SAN JUAN DE LA COSTA",
+      "text": "SAN JUAN DE LA COSTA"
+    },
+    {
+      "value": "SAN MIGUEL",
+      "text": "SAN MIGUEL"
+    },
+    {
+      "value": "SAN NICOLAS",
+      "text": "SAN NICOLAS"
+    },
+    {
+      "value": "SAN PABLO",
+      "text": "SAN PABLO"
+    },
+    {
+      "value": "SAN PEDRO",
+      "text": "SAN PEDRO"
+    },
+    {
+      "value": "SAN PEDRO DE ATACAMA",
+      "text": "SAN PEDRO DE ATACAMA"
+    },
+    {
+      "value": "SAN PEDRO DE LA PAZ",
+      "text": "SAN PEDRO DE LA PAZ"
+    },
+    {
+      "value": "SAN RAFAEL",
+      "text": "SAN RAFAEL"
+    },
+    {
+      "value": "SAN RAMON",
+      "text": "SAN RAMON"
+    },
+    {
+      "value": "SAN ROSENDO",
+      "text": "SAN ROSENDO"
+    },
+    {
+      "value": "SAN VICENTE",
+      "text": "SAN VICENTE"
+    },
+    {
+      "value": "SANTA BARBARA",
+      "text": "SANTA BARBARA"
+    },
+    {
+      "value": "SANTA CRUZ",
+      "text": "SANTA CRUZ"
+    },
+    {
+      "value": "SANTA JUANA",
+      "text": "SANTA JUANA"
+    },
+    {
+      "value": "SANTA MARIA",
+      "text": "SANTA MARIA"
+    },
+    {
+      "value": "SANTIAGO",
+      "text": "SANTIAGO"
+    },
+    {
+      "value": "SANTO DOMINGO",
+      "text": "SANTO DOMINGO"
+    },
+    {
+      "value": "SIERRA GORDA",
+      "text": "SIERRA GORDA"
+    },
+    {
+      "value": "TALAGANTE",
+      "text": "TALAGANTE"
+    },
+    {
+      "value": "TALCA",
+      "text": "TALCA"
+    },
+    {
+      "value": "TALCAHUANO",
+      "text": "TALCAHUANO"
+    },
+    {
+      "value": "TALTAL",
+      "text": "TALTAL"
+    },
+    {
+      "value": "TARAPACA",
+      "text": "TARAPACA"
+    },
+    {
+      "value": "TEMUCO",
+      "text": "TEMUCO"
+    },
+    {
+      "value": "TENO",
+      "text": "TENO"
+    },
+    {
+      "value": "TEODORO SCHMIDT",
+      "text": "TEODORO SCHMIDT"
+    },
+    {
+      "value": "TIERRA AMARILLA",
+      "text": "TIERRA AMARILLA"
+    },
+    {
+      "value": "TIL TIL",
+      "text": "TIL TIL"
+    },
+    {
+      "value": "TIMAUKEL",
+      "text": "TIMAUKEL"
+    },
+    {
+      "value": "TIRUA",
+      "text": "TIRUA"
+    },
+    {
+      "value": "TOCOPILLA",
+      "text": "TOCOPILLA"
+    },
+    {
+      "value": "TOLTEN",
+      "text": "TOLTEN"
+    },
+    {
+      "value": "TOME",
+      "text": "TOME"
+    },
+    {
+      "value": "TORRES DEL PAINE",
+      "text": "TORRES DEL PAINE"
+    },
+    {
+      "value": "TORTEL",
+      "text": "TORTEL"
+    },
+    {
+      "value": "TRAIGUEN",
+      "text": "TRAIGUEN"
+    },
+    {
+      "value": "TREGUACO / TREHUACO",
+      "text": "TREGUACO / TREHUACO"
+    },
+    {
+      "value": "TUCAPEL",
+      "text": "TUCAPEL"
+    },
+    {
+      "value": "VALDIVIA",
+      "text": "VALDIVIA"
+    },
+    {
+      "value": "VALLENAR",
+      "text": "VALLENAR"
+    },
+    {
+      "value": "VALPARAISO",
+      "text": "VALPARAISO"
+    },
+    {
+      "value": "VICHUQUEN",
+      "text": "VICHUQUEN"
+    },
+    {
+      "value": "VICTORIA",
+      "text": "VICTORIA"
+    },
+    {
+      "value": "VICUÑA",
+      "text": "VICUÑA"
+    },
+    {
+      "value": "VILCUN",
+      "text": "VILCUN"
+    },
+    {
+      "value": "VILLA ALEGRE",
+      "text": "VILLA ALEGRE"
+    },
+    {
+      "value": "VILLA ALEMANA",
+      "text": "VILLA ALEMANA"
+    },
+    {
+      "value": "VILLARRICA",
+      "text": "VILLARRICA"
+    },
+    {
+      "value": "VITACURA",
+      "text": "VITACURA"
+    },
+    {
+      "value": "VIÑA DEL MAR",
+      "text": "VIÑA DEL MAR"
+    },
+    {
+      "value": "YERBAS BUENAS",
+      "text": "YERBAS BUENAS"
+    },
+    {
+      "value": "YUMBEL",
+      "text": "YUMBEL"
+    },
+    {
+      "value": "YUNGAY",
+      "text": "YUNGAY"
+    },
+    {
+      "value": "ZAPALLAR",
+      "text": "ZAPALLAR"
+    },
+    {
+      "value": "ÑIQUEN",
+      "text": "ÑIQUEN"
+    },
+    {
+      "value": "ÑUÑOA",
+      "text": "ÑUÑOA"
+    }
+  ]

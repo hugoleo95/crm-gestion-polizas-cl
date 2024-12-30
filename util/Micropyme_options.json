@@ -1,0 +1,3693 @@
+{
+    "princeRanges": [
+      {
+        "start": 500,
+        "end": 1099,
+        "price": 12.8
+      },
+      {
+        "start": 1100,
+        "end": 3099,
+        "price": 19.2
+      },
+      {
+        "start": 3100,
+        "end": 3999,
+        "price": 21
+      },
+      {
+        "start": 4000,
+        "end": 4999,
+        "price": 28
+      }
+    ],
+    "contractorsNum": [
+      {
+        "text": "N° de trabajadores",
+        "value": null
+      },
+      {
+        "text": "1 a 20",
+        "value": "1-20"
+      },
+      {
+        "text": "21 a 50",
+        "value": "21-50"
+      },
+      {
+        "text": "51 a 100",
+        "value": "51-100"
+      }
+    ],
+    "workersNumOptions": [
+      {
+        "text": "N° de trabajadores",
+        "value": null
+      },
+      {
+        "text": "1 a 50",
+        "value": "1-50"
+      },
+      {
+        "text": "51 a 100",
+        "value": "51-100"
+      },
+      {
+        "text": "101 a 125",
+        "value": "101-125"
+      },
+      {
+        "text": "126 a 150",
+        "value": "126-150"
+      },
+      {
+        "text": "151 a 175",
+        "value": "151-175"
+      },
+      {
+        "text": "176 a 200",
+        "value": "176-200"
+      },
+      {
+        "text": "201 a 225",
+        "value": "201-225"
+      },
+      {
+        "text": "226 a 250",
+        "value": "226-250"
+      },
+      {
+        "text": "251 a 275",
+        "value": "251-275"
+      },
+      {
+        "text": "276 a 300",
+        "value": "276-300"
+      },
+      {
+        "text": "301 a 325",
+        "value": "301-325"
+      },
+      {
+        "text": "326 a 350",
+        "value": "326-350"
+      },
+      {
+        "text": "351 a 375",
+        "value": "351-375"
+      },
+      {
+        "text": "376 a 400",
+        "value": "376-400"
+      },
+      {
+        "text": "401 a 425",
+        "value": "401-425"
+      },
+      {
+        "text": "426 a 450",
+        "value": "426-450"
+      },
+      {
+        "text": "451 a 475",
+        "value": "451-475"
+      },
+      {
+        "text": "476 a 500",
+        "value": "476-500"
+      },
+      {
+        "text": "501 a 525",
+        "value": "501-525"
+      },
+      {
+        "text": "526 a 550",
+        "value": "526-550"
+      }
+    ],
+    "workingDaysOptions": [
+      {
+        "text": "DIAS PRESENCIALES",
+        "value": null
+      },
+      {
+        "text": "1 dia",
+        "value": 1
+      },
+      {
+        "text": "2 dias",
+        "value": 2
+      },
+      {
+        "text": "3 dias",
+        "value": 3
+      },
+      {
+        "text": "4 dias",
+        "value": 4
+      },
+      {
+        "text": "5 dias",
+        "value": 5
+      }
+    ],
+    "planesoptions": [
+      {
+        "id": "1",
+        "group": "1",
+        "title": "Mini Starter",
+        "icon": "🚀",
+        "foco": "",
+        "monto_total": "1350",
+        "monto_total_asegurado": "1350",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": "500",
+        "contenido": "250",
+        "mercaderia": "250",
+        "dinero_caja": "50",
+        "increase_percentage": 0,
+        "robo": "300",
+        "paymentType": "monthly",
+        "status": true,
+        "color": "naranja"
+      },
+      {
+        "id": "2",
+        "group": "1",
+        "title": "Mini Pack",
+        "icon": "🔏",
+        "foco": "",
+        "monto_total": "1340",
+        "monto_total_asegurado": "1340",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": "330",
+        "contenido": "330",
+        "mercaderia": "330",
+        "dinero_caja": "50",
+        "increase_percentage": 0,
+        "robo": "300",
+        "paymentType": "monthly",
+        "status": false,
+        "color": "verde"
+      },
+      {
+        "id": "3",
+        "group": "1",
+        "title": "Mini Plus",
+        "icon": "🛡️",
+        "foco": "",
+        "monto_total": "1350",
+        "monto_total_asegurado": "1350",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": "200",
+        "contenido": "400",
+        "mercaderia": "400",
+        "dinero_caja": "50",
+        "increase_percentage": 0,
+        "robo": "300",
+        "paymentType": "monthly",
+        "status": false,
+        "color": "azul"
+      },
+      {
+        "id": "4",
+        "group": "2",
+        "title": "Mini Starter",
+        "icon": "🚀",
+        "foco": "",
+        "monto_total": "1000",
+        "monto_total_asegurado": "1000",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": "500",
+        "contenido": "250",
+        "mercaderia": "250",
+        "dinero_caja": 0,
+        "increase_percentage": 0,
+        "robo": 0,
+        "paymentType": "monthly",
+        "status": true,
+        "color": "naranja"
+      },
+      {
+        "id": "5",
+        "group": "2",
+        "title": "Mini Pack",
+        "icon": "🔏",
+        "foco": "",
+        "monto_total": "990",
+        "monto_total_asegurado": "990",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": "330",
+        "contenido": "330",
+        "mercaderia": "330",
+        "dinero_caja": 0,
+        "increase_percentage": 0,
+        "robo": 0,
+        "paymentType": "monthly",
+        "status": false,
+        "color": "verde"
+      },
+      {
+        "id": "6",
+        "group": "2",
+        "title": "Mini Plus",
+        "icon": "🛡️",
+        "foco": "",
+        "monto_total": "1000",
+        "monto_total_asegurado": "1000",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": "200",
+        "contenido": "400",
+        "mercaderia": "400",
+        "increase_percentage": 0,
+        "robo": 0,
+        "dinero_caja": 0,
+        "paymentType": "monthly",
+        "status": false,
+        "color": "azul"
+      },
+      {
+        "id": "7",
+        "group": "3",
+        "title": "Mini Starter",
+        "icon": "🚀",
+        "foco": "",
+        "monto_total": "1170",
+        "monto_total_asegurado": "1170",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": 0,
+        "contenido": "350",
+        "mercaderia": "650",
+        "dinero_caja": "20",
+        "increase_percentage": 0,
+        "robo": "150",
+        "paymentType": "monthly",
+        "status": true,
+        "color": "naranja"
+      },
+      {
+        "id": "8",
+        "group": "3",
+        "title": "Mini Pack",
+        "icon": "🔏",
+        "foco": "",
+        "monto_total": "1230",
+        "monto_total_asegurado": "1230",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": 0,
+        "contenido": "500",
+        "mercaderia": "500",
+        "dinero_caja": "30",
+        "increase_percentage": 0,
+        "robo": "200",
+        "paymentType": "monthly",
+        "status": false,
+        "color": "verde"
+      },
+      {
+        "id": "9",
+        "group": "3",
+        "title": "Mini Plus",
+        "icon": "🛡️",
+        "foco": "",
+        "monto_total": "1350",
+        "monto_total_asegurado": "1350",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": 0,
+        "contenido": "650",
+        "mercaderia": "350",
+        "dinero_caja": "50",
+        "increase_percentage": 0,
+        "robo": "300",
+        "paymentType": "monthly",
+        "status": false,
+        "color": "azul"
+      },
+      {
+        "id": "10",
+        "group": "4",
+        "title": "Mini Starter",
+        "icon": "🚀",
+        "foco": "",
+        "monto_total": "1000",
+        "monto_total_asegurado": "1000",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": 0,
+        "contenido": "350",
+        "mercaderia": "650",
+        "dinero_caja": 0,
+        "increase_percentage": 0,
+        "robo": 0,
+        "paymentType": "monthly",
+        "status": true,
+        "color": "naranja"
+      },
+      {
+        "id": "11",
+        "group": "4",
+        "title": "Mini Pack",
+        "icon": "🔏",
+        "foco": "",
+        "monto_total": "1000",
+        "monto_total_asegurado": "1000",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": 0,
+        "contenido": "500",
+        "mercaderia": "500",
+        "dinero_caja": 0,
+        "increase_percentage": 0,
+        "robo": 0,
+        "paymentType": "monthly",
+        "status": false,
+        "color": "verde"
+      },
+      {
+        "id": "12",
+        "group": "4",
+        "title": "Mini Plus",
+        "icon": "🛡️",
+        "foco": "",
+        "monto_total": "1000",
+        "monto_total_asegurado": "1000",
+        "descuento": "0",
+        "monto_total_descuento": "",
+        "edificio": 0,
+        "contenido": "650",
+        "mercaderia": "350",
+        "dinero_caja": 0,
+        "increase_percentage": 0,
+        "robo": 0,
+        "paymentType": "monthly",
+        "status": false,
+        "color": "azul"
+      }
+    ],
+    "typeConstruction": [
+      {
+        "text": "COMBUSTIBLE (madera o tabiquerías livianas tales como Volcanita, internit, entre otros)",
+        "value": "combustible"
+      },
+      {
+        "text": "INCOMBUSTIBLE (Albañilerias de ladrillo, hormigón armado y bloques de hormigón)",
+        "value": "incombustible"
+      },
+      {
+        "text": "MIXTO (tabiquerías livianas, madera y/o acero)",
+        "value": "mixto"
+      }
+    ],
+    "activitiesOptions": [
+      {
+        "value": "25600000300",
+        "text": "ALMACENES GENERALES DE DEPOSITO, CENTROS DE LOGISTICA, BODEGAS",
+        "aprob": false
+      },
+      {
+        "value": "25600000400",
+        "text": "ALQUILER DE MAQUINARIA Y EQUIPO",
+        "aprob": false
+      },
+      {
+        "value": "25600000500",
+        "text": "HOGAR DE ANCIANOS",
+        "aprob": false
+      },
+      {
+        "value": "25600000600",
+        "text": "APARTAMENTOS PARA ALQUILER",
+        "aprob": false
+      },
+      {
+        "value": "25600000700",
+        "text": "BANQUETES Y ORGANIZACION DE EVENTOS SOCIALES",
+        "aprob": true
+      },
+      {
+        "value": "25600000800",
+        "text": "BIBLIOTECAS",
+        "aprob": true
+      },
+      {
+        "value": "25600000900",
+        "text": "CARNICERIAS",
+        "aprob": true
+      },
+      {
+        "value": "25600001000",
+        "text": "CASINOS Y JUEGOS DE AZAR",
+        "aprob": false
+      },
+      {
+        "value": "25600001100",
+        "text": "SERVICIOS FUNERARIOS",
+        "aprob": true
+      },
+      {
+        "value": "25600001200",
+        "text": "TIENDAS DE JUGUETES Y HOBBIES",
+        "aprob": true
+      },
+      {
+        "value": "25600001300",
+        "text": "NEGOCIOS DE ALIMENTOS (ABARROTES)",
+        "aprob": true
+      },
+      {
+        "value": "25600001400",
+        "text": "CLUBES, CENTROS DEPORTIVOS Y RECREATIVOS",
+        "aprob": true
+      },
+      {
+        "value": "25600001500",
+        "text": "CONSULTAS DE MÉDICOS Y DENTISTAS",
+        "aprob": true
+      },
+      {
+        "value": "25600001600",
+        "text": "CURTIDO Y ADOBO DE CUEROS",
+        "aprob": false
+      },
+      {
+        "value": "25600001700",
+        "text": "ADOBO Y TEÑIDOS DE PIELES; FABRICACIÓN DE ARTÍCULOS DE PIEL",
+        "aprob": false
+      },
+      {
+        "value": "25600001800",
+        "text": "EMPRESAS DE ENCOMIENDAS Y TRANSPORTADORAS",
+        "aprob": false
+      },
+      {
+        "value": "25600001900",
+        "text": "EMPRESAS DEDICADAS A LA INSTALACION DE MAQUINARIA O MERCANCIA",
+        "aprob": false
+      },
+      {
+        "value": "25600002000",
+        "text": "EMPRESAS DEDICADAS A LA TRANSFORMACION DE MATERIAL RECICLABLE",
+        "aprob": false
+      },
+      {
+        "value": "25600002100",
+        "text": "ESCUELAS, COLEGIOS, UNIVERSIDADES, ACADEMIAS, CENTROS EDUCATIVOS EN GENERAL",
+        "aprob": true
+      },
+      {
+        "value": "25600002200",
+        "text": "FABRICA DE ARTICULOS DE MADERA, CARPINTERRIAS, ASERRIOS",
+        "aprob": false
+      },
+      {
+        "value": "25600002300",
+        "text": "FABRICA DE ARTICULOS PARA ILUMINACION",
+        "aprob": true
+      },
+      {
+        "value": "25600002400",
+        "text": "FABRICA DE ARTICULOS PLASTICOS",
+        "aprob": false
+      },
+      {
+        "value": "25600002500",
+        "text": "FABRICA DE BICICLETAS",
+        "aprob": true
+      },
+      {
+        "value": "25600002600",
+        "text": "FABRICA DE PERSIANAS Y CORTINAS",
+        "aprob": true
+      },
+      {
+        "value": "25600002700",
+        "text": "FABRICA DE PRODUCTOS ORTOPEDICOS",
+        "aprob": true
+      },
+      {
+        "value": "25600002800",
+        "text": "FABRICA DE PRODUCTOS PARA OPTICAS",
+        "aprob": true
+      },
+      {
+        "value": "25600002900",
+        "text": "FABRICACION DE ALIMENTOS",
+        "aprob": false
+      },
+      {
+        "value": "25600003000",
+        "text": "FABRICACION DE ARTICULOS DE CAUCHO",
+        "aprob": false
+      },
+      {
+        "value": "25600003100",
+        "text": "FABRICACION DE ARTICULOS DE CUERO",
+        "aprob": true
+      },
+      {
+        "value": "25600003200",
+        "text": "FABRICACION DE ARTICULOS DE TOCADOR, COSMETICOS, PERFUMES Y ASEO PERSONAL",
+        "aprob": true
+      },
+      {
+        "value": "25600003300",
+        "text": "FABRICACION DE ARTICULOS DE VIDRIO",
+        "aprob": false
+      },
+      {
+        "value": "25600003400",
+        "text": "FABRICACION DE BEBIDAS NO ALCOHOLICAS",
+        "aprob": true
+      },
+      {
+        "value": "25600003500",
+        "text": "FABRICACION DE CALZADO, ZAPATERIAS",
+        "aprob": true
+      },
+      {
+        "value": "25600003600",
+        "text": "FABRICACION DE CARNICOS",
+        "aprob": false
+      },
+      {
+        "value": "25600003700",
+        "text": "FABRICACION DE CONCENTRADOS DE ANIMALES",
+        "aprob": false
+      },
+      {
+        "value": "25600003800",
+        "text": "FABRICACION DE EQUIPOS ELECTRICOS Y ELECTRONICOS",
+        "aprob": true
+      },
+      {
+        "value": "25600003900",
+        "text": "FABRICACION DE EQUIPOS, MAQUINARIA PESADA O LIGERA",
+        "aprob": true
+      },
+      {
+        "value": "25600004000",
+        "text": "FABRICACION DE LACTEOS",
+        "aprob": false
+      },
+      {
+        "value": "25600004100",
+        "text": "FABRICACIÓN DE MUEBLES, TAPICERÍAS",
+        "aprob": false
+      },
+      {
+        "value": "25600004200",
+        "text": "FABRICACIÓN Y VENTA DE COLCHONES, COLCHONETAS",
+        "aprob": false
+      },
+      {
+        "value": "25600004300",
+        "text": "FARMACIAS, DROGUERIAS, TIENDAS NATURISTAS, BOTICAS EN GENERAL",
+        "aprob": true
+      },
+      {
+        "value": "25600004400",
+        "text": "FERRETERIAS, CERRAJERIAS Y VENTA DE MATERIALES PARA CONSTRUCCION",
+        "aprob": true
+      },
+      {
+        "value": "25600004500",
+        "text": "PARCELA RECREACIONAL",
+        "aprob": false
+      },
+      {
+        "value": "25600004600",
+        "text": "FLORISTERIA Y COMERCIALIZACION DE PLANTAS ORNAMENTALES, SEMILLAS Y FORRAJES",
+        "aprob": true
+      },
+      {
+        "value": "25600004700",
+        "text": "GIMNASIOS, BAÑOS TURCO, CENTROS DE ACONDICIONAMIENTO FISICO, BALNEARIOS, SALONES DE BELLEZA, SPA",
+        "aprob": true
+      },
+      {
+        "value": "25600004800",
+        "text": "HOTELES, HOSPEDAJES Y CABAÑAS",
+        "aprob": true
+      },
+      {
+        "value": "25600004900",
+        "text": "IGLESIAS Y TEMPLOS RELIGIOSOS",
+        "aprob": true
+      },
+      {
+        "value": "25600005000",
+        "text": "IMPRENTAS, LITOGRAFIAS, TIPOGRAFIAS, EDITORIALES",
+        "aprob": true
+      },
+      {
+        "value": "25600005100",
+        "text": "INDUSTRIA DE LA CONFECCION, CORTE Y COSTURA",
+        "aprob": true
+      },
+      {
+        "value": "25600005200",
+        "text": "INDUSTRIA METALMECANICA",
+        "aprob": true
+      },
+      {
+        "value": "25600005300",
+        "text": "INDUSTRIA Y VENTA DE ACEITES, LUBRICANTES, DISOLVENTES",
+        "aprob": false
+      },
+      {
+        "value": "25600005400",
+        "text": "INDUSTRIA Y VENTA DE PINTURAS, BARNICES",
+        "aprob": false
+      },
+      {
+        "value": "25600005500",
+        "text": "INDUSTRIA Y VENTA DE PRODUCTOS QUIMICOS",
+        "aprob": false
+      },
+      {
+        "value": "25600005600",
+        "text": "VENTA AL POR MENOR DE JUGUETES / JUGUETERÍA",
+        "aprob": true
+      },
+      {
+        "value": "25600005700",
+        "text": "LAVADERO DE AUTOMOVILES",
+        "aprob": true
+      },
+      {
+        "value": "25600005800",
+        "text": "LAVANDERIAS, PLANCHADURIAS MECANIZADAS",
+        "aprob": true
+      },
+      {
+        "value": "25600005900",
+        "text": "LICORERAS, BOTILLERIAS Y CIGARRERIAS",
+        "aprob": true
+      },
+      {
+        "value": "25600006000",
+        "text": "MANTENIMIENTO Y REPARACION DE EQUIPOS ELECTRICOS Y ELECTRONICOS",
+        "aprob": false
+      },
+      {
+        "value": "25600006100",
+        "text": "MOTELES",
+        "aprob": false
+      },
+      {
+        "value": "25600006200",
+        "text": "OFICINAS, DESPACHOS PROFESIONALES",
+        "aprob": true
+      },
+      {
+        "value": "25600006300",
+        "text": "ESTACIONAMIENTO DE VEHICULOS",
+        "aprob": false
+      },
+      {
+        "value": "25600006400",
+        "text": "PARQUES DE DIVERSIONES",
+        "aprob": false
+      },
+      {
+        "value": "25600006500",
+        "text": "PROCESAMIENTO DE FRUTAS",
+        "aprob": false
+      },
+      {
+        "value": "25600006600",
+        "text": "RESTAURANTES,  HELADERIAS, CAFETERIAS, SALONES DE TE Y COMIDAS RAPIDAS",
+        "aprob": true
+      },
+      {
+        "value": "25600006700",
+        "text": "SALAS DE CINE Y TEATROS",
+        "aprob": true
+      },
+      {
+        "value": "25600006800",
+        "text": "SALAS DE INTERNET Y CABINAS TELEFONICAS",
+        "aprob": true
+      },
+      {
+        "value": "25600006900",
+        "text": "SEDES POLITICAS",
+        "aprob": false
+      },
+      {
+        "value": "25600007000",
+        "text": "SERVICIOS DE COPIADO, ENCUADERNACION E IMPRESION",
+        "aprob": true
+      },
+      {
+        "value": "25600007100",
+        "text": "SERVICIOS DE FOTOGRAFIA, CINEMATOGRAFIA, AUDIO Y VIDEO",
+        "aprob": true
+      },
+      {
+        "value": "25600007200",
+        "text": "PRODUCCIÓN Y DISTRIBUCIÓN DE FILMES Y VIDEOCINTA",
+        "aprob": true
+      },
+      {
+        "value": "25600007300",
+        "text": "SERVICIOS DE LIMPIEZA",
+        "aprob": true
+      },
+      {
+        "value": "25600007400",
+        "text": "SERVICIOS PARA MASCOTAS",
+        "aprob": true
+      },
+      {
+        "value": "25600007500",
+        "text": "CLÍNICAS VETERINARIAS",
+        "aprob": true
+      },
+      {
+        "value": "25600007600",
+        "text": "SERVICIOS DE VETERINARIA INDEPENDIENTES",
+        "aprob": true
+      },
+      {
+        "value": "25600007700",
+        "text": "SERVICIOS DE OTROS PROFESIONALES INDEPENDIENTES EN EL ÁREA VETERINARIA",
+        "aprob": true
+      },
+      {
+        "value": "25600007800",
+        "text": "SERVITECAS, CENTROS DE LUBRICACION",
+        "aprob": false
+      },
+      {
+        "value": "25600007900",
+        "text": "TATUAJES",
+        "aprob": true
+      },
+      {
+        "value": "25600008000",
+        "text": "VENTA DE ADORNOS, BOTONES, HILOS, HEBILLAS, HERRAJES, BISUTERIA, CINTAS",
+        "aprob": true
+      },
+      {
+        "value": "25600008100",
+        "text": "VENTA DE ARTICULOS DE ASEO E HIGIENE",
+        "aprob": true
+      },
+      {
+        "value": "25600008200",
+        "text": "VENTA DE ARTICULOS DE CUERO Y PELETERIAS",
+        "aprob": false
+      },
+      {
+        "value": "25600008300",
+        "text": "VENTA DE ARTICULOS DE ESCRITORIO, PAPELERIAS",
+        "aprob": true
+      },
+      {
+        "value": "25600008400",
+        "text": "VENTA DE ARTICULOS DE FIBRA DE VIDRIO",
+        "aprob": true
+      },
+      {
+        "value": "25600008500",
+        "text": "VENTA DE ARTICULOS DE LA INDUSTRIA METALMECANICA",
+        "aprob": true
+      },
+      {
+        "value": "25600008600",
+        "text": "VENTA DE ARTICULOS DE SEGURIDAD INDUSTRIAL Y ELEMENTOS DE PROTECCION PERSONAL",
+        "aprob": true
+      },
+      {
+        "value": "25600008700",
+        "text": "VENTA DE ARTICULOS DE TOCADOR, COSMETICOS, PERFUMES Y ASEO PERSONAL",
+        "aprob": true
+      },
+      {
+        "value": "25600008800",
+        "text": "VENTA DE ARTICULOS DE VIDRIO",
+        "aprob": true
+      },
+      {
+        "value": "25600008900",
+        "text": "VENTA DE ARTICULOS DEPORTIVOS",
+        "aprob": true
+      },
+      {
+        "value": "25600009000",
+        "text": "VENTA DE ARTICULOS ESOTERICOS",
+        "aprob": true
+      },
+      {
+        "value": "25600009100",
+        "text": "VENTA DE ARTICULOS MUSICALES",
+        "aprob": true
+      },
+      {
+        "value": "25600009200",
+        "text": "VENTA DE ARTICULOS PARA BEBE",
+        "aprob": true
+      },
+      {
+        "value": "25600009300",
+        "text": "VENTA DE ARTICULOS PARA DECORACION",
+        "aprob": true
+      },
+      {
+        "value": "25600009400",
+        "text": "VENTA DE ARTICULOS PARA ILUMINACION",
+        "aprob": false
+      },
+      {
+        "value": "25600009500",
+        "text": "VENTA DE ARTICULOS RELIGIOSOS",
+        "aprob": true
+      },
+      {
+        "value": "25600009600",
+        "text": "VENTA DE AUTOPARTES Y REPUESTOS",
+        "aprob": true
+      },
+      {
+        "value": "25600009700",
+        "text": "VENTA DE BICICLETAS",
+        "aprob": false
+      },
+      {
+        "value": "25600009800",
+        "text": "VENTA DE CALZADO",
+        "aprob": true
+      },
+      {
+        "value": "25600009900",
+        "text": "VENTA DE CARROS NUEVOS (AUTOMOVILES)",
+        "aprob": false
+      },
+      {
+        "value": "25600010000",
+        "text": "VENTA DE CERAMICAS, ALFARERIA, MOSAICOS, AZULEJOS Y ENCHAPES",
+        "aprob": true
+      },
+      {
+        "value": "25600010100",
+        "text": "VENTA DE ELECTRODOMESTICOS, EQUIPOS ELECTRICOS, ELECTRONICOS Y SUS ACCESORIOS",
+        "aprob": true
+      },
+      {
+        "value": "25600010200",
+        "text": "VENTA DE ENVASES PLASTICOS",
+        "aprob": false
+      },
+      {
+        "value": "25600010300",
+        "text": "VENTA DE EQUIPOS, MAQUINARIA PESADA O LIGERA",
+        "aprob": true
+      },
+      {
+        "value": "25600010400",
+        "text": "VENTA DE FRUTAS",
+        "aprob": true
+      },
+      {
+        "value": "25600010500",
+        "text": "VENTA DE INSUMOS AGROPECUARIOS",
+        "aprob": true
+      },
+      {
+        "value": "25600010600",
+        "text": "VENTA DE JOYERIA Y RELOJERIA",
+        "aprob": false
+      },
+      {
+        "value": "25600010700",
+        "text": "VENTA DE LIBROS, PERIODICOS Y REVISTAS",
+        "aprob": true
+      },
+      {
+        "value": "25600010800",
+        "text": "VENTA DE MOTOCICLETAS NUEVAS",
+        "aprob": true
+      },
+      {
+        "value": "25600010900",
+        "text": "VENTA DE MUEBLES, VENTANAS",
+        "aprob": true
+      },
+      {
+        "value": "25600011000",
+        "text": "VENTA DE PERSIANAS Y CORTINAS",
+        "aprob": true
+      },
+      {
+        "value": "25600011100",
+        "text": "VENTA DE PRODUCTOS ORTOPEDICOS Y ODONTOLOGICOS",
+        "aprob": true
+      },
+      {
+        "value": "25600011200",
+        "text": "VENTA DE PRODUCTOS Y SERVICIOS PARA EL CUIDADO DE LA VISION, OPTICAS, AUDICION",
+        "aprob": true
+      },
+      {
+        "value": "25600011300",
+        "text": "VENTA DE VEHICULOS Y MOTOS USADAS",
+        "aprob": false
+      },
+      {
+        "value": "25600011400",
+        "text": "VENTA Y ALQUILER DE TEXTILES Y ROPA",
+        "aprob": true
+      },
+      {
+        "value": "25600011500",
+        "text": "VENTA Y REPARACION DE CELULARES Y TELEFONOS MOVILES",
+        "aprob": false
+      },
+      {
+        "value": "25600011600",
+        "text": "VENTA Y TRANSFORMACION DE PRODUCTOS DE PAPEL Y CARTON",
+        "aprob": false
+      },
+      {
+        "value": "25600011700",
+        "text": "MINIMARKET",
+        "aprob": true
+      },
+      {
+        "value": "25600011800",
+        "text": "SERVICIOS PERIODÍSTICOS",
+        "aprob": true
+      },
+      {
+        "value": "25600011900",
+        "text": "AGENCIAS DE NOTICIAS",
+        "aprob": true
+      },
+      {
+        "value": "25600012000",
+        "text": "LABORATORIOS CLÍNICOS; INCLUYE BANCOS DE SANGRE",
+        "aprob": true
+      },
+      {
+        "value": "25600012100",
+        "text": "CENTROS DE ATENCIÓN ODONTOLÓGICA",
+        "aprob": true
+      },
+      {
+        "value": "25600012200",
+        "text": "SERVICIOS DE CONTESTACIÓN DE LLAMADAS (CALL CENTER)",
+        "aprob": true
+      },
+      {
+        "value": "25600012300",
+        "text": "SERVICIOS DE RECLUTAMIENTO DE PERSONAL",
+        "aprob": true
+      },
+      {
+        "value": "25600012400",
+        "text": "SERVICIO DE REVISIÓN TÉCNICA DE VEHÍCULOS AUTOMOTORES",
+        "aprob": true
+      },
+      {
+        "value": "25600012500",
+        "text": "EMPRESAS DE SERVICIOS GEOLÓGICOS Y DE PROSPECCIÓN",
+        "aprob": true
+      },
+      {
+        "value": "25600012600",
+        "text": "EMPRESAS DE SERVICIOS DE TOPOGRAFÍA Y AGRIMENSURA",
+        "aprob": true
+      },
+      {
+        "value": "25600012700",
+        "text": "INVESTIGACIÓN DE MERCADOS Y REALIZACIÓN DE ENCUESTAS DE OPINIÓN PÚBLICA",
+        "aprob": true
+      },
+      {
+        "value": "25600012800",
+        "text": "ACTIVIDADES DE ASESORAMIENTO EMPRESARIAL Y EN MATERIA DE GESTIÓN",
+        "aprob": true
+      },
+      {
+        "value": "25600012900",
+        "text": "SERVICIOS JURÍDICOS",
+        "aprob": true
+      },
+      {
+        "value": "25600013000",
+        "text": "SERVICIO NOTARIAL",
+        "aprob": true
+      },
+      {
+        "value": "25600013100",
+        "text": "CORREDORES DE SEGUROS",
+        "aprob": true
+      },
+      {
+        "value": "25600013200",
+        "text": "AGENTES Y LIQUIDADORES DE SEGUROS",
+        "aprob": true
+      },
+      {
+        "value": "25600013300",
+        "text": "FARMACIAS INDEPENDIENTES",
+        "aprob": true
+      },
+      {
+        "value": "25600013400",
+        "text": "VENTA AL POR MENOR DE PRODUCTOS DE PANADERÍA Y PASTELERÍA",
+        "aprob": true
+      },
+      {
+        "value": "25600013500",
+        "text": "TALLER DE REPARACION AUTOMOTRIZ",
+        "aprob": true
+      },
+      {
+        "value": "25600013600",
+        "text": "PELUQUERIAS",
+        "aprob": true
+      },
+      {
+        "value": "25600013700",
+        "text": "CLINICAS MÉDICAS",
+        "aprob": true
+      },
+      {
+        "value": "25600013800",
+        "text": "VERDURERIA/VERDULERIA",
+        "aprob": true
+      },
+      {
+        "value": "25600013900",
+        "text": "VENTA DE ARTICULOS DE COCINA",
+        "aprob": true
+      },
+      {
+        "value": "25600014000",
+        "text": "VENTA DE ARTICULOS DE LIMPIEZA",
+        "aprob": true
+      },
+      {
+        "value": "25600014100",
+        "text": "VENTA DE ARTICULOS DOMESTICOS",
+        "aprob": true
+      },
+      {
+        "value": "25600014200",
+        "text": "GALERIA COMERCIAL",
+        "aprob": true
+      },
+      {
+        "value": "25600014300",
+        "text": "STRIP CENTER",
+        "aprob": true
+      },
+      {
+        "value": "25600014400",
+        "text": "CALEFACCION Y AIRE ACONDICIONADO",
+        "aprob": true
+      },
+      {
+        "value": "25600014500",
+        "text": "VENTA DE ARTICULOS PARA RIEGO Y JARDIN",
+        "aprob": true
+      },
+      {
+        "value": "25600014600",
+        "text": "ELABORACION DE PRODUCTOS DE PANADERIA Y PASTELERIA",
+        "aprob": true
+      },
+      {
+        "value": "25600014700",
+        "text": "VENTA AL POR MENOR DE ALIMENTO Y ACCESORIOS PARA MASCOTAS",
+        "aprob": true
+      },
+      {
+        "value": "25600014800",
+        "text": "VENTA DE INSUMOS CERVECEROS",
+        "aprob": true
+      },
+      {
+        "value": "25600014900",
+        "text": "INDUSTRIA, TRANSFORMACION Y VENTA DE ARIDOS",
+        "aprob": true
+      },
+      {
+        "value": "256015000",
+        "text": "CIBER SEGURIDAD",
+        "aprob": true
+      },
+      {
+        "value": "25600015100",
+        "text": "CONSTRUCTORA/CONTRATISTAS   ",
+        "aprob": true
+      },
+      {
+        "value": "25600015200",
+        "text": "DESARROLLADORES TI",
+        "aprob": true
+      },
+      {
+        "value": "25600015300",
+        "text": "E COMMERCE",
+        "aprob": true
+      },
+      {
+        "value": "25600015400",
+        "text": "FUNDACION/CORPORACION SIN FINES DE LUCRO",
+        "aprob": true
+      },
+      {
+        "value": "25600015500",
+        "text": "MANTENCION DE ASCENSORES",
+        "aprob": true
+      },
+      {
+        "value": "25600015600",
+        "text": "MANTENCION DE VEHICULOS LIVIANOS Y PESADOS",
+        "aprob": true
+      },
+      {
+        "value": "25600015700",
+        "text": "SERVICIOS DE INSTALACION ELECTRICA",
+        "aprob": true
+      },
+      {
+        "value": "25600015800",
+        "text": "SERVICIOS DE PAGO DIGITAL",
+        "aprob": true
+      },
+      {
+        "value": "25600015900",
+        "text": "SERVICIOS DE SEGURIDAD/GUARDIAS SIN PORTE DE ARMAS",
+        "aprob": true
+      },
+      {
+        "value": "25600016000",
+        "text": "SERVICIOS DE TRANSPORTE DE PERSONAS",
+        "aprob": true
+      },
+      {
+        "value": "25600016100",
+        "text": "SERVICIOS DE TRANSPORTE TURISTICO",
+        "aprob": true
+      },
+      {
+        "value": "25600016200",
+        "text": "TABAQUERIA",
+        "aprob": true
+      },
+      {
+        "value": "25600016300",
+        "text": "TIENDA ARTESANIA",
+        "aprob": true
+      },
+      {
+        "value": "25600016400",
+        "text": "TIENDA DE ACCESORIOS DE CELULARES",
+        "aprob": true
+      },
+      {
+        "value": "25600016500",
+        "text": "TIENDA DE ACCESORIOS PARA EL HOGAR",
+        "aprob": true
+      },
+      {
+        "value": "25600016600",
+        "text": "TIENDA DE TE",
+        "aprob": true
+      },
+      {
+        "value": "25600016700",
+        "text": "TIENDAS DE FRAGANCIAS",
+        "aprob": true
+      },
+      {
+        "value": "25600016800",
+        "text": "VENTA DE INSUMOS PARA LA MINERIA, ENERGIA, CONSTRUCCION",
+        "aprob": true
+      }
+    ],
+    "experieceOptions": [
+      {
+        "text": "Tu experiencia como contratista en este tipo de trabajos",
+        "value": null
+      },
+      {
+        "text": "Menos de 1 año",
+        "value": "0-1"
+      },
+      {
+        "text": "Entre 1 y 2 años",
+        "value": "1-2"
+      },
+      {
+        "text": "Entre 2 y 4 años",
+        "value": "2-4"
+      },
+      {
+        "text": "Entre 4 y 6 años",
+        "value": "4-6"
+      },
+      {
+        "text": "Más de 6 años",
+        "value": "6+"
+      }
+    ],
+    "depthOptions": [
+      {
+        "text": "Profundidad de la excavación",
+        "value": null
+      },
+      {
+        "text": "Menos de 5 metros",
+        "value": "0-5"
+      },
+      {
+        "text": "Entre 5 y 10 metros",
+        "value": "5-10"
+      },
+      {
+        "text": "Más de 10 metros",
+        "value": "10+"
+      }
+    ],
+    "distanceOptions": [
+      {
+        "text": "Distancia colindancia más cercana",
+        "value": null
+      },
+      {
+        "text": "Menos de 15 metros",
+        "value": "0-15"
+      },
+      {
+        "text": "Entre 15 y 25 metros",
+        "value": "15-25"
+      },
+      {
+        "text": "Más de 25 metros",
+        "value": "25+"
+      }
+    ],
+    "vehiclesQuantityOptions": [
+      {
+        "text": "Cantidad de vehículos",
+        "value": null
+      },
+      {
+        "text": "1 a 3",
+        "value": "1-3"
+      },
+      {
+        "text": "4 a 6",
+        "value": "4-6"
+      },
+      {
+        "text": "7 a 10",
+        "value": "6-10"
+      },
+      {
+        "text": "Más de 10",
+        "value": "more_than_10"
+      }
+    ],
+    "InsuranceAmountOptions": [
+      {
+        "text": "Monto a asegurar",
+        "value": null
+      },
+      {
+        "text": "UF 500",
+        "value": 500
+      },
+      {
+        "text": "UF 1.000",
+        "value": 1000
+      },
+      {
+        "text": "UF 2.000",
+        "value": 2000
+      },
+      {
+        "text": "UF 2.500",
+        "value": 2500
+      },
+      {
+        "text": "UF 3.000",
+        "value": 3000
+      }
+    ],
+    "dangerMaterialList": [
+      "Tabaco, cigarrillo y/o enfermedades relacionadas y sus consecuencias.",
+      " Productos elaborados de la sangre humana, del plasma sanguíneo o de células del cuerpo humano: Se excluye producción y distribución de sangre y sus derivados, bancos de sangre e instalaciones de donación.",
+      "Cláusula de exclusión de Peligros (Riesgo) de la tecnología informática (NMA 2928).",
+      "Productos farmacéuticos.",
+      "Productos químicos expuestos (extremadamente inflamables, explosivos, tóxicos).",
+      "Materias peligrosas (altamente inflamables, explosivas, tóxicas, corrosivas), incluyendo sustancias líquidas y/o gaseosas (aún comprimidas).",
+      "Las consecuencias de las enfermedades de cualquier naturaleza e infecciones."
+    ],
+    "constructionPolicyDetails": {
+      "title": "Detalles seguro RC de Construcción",
+      "includesMessage": "Estás contratando seguro de Responsabilidad Civil construcción que incluye:",
+      "includes": [
+        "Responsabilidad Civil Construcción",
+        "Responsabilidad Civil Construcción Vibraciones",
+        "Responsabilidad Civil Patronal",
+        "Responsabilidad Civil Cruzada",
+        "Responsabilidad Civil de Empresas de Transporte",
+        "Responsabilidad Civil Vehicular",
+        "Responsabilidad Civil por Uso de Equipo Móvil",
+        "RC por Contaminación y/o Polución Súbita",
+        "Daños a 3ros Causados por Conductores Dependientes",
+        "Costos y Gastos de Defensa",
+        "Daños Instalaciones Subterráneas",
+        "Responsabilidad Civil por Accidentes de Trayecto"
+      ]
+    },
+    "constructionMOPPolicyDetails": {
+      "title": "Detalles seguro RC de Construcción MOP",
+      "includesMessage": "Estás contratando seguro de Responsabilidad Civil Construcción MOP que incluye:",
+      "includes": [
+        "Responsabilidad Civil Construcción MOP",
+        "Responsabilidad Civil Construcción Vibraciones",
+        "Responsabilidad Civil Patronal",
+        "Responsabilidad Civil Cruzada",
+        "Responsabilidad Civil de Empresas de Transporte",
+        "Responsabilidad Civil Vehicular",
+        "Responsabilidad Civil por Uso de Equipo Móvil",
+        "RC por Contaminación y/o Polución Súbita",
+        "Daños a 3ros Causados por Conductores Dependientes",
+        "Costos y Gastos de Defensa",
+        "Daños Instalaciones Subterráneas",
+        "Responsabilidad Civil por Accidentes de Trayecto"
+      ]
+    },
+    "companiesAndServicesPolicyDetails": {
+      "title": "Detalles seguro RC empresas y servicios",
+      "includesMessage": "Estás contratando seguro de Responsabilidad Civil para Empresas que incluye:",
+      "includes": [
+        "Responsabilidad Civil Patronal",
+        "Responsabilidad Civil Cruzada",
+        "Responsabilidad Civil de Empresas de Transporte",
+        "Responsabilidad Civil Vehicular",
+        "Responsabilidad Civil por Accidentes de Trayecto"
+      ],
+      "notIncludesMessage": "No incluye:",
+      "notIncludes": [
+        "Responsabilidad Civil Profesional",
+        "Responsabilidad Civil de Producto"
+      ]
+    },
+    "addressType": [
+      {
+        "text": "Tipo de dirección",
+        "value": null
+      },
+      {
+        "text": "Dirección Principal",
+        "value": "P"
+      },
+      {
+        "text": "Dirección Dependiente",
+        "value": "D"
+      }
+    ],
+    "comunasCodes": [
+      {
+        "text": "Alto Del Carmen",
+        "value": "0045ADC  00"
+      },
+      {
+        "text": "Algarrobo",
+        "value": "0045ALG  00"
+      },
+      {
+        "text": "Alhue",
+        "value": "0045ALH  00"
+      },
+      {
+        "text": "Ancud",
+        "value": "0045ANC  00"
+      },
+      {
+        "text": "Andacollo",
+        "value": "0045AND  00"
+      },
+      {
+        "text": "Angol",
+        "value": "0045ANG  00"
+      },
+      {
+        "text": "Antofagasta",
+        "value": "0045ANT  00"
+      },
+      {
+        "text": "Arauco",
+        "value": "0045ARA  00"
+      },
+      {
+        "text": "Antártica",
+        "value": "0045ATA  00"
+      },
+      {
+        "text": "Antuco",
+        "value": "0045ATU  00"
+      },
+      {
+        "text": "Aysén",
+        "value": "0045AYS  00"
+      },
+      {
+        "text": "Buin",
+        "value": "0045BUI  00"
+      },
+      {
+        "text": "Bulnes",
+        "value": "0045BUL  00"
+      },
+      {
+        "text": "Cabrero",
+        "value": "0045CAB  00"
+      },
+      {
+        "text": "Calama",
+        "value": "0045CAL  00"
+      },
+      {
+        "text": "Cañete",
+        "value": "0045CAN  00"
+      },
+      {
+        "text": "Cartagena",
+        "value": "0045CAR  00"
+      },
+      {
+        "text": "Casablanca",
+        "value": "0045CAS  00"
+      },
+      {
+        "text": "Catemu",
+        "value": "0045CAT  00"
+      },
+      {
+        "text": "Cauquenes",
+        "value": "0045CAU  00"
+      },
+      {
+        "text": "Canela",
+        "value": "0045CBA  00"
+      },
+      {
+        "text": "Cabildo",
+        "value": "0045CBI  00"
+      },
+      {
+        "text": "Calbuco",
+        "value": "0045CBU  00"
+      },
+      {
+        "text": "Calera De Tango",
+        "value": "0045CDT  00"
+      },
+      {
+        "text": "Curaco De Velez",
+        "value": "0045CDV  00"
+      },
+      {
+        "text": "Cerrillos",
+        "value": "0045CER  00"
+      },
+      {
+        "text": "Chañaral",
+        "value": "0045CHA  00"
+      },
+      {
+        "text": "Chile Chico",
+        "value": "0045CHC  00"
+      },
+      {
+        "text": "Chepica",
+        "value": "0045CHE  00"
+      },
+      {
+        "text": "Chiguayante",
+        "value": "0045CHG  00"
+      },
+      {
+        "text": "Chillán",
+        "value": "0045CHI  00"
+      },
+      {
+        "text": "Chimbarongo",
+        "value": "0045CHM  00"
+      },
+      {
+        "text": "Chanco",
+        "value": "0045CHN  00"
+      },
+      {
+        "text": "Chonchi",
+        "value": "0045CHO  00"
+      },
+      {
+        "text": "Cochrane",
+        "value": "0045CHR  00"
+      },
+      {
+        "text": "Chaitén y Colbún",
+        "value": "0045CHT  00"
+      },
+      {
+        "text": "Cisnes",
+        "value": "0045CIS  00"
+      },
+      {
+        "text": "Calle Larga",
+        "value": "0045CLA  00"
+      },
+      {
+        "text": "Colbun",
+        "value": "0045CLB  00"
+      },
+      {
+        "text": "Colchane",
+        "value": "0045CLC  00"
+      },
+      {
+        "text": "Caldera",
+        "value": "0045CLD  00"
+      },
+      {
+        "text": "Calera",
+        "value": "0045CLE  00"
+      },
+      {
+        "text": "Collipulli",
+        "value": "0045CLL  00"
+      },
+      {
+        "text": "Coltauco",
+        "value": "0045CLT  00"
+      },
+      {
+        "text": "Camiña",
+        "value": "0045CMI  00"
+      },
+      {
+        "text": "Cerro Navia",
+        "value": "0045CNA  00"
+      },
+      {
+        "text": "Coinco",
+        "value": "0045CNC  00"
+      },
+      {
+        "text": "Conchalí",
+        "value": "0045CNL  00"
+      },
+      {
+        "text": "Constitución",
+        "value": "0045CNS  00"
+      },
+      {
+        "text": "Contulmo",
+        "value": "0045CNT  00"
+      },
+      {
+        "text": "Cobquecura",
+        "value": "0045COB  00"
+      },
+      {
+        "text": "Codegua",
+        "value": "0045COD  00"
+      },
+      {
+        "text": "Coelemu",
+        "value": "0045COE  00"
+      },
+      {
+        "text": "Cochamó y Combarbalá",
+        "value": "0045COH  00"
+      },
+      {
+        "text": "Coihueco",
+        "value": "0045COI  00"
+      },
+      {
+        "text": "Colina",
+        "value": "0045COL  00"
+      },
+      {
+        "text": "Combarbala",
+        "value": "0045COM  00"
+      },
+      {
+        "text": "Concepción",
+        "value": "0045CON  00"
+      },
+      {
+        "text": "Copiapó",
+        "value": "0045COP  00"
+      },
+      {
+        "text": "Coquimbo",
+        "value": "0045COQ  00"
+      },
+      {
+        "text": "Coronel",
+        "value": "0045COR  00"
+      },
+      {
+        "text": "Coihaique",
+        "value": "0045COY  00"
+      },
+      {
+        "text": "Curacautín",
+        "value": "0045CRC  00"
+      },
+      {
+        "text": "Carahue",
+        "value": "0045CRH  00"
+      },
+      {
+        "text": "Curanilahue",
+        "value": "0045CRN  00"
+      },
+      {
+        "text": "Curepto",
+        "value": "0045CRP  00"
+      },
+      {
+        "text": "Curacaví",
+        "value": "0045CRV  00"
+      },
+      {
+        "text": "Castro",
+        "value": "0045CST  00"
+      },
+      {
+        "text": "Curarrehue",
+        "value": "0045CUH  00"
+      },
+      {
+        "text": "Cunco",
+        "value": "0045CUN  00"
+      },
+      {
+        "text": "Curicó",
+        "value": "0045CUR  00"
+      },
+      {
+        "text": "Dalcahue",
+        "value": "0045DAL  00"
+      },
+      {
+        "text": "Diego De Almagro",
+        "value": "0045DDA  00"
+      },
+      {
+        "text": "Doñihue",
+        "value": "0045DON  00"
+      },
+      {
+        "text": "El Bosque",
+        "value": "0045EBO  00"
+      },
+      {
+        "text": "El Carmen",
+        "value": "0045ECA  00"
+      },
+      {
+        "text": "Estación Central",
+        "value": "0045ECE  00"
+      },
+      {
+        "text": "El Monte",
+        "value": "0045EMO  00"
+      },
+      {
+        "text": "Empedrado",
+        "value": "0045EMP  00"
+      },
+      {
+        "text": "El Quisco",
+        "value": "0045EQU  00"
+      },
+      {
+        "text": "Ercilla",
+        "value": "0045ERC  00"
+      },
+      {
+        "text": "El Tabo",
+        "value": "0045ETA  00"
+      },
+      {
+        "text": "Freirina",
+        "value": "0045FEI  00"
+      },
+      {
+        "text": "Florida",
+        "value": "0045FLO  00"
+      },
+      {
+        "text": "Freire",
+        "value": "0045FRE  00"
+      },
+      {
+        "text": "Fresia",
+        "value": "0045FRS  00"
+      },
+      {
+        "text": "Frutillar",
+        "value": "0045FRU  00"
+      },
+      {
+        "text": "Futaleufu",
+        "value": "0045FTF  00"
+      },
+      {
+        "text": "Galvarino",
+        "value": "0045GAL  00"
+      },
+      {
+        "text": "Gorbea",
+        "value": "0045GOR  00"
+      },
+      {
+        "text": "Graneros",
+        "value": "0045GRA  00"
+      },
+      {
+        "text": "Guaitecas",
+        "value": "0045GUA  00"
+      },
+      {
+        "text": "Hijuelas",
+        "value": "0045HIJ  00"
+      },
+      {
+        "text": "Hualañe",
+        "value": "0045HLE  00"
+      },
+      {
+        "text": "Hualaihue",
+        "value": "0045HLH  00"
+      },
+      {
+        "text": "Hualqui",
+        "value": "0045HLQ  00"
+      },
+      {
+        "text": "Huara",
+        "value": "0045HRA  00"
+      },
+      {
+        "text": "Huasco",
+        "value": "0045HSC  00"
+      },
+      {
+        "text": "Huechuraba",
+        "value": "0045HUE  00"
+      },
+      {
+        "text": "Isla De Maipo",
+        "value": "0045IDM  00"
+      },
+      {
+        "text": "Isla De Pascua",
+        "value": "0045IDP  00"
+      },
+      {
+        "text": "Illapel",
+        "value": "0045ILL  00"
+      },
+      {
+        "text": "Independencia",
+        "value": "0045IND  00"
+      },
+      {
+        "text": "Iquique",
+        "value": "0045IQU  00"
+      },
+      {
+        "text": "Juan Fernández / Los Angeles",
+        "value": "0045JFE  00"
+      },
+      {
+        "text": "Los Andes",
+        "value": "0045LAD  00"
+      },
+      {
+        "text": "Los Ángeles",
+        "value": "0045LAG  00"
+      },
+      {
+        "text": "Laja",
+        "value": "0045LAJ  00"
+      },
+      {
+        "text": "Los Alamos",
+        "value": "0045LAL  00"
+      },
+      {
+        "text": "Lampa",
+        "value": "0045LAM  00"
+      },
+      {
+        "text": "Lautaro",
+        "value": "0045LAU  00"
+      },
+      {
+        "text": "Lo Barnechea",
+        "value": "0045LBA  00"
+      },
+      {
+        "text": "Laguna Blanca",
+        "value": "0045LBL  00"
+      },
+      {
+        "text": "Las Cabras",
+        "value": "0045LCA  00"
+      },
+      {
+        "text": "La Cisterna",
+        "value": "0045LCI  00"
+      },
+      {
+        "text": "Las Condes",
+        "value": "0045LCO  00"
+      },
+      {
+        "text": "La Cruz",
+        "value": "0045LCR  00"
+      },
+      {
+        "text": "Lebu",
+        "value": "0045LEB  00"
+      },
+      {
+        "text": "La Estrella",
+        "value": "0045LES  00"
+      },
+      {
+        "text": "La Florida",
+        "value": "0045LFL  00"
+      },
+      {
+        "text": "La Granja",
+        "value": "0045LGR  00"
+      },
+      {
+        "text": "La Higuera",
+        "value": "0045LHI  00"
+      },
+      {
+        "text": "Licanten",
+        "value": "0045LIC  00"
+      },
+      {
+        "text": "Limache",
+        "value": "0045LIM  00"
+      },
+      {
+        "text": "Linares",
+        "value": "0045LIN  00"
+      },
+      {
+        "text": "Litueche",
+        "value": "0045LIT  00"
+      },
+      {
+        "text": "La Ligua",
+        "value": "0045LLI  00"
+      },
+      {
+        "text": "LLaillay",
+        "value": "0045LLL  00"
+      },
+      {
+        "text": "LLanquihue",
+        "value": "0045LLQ  00"
+      },
+      {
+        "text": "Los Muermos",
+        "value": "0045LMU  00"
+      },
+      {
+        "text": "Loncoche",
+        "value": "0045LNC  00"
+      },
+      {
+        "text": "Longavi",
+        "value": "0045LNG  00"
+      },
+      {
+        "text": "Lonquimay",
+        "value": "0045LNQ  00"
+      },
+      {
+        "text": "Lo Espejo",
+        "value": "0045LOE  00"
+      },
+      {
+        "text": "Lolol",
+        "value": "0045LOL  00"
+      },
+      {
+        "text": "Lota",
+        "value": "0045LOT  00"
+      },
+      {
+        "text": "Lo Prado",
+        "value": "0045LPA  00"
+      },
+      {
+        "text": "La Pintana",
+        "value": "0045LPI  00"
+      },
+      {
+        "text": "La Reina",
+        "value": "0045LRE  00"
+      },
+      {
+        "text": "Los Sauces",
+        "value": "0045LSA  00"
+      },
+      {
+        "text": "La Serena",
+        "value": "0045LSE  00"
+      },
+      {
+        "text": "Lumaco",
+        "value": "0045LUM  00"
+      },
+      {
+        "text": "Lago Verde",
+        "value": "0045LVE  00"
+      },
+      {
+        "text": "Los Vilos",
+        "value": "0045LVI  00"
+      },
+      {
+        "text": "Machalí",
+        "value": "0045MAC  00"
+      },
+      {
+        "text": "María Elena",
+        "value": "0045MAE  00"
+      },
+      {
+        "text": "Malloa",
+        "value": "0045MAL  00"
+      },
+      {
+        "text": "Maule",
+        "value": "0045MAU  00"
+      },
+      {
+        "text": "Marchihue",
+        "value": "0045MCH  00"
+      },
+      {
+        "text": "Macul",
+        "value": "0045MCL  00"
+      },
+      {
+        "text": "Mejillones",
+        "value": "0045MEJ  00"
+      },
+      {
+        "text": "Melipilla",
+        "value": "0045MEL  00"
+      },
+      {
+        "text": "Maullin",
+        "value": "0045MLL  00"
+      },
+      {
+        "text": "Molina",
+        "value": "0045MOL  00"
+      },
+      {
+        "text": "Mostazal",
+        "value": "0045MOS  00"
+      },
+      {
+        "text": "Monte Patria",
+        "value": "0045MPA  00"
+      },
+      {
+        "text": "Melipeuco",
+        "value": "0045MPC  00"
+      },
+      {
+        "text": "Maria Pinto",
+        "value": "0045MPI  00"
+      },
+      {
+        "text": "Maipú",
+        "value": "0045MPU  00"
+      },
+      {
+        "text": "Mulchen",
+        "value": "0045MUL  00"
+      },
+      {
+        "text": "Nacimiento",
+        "value": "0045NAC  00"
+      },
+      {
+        "text": "Nancagua",
+        "value": "0045NAN  00"
+      },
+      {
+        "text": "Natales",
+        "value": "0045NAT  00"
+      },
+      {
+        "text": "Negrete",
+        "value": "0045NEG  00"
+      },
+      {
+        "text": "Nueva Imperial",
+        "value": "0045NIM  00"
+      },
+      {
+        "text": "Ninhue",
+        "value": "0045NIN  00"
+      },
+      {
+        "text": "Ñiquen",
+        "value": "0045NIQ  00"
+      },
+      {
+        "text": "No Informada",
+        "value": "0045NNN  00"
+      },
+      {
+        "text": "Nogales",
+        "value": "0045NOG  00"
+      },
+      {
+        "text": "Ñuñoa",
+        "value": "0045NUN  00"
+      },
+      {
+        "text": "Navidad",
+        "value": "0045NVD  00"
+      },
+      {
+        "text": "O'Higgins",
+        "value": "0045OHI  00"
+      },
+      {
+        "text": "Olivar",
+        "value": "0045OLI  00"
+      },
+      {
+        "text": "Ollague",
+        "value": "0045OLL  00"
+      },
+      {
+        "text": "Olmué",
+        "value": "0045OLM  00"
+      },
+      {
+        "text": "Osorno",
+        "value": "0045OSO  00"
+      },
+      {
+        "text": "Ovalle",
+        "value": "0045OVA  00"
+      },
+      {
+        "text": "Pedro Aguirre Cerda",
+        "value": "0045PAC  00"
+      },
+      {
+        "text": "Paine",
+        "value": "0045PAI  00"
+      },
+      {
+        "text": "Puente Alto",
+        "value": "0045PAL  00"
+      },
+      {
+        "text": "Papudo",
+        "value": "0045PAP  00"
+      },
+      {
+        "text": "Punta Arenas",
+        "value": "0045PAR  00"
+      },
+      {
+        "text": "Pichilemu",
+        "value": "0045PCH  00"
+      },
+      {
+        "text": "Padre de las casas",
+        "value": "0045PCS  00"
+      },
+      {
+        "text": "Pichidegua",
+        "value": "0045PDG  00"
+      },
+      {
+        "text": "Pelarco",
+        "value": "0045PEL  00"
+      },
+      {
+        "text": "Pemuco",
+        "value": "0045PEM  00"
+      },
+      {
+        "text": "Peñaflor",
+        "value": "0045PEN  00"
+      },
+      {
+        "text": "Peralillo",
+        "value": "0045PER  00"
+      },
+      {
+        "text": "Petarco",
+        "value": "0045PET  00"
+      },
+      {
+        "text": "Peumo",
+        "value": "0045PEU  00"
+      },
+      {
+        "text": "Paiguano",
+        "value": "0045PHN  00"
+      },
+      {
+        "text": "Padre Hurtado",
+        "value": "0045PHU  00"
+      },
+      {
+        "text": "Puchuncaví",
+        "value": "0045PHV  00"
+      },
+      {
+        "text": "Pica",
+        "value": "0045PIC  00"
+      },
+      {
+        "text": "Pinto",
+        "value": "0045PIN  00"
+      },
+      {
+        "text": "Pirque",
+        "value": "0045PIR  00"
+      },
+      {
+        "text": "Pitrufquén",
+        "value": "0045PIT  00"
+      },
+      {
+        "text": "Placilla",
+        "value": "0045PLA  00"
+      },
+      {
+        "text": "Palmilla",
+        "value": "0045PLM  00"
+      },
+      {
+        "text": "Palena",
+        "value": "0045PLN  00"
+      },
+      {
+        "text": "Pelluhue",
+        "value": "0045PLU  00"
+      },
+      {
+        "text": "Puerto Montt",
+        "value": "0045PMO  00"
+      },
+      {
+        "text": "Penco",
+        "value": "0045PNC  00"
+      },
+      {
+        "text": "Pencahue",
+        "value": "0045PNH  00"
+      },
+      {
+        "text": "Peñalolen",
+        "value": "0045PNL  00"
+      },
+      {
+        "text": "Puerto Octay",
+        "value": "0045POC  00"
+      },
+      {
+        "text": "Porvenir",
+        "value": "0045POR  00"
+      },
+      {
+        "text": "Panquehue",
+        "value": "0045PQH  00"
+      },
+      {
+        "text": "Perquenco",
+        "value": "0045PRC  00"
+      },
+      {
+        "text": "Paredones",
+        "value": "0045PRD  00"
+      },
+      {
+        "text": "Primavera",
+        "value": "0045PRI  00"
+      },
+      {
+        "text": "Purén",
+        "value": "0045PRN  00"
+      },
+      {
+        "text": "Providencia",
+        "value": "0045PRO  00"
+      },
+      {
+        "text": "Purranque",
+        "value": "0045PRQ  00"
+      },
+      {
+        "text": "Parral",
+        "value": "0045PRR  00"
+      },
+      {
+        "text": "Portezuelo",
+        "value": "0045PTZ  00"
+      },
+      {
+        "text": "Pucón",
+        "value": "0045PUC  00"
+      },
+      {
+        "text": "Pudahuel",
+        "value": "0045PUD  00"
+      },
+      {
+        "text": "Pumanque",
+        "value": "0045PUM  00"
+      },
+      {
+        "text": "Punitaqui",
+        "value": "0045PUN  00"
+      },
+      {
+        "text": "Puqueldon",
+        "value": "0045PUQ  00"
+      },
+      {
+        "text": "Putaendo",
+        "value": "0045PUT  00"
+      },
+      {
+        "text": "Puyehue",
+        "value": "0045PUY  00"
+      },
+      {
+        "text": "Puerto Varas",
+        "value": "0045PVA  00"
+      },
+      {
+        "text": "Pozo Almonte",
+        "value": "0045PZA  00"
+      },
+      {
+        "text": "Quinta de Tilcoco",
+        "value": "0045QDT  00"
+      },
+      {
+        "text": "Quilaco",
+        "value": "0045QLA  00"
+      },
+      {
+        "text": "Quilleco",
+        "value": "0045QLE  00"
+      },
+      {
+        "text": "Quellón",
+        "value": "0045QLL  00"
+      },
+      {
+        "text": "Queilen",
+        "value": "0045QLN  00"
+      },
+      {
+        "text": "Quillon",
+        "value": "0045QLO  00"
+      },
+      {
+        "text": "Quilpue",
+        "value": "0045QLP  00"
+      },
+      {
+        "text": "Quemchi",
+        "value": "0045QMH  00"
+      },
+      {
+        "text": "Quinchao",
+        "value": "0045QNC  00"
+      },
+      {
+        "text": "Quinta Normal",
+        "value": "0045QNO  00"
+      },
+      {
+        "text": "Quintero",
+        "value": "0045QNT  00"
+      },
+      {
+        "text": "Quirihue",
+        "value": "0045QRH  00"
+      },
+      {
+        "text": "Quilicura",
+        "value": "0045QUC  00"
+      },
+      {
+        "text": "Quillota",
+        "value": "0045QUI  00"
+      },
+      {
+        "text": "Rancagua",
+        "value": "0045RAN  00"
+      },
+      {
+        "text": "Rauco",
+        "value": "0045RAU  00"
+      },
+      {
+        "text": "Rio Claro",
+        "value": "0045RCL  00"
+      },
+      {
+        "text": "Recoleta",
+        "value": "0045REC  00"
+      },
+      {
+        "text": "Renca",
+        "value": "0045REN  00"
+      },
+      {
+        "text": "Requinoa",
+        "value": "0045REQ  00"
+      },
+      {
+        "text": "Retiro",
+        "value": "0045RET  00"
+      },
+      {
+        "text": "Rio Hurtado",
+        "value": "0045RHU  00"
+      },
+      {
+        "text": "Rio Ibañez",
+        "value": "0045RIB  00"
+      },
+      {
+        "text": "Rinconada",
+        "value": "0045RIN  00"
+      },
+      {
+        "text": "Renaico",
+        "value": "0045RNA  00"
+      },
+      {
+        "text": "Rio Negro",
+        "value": "0045RNE  00"
+      },
+      {
+        "text": "Rengo",
+        "value": "0045RNG  00"
+      },
+      {
+        "text": "Ranquil",
+        "value": "0045RNQ  00"
+      },
+      {
+        "text": "Romeral",
+        "value": "0045ROM  00"
+      },
+      {
+        "text": "Rio Verde",
+        "value": "0045RVE  00"
+      },
+      {
+        "text": "Saavedra",
+        "value": "0045SAA  00"
+      },
+      {
+        "text": "Salamanca",
+        "value": "0045SAL  00"
+      },
+      {
+        "text": "Santiago",
+        "value": "0045SAN  00"
+      },
+      {
+        "text": "Santa Barbara",
+        "value": "0045SBA  00"
+      },
+      {
+        "text": "San Bernardo",
+        "value": "0045SBE  00"
+      },
+      {
+        "text": "San Carlos",
+        "value": "0045SCA  00"
+      },
+      {
+        "text": "San Clemente",
+        "value": "0045SCL  00"
+      },
+      {
+        "text": "Santa Cruz",
+        "value": "0045SCR  00"
+      },
+      {
+        "text": "Santo Domingo",
+        "value": "0045SDO  00"
+      },
+      {
+        "text": "San Esteban",
+        "value": "0045SES  00"
+      },
+      {
+        "text": "San Fabian",
+        "value": "0045SFB  00"
+      },
+      {
+        "text": "San Felipe",
+        "value": "0045SFL  00"
+      },
+      {
+        "text": "Sagrada Familia",
+        "value": "0045SFM  00"
+      },
+      {
+        "text": "San Fernando",
+        "value": "0045SFR  00"
+      },
+      {
+        "text": "Sierra Gorda",
+        "value": "0045SGO  00"
+      },
+      {
+        "text": "San Gregorio",
+        "value": "0045SGR  00"
+      },
+      {
+        "text": "San Ignacion",
+        "value": "0045SIG  00"
+      },
+      {
+        "text": "San Javier",
+        "value": "0045SJA  00"
+      },
+      {
+        "text": "San Juan De La Costa",
+        "value": "0045SJC  00"
+      },
+      {
+        "text": "San Jose De Maipo",
+        "value": "0045SJM  00"
+      },
+      {
+        "text": "San Joaquin",
+        "value": "0045SJO  00"
+      },
+      {
+        "text": "Santa Juana",
+        "value": "0045SJU  00"
+      },
+      {
+        "text": "Santa Maria",
+        "value": "0045SMA  00"
+      },
+      {
+        "text": "San Miguel",
+        "value": "0045SMI  00"
+      },
+      {
+        "text": "San Nicolas",
+        "value": "0045SNI  00"
+      },
+      {
+        "text": "San Antonio",
+        "value": "0045SNT  00"
+      },
+      {
+        "text": "San Pedro De Atacama",
+        "value": "0045SPA  00"
+      },
+      {
+        "text": "San Pablo",
+        "value": "0045SPB  00"
+      },
+      {
+        "text": "San Pedro",
+        "value": "0045SPE  00"
+      },
+      {
+        "text": "San Pedro De La Paz",
+        "value": "0045SPP  00"
+      },
+      {
+        "text": "San Ramon",
+        "value": "0045SRA  00"
+      },
+      {
+        "text": "San Rafael",
+        "value": "0045SRF  00"
+      },
+      {
+        "text": "San Rosendo",
+        "value": "0045SRO  00"
+      },
+      {
+        "text": "San Vicente",
+        "value": "0045SVI  00"
+      },
+      {
+        "text": "Talca",
+        "value": "0045TAL  00"
+      },
+      {
+        "text": "Tierra Amarilla",
+        "value": "0045TAM  00"
+      },
+      {
+        "text": "Torres Del Paine",
+        "value": "0045TDP  00"
+      },
+      {
+        "text": "Temuco",
+        "value": "0045TEM  00"
+      },
+      {
+        "text": "Teno",
+        "value": "0045TEN  00"
+      },
+      {
+        "text": "Tiltil",
+        "value": "0045TIL  00"
+      },
+      {
+        "text": "Timaukel",
+        "value": "0045TIM  00"
+      },
+      {
+        "text": "Tirua",
+        "value": "0045TIR  00"
+      },
+      {
+        "text": "Talagante",
+        "value": "0045TLG  00"
+      },
+      {
+        "text": "Talcahuano",
+        "value": "0045TLH  00"
+      },
+      {
+        "text": "Taltal",
+        "value": "0045TLT  00"
+      },
+      {
+        "text": "Tocopilla",
+        "value": "0045TOC  00"
+      },
+      {
+        "text": "Tolten",
+        "value": "0045TOL  00"
+      },
+      {
+        "text": "Tome",
+        "value": "0045TOM  00"
+      },
+      {
+        "text": "Tortel",
+        "value": "0045TOR  00"
+      },
+      {
+        "text": "Traiguen",
+        "value": "0045TRA  00"
+      },
+      {
+        "text": "Treguaco",
+        "value": "0045TRE  00"
+      },
+      {
+        "text": "Teodoro Schmidt",
+        "value": "0045TSC  00"
+      },
+      {
+        "text": "Tucapel",
+        "value": "0045TUC  00"
+      },
+      {
+        "text": "Valparaiso",
+        "value": "0045VAL  00"
+      },
+      {
+        "text": "Vichuquen",
+        "value": "0045VCH  00"
+      },
+      {
+        "text": "Vicuña",
+        "value": "0045VCU  00"
+      },
+      {
+        "text": "Viña Del Mar",
+        "value": "0045VDM  00"
+      },
+      {
+        "text": "Victoria",
+        "value": "0045VIC  00"
+      },
+      {
+        "text": "Villarica",
+        "value": "0045VIL  00"
+      },
+      {
+        "text": "Vitacura",
+        "value": "0045VIT  00"
+      },
+      {
+        "text": "Vilcun",
+        "value": "0045VLC  00"
+      },
+      {
+        "text": "Villa Alegre",
+        "value": "0045VLG  00"
+      },
+      {
+        "text": "Vallenar",
+        "value": "0045VLL  00"
+      },
+      {
+        "text": "Villa Alemana",
+        "value": "0045VLM  00"
+      },
+      {
+        "text": "Yerbas Buenas",
+        "value": "0045YBU  00"
+      },
+      {
+        "text": "Yumbel",
+        "value": "0045YUM  00"
+      },
+      {
+        "text": "Yungay",
+        "value": "0045YUN  00"
+      },
+      {
+        "text": "Zapallar",
+        "value": "0045ZAP  00"
+      },
+      {
+        "text": "Todo El País",
+        "value": "0045ZZZ  00"
+      },
+      {
+        "text": "Concon",
+        "value": "0045CCN  00"
+      },
+      {
+        "text": "Chol Chol",
+        "value": "0045CHL  00"
+      },
+      {
+        "text": "Hualpen",
+        "value": "0045HUA  00"
+      },
+      {
+        "text": "Alto Hospicio",
+        "value": "0045AHP  00"
+      },
+      {
+        "text": "Chilla Viejo",
+        "value": "0045CHV  00"
+      },
+      {
+        "text": "Cabo de Hornos",
+        "value": "0045CDH  00"
+      },
+      {
+        "text": "Arica",
+        "value": "0045ARC  00"
+      },
+      {
+        "text": "Camarones",
+        "value": "0045CRE  00"
+      },
+      {
+        "text": "Putre",
+        "value": "0045PRE  00"
+      },
+      {
+        "text": "General Lagos",
+        "value": "0045GRL  00"
+      },
+      {
+        "text": "Valdivia",
+        "value": "0045VDV  00"
+      },
+      {
+        "text": "Corral",
+        "value": "0045CRL  00"
+      },
+      {
+        "text": "Los Lagos",
+        "value": "0045LLA  00"
+      },
+      {
+        "text": "Mafil",
+        "value": "0045MFL  00"
+      },
+      {
+        "text": "Mariquina",
+        "value": "0045MRQ  00"
+      },
+      {
+        "text": "Paillaco",
+        "value": "0045PLO  00"
+      },
+      {
+        "text": "Panguipulli",
+        "value": "0045PAG  00"
+      },
+      {
+        "text": "La Unión",
+        "value": "0045LUO  00"
+      },
+      {
+        "text": "Futrono",
+        "value": "0045FNO  00"
+      },
+      {
+        "text": "Lago Ranco",
+        "value": "0045LRG  00"
+      },
+      {
+        "text": "Rio Bueno",
+        "value": "0045RBO  00"
+      },
+      {
+        "text": "Lanco",
+        "value": "0045LAO  00"
+      },
+      {
+        "text": "Alto Bio Bio",
+        "value": "0045ABB  00"
+      }
+    ],
+    "persons": [
+      "proponente",
+      "asegurado",
+      "mandante",
+      "deudor",
+      "beneficiario"
+    ],
+    "datesErrors": [
+      "Sólo podemos emitir tu póliza de forma online con 15 días de anticipación desde el inicio de la vigencia. Te recomendamos presionar el botón 'Quiero que me contacten' para recibir asesoría de una ejecutiva",
+      "La vigencia de tu póliza sólo puede comenzar a partir de la fecha actual en adelante, si necesitas asesoría presiona el botón 'Quiero que me contacten'",
+      "La fecha de término no puede ser anterior a la fecha de inicio",
+      "Al comprar tu póliza de forma online la vigencia es fija por 1 año, si necesitas otro rango de vigencia presiona el botón 'Quiero que me contacten' para recibir asesoría",
+      "Sólo podemos ofrecer hasta 2 años de vigencia al comprar tu póliza online, si necesitas mas tiempo presiona el botón 'Quiero que me contacten' para recibir asesoría"
+    ],
+    "formErrors": [
+      "Debes especificar que actividad realiza la empresa",
+      "Debes especificar necesitas una poliza para un proyecto del Ministerio de Obras Públicas (MOP)",
+      "Debes especificar la cantidad de trabajadores de la empresa",
+      "Debes especificar la modalidad de trabajo de la empresa",
+      "Debes especificar la dirección de la empresa",
+      "Debes especificar el tipo de dirección de la empresa",
+      "Debes especificar si la empresa ha tenido siniestros en los últimos 5 años",
+      "Debes especificar la experiencia del contratista",
+      "Debes especificar si la obra tiene una excavación",
+      "Debes especificar la profundidad de la excavación",
+      "Debes especificar la distancia de colindancia mas cercana",
+      "Debes especificar si la empresa cuenta con vehiculos",
+      "Debes especificar la cantidad de vehiculos con los que cuenta la empresa",
+      "Debes especificar si la empresa cuenta con equipos moviles",
+      "Debes especificar si la empresa transporta materiales que se consideran peligrosos",
+      "Debes especificar si la empresa realiza trabajos con alto voltaje",
+      "Debes especificar si la empresa realiza limpieza de altura",
+      "Debes especificar la dirección de todas tus ubicaciones",
+      "Si el valor de tu proyecto es superior a UF 200.000 pulsa el botón de abajo 'Quiero que me contacten' y nuestras ejecutivas se pondrán en contacto contigo",
+      "Si necesitas cotizar un monto superior a UF 10.000 pulsa el botón de abajo 'Quiero que me contacten' y nuestras ejecutivas se pondrán en contacto contigo",
+      "Si la actividad que realiza tu empresa no aparece en el listado pulsa el botón de abajo 'Quiero que me contacten', una de nuestras ejecutivas se comunicará contigo rápidamente para asesorarte",
+      "Si la descripción de tu obra no aparece en el listado pulsa el botón de abajo 'Quiero que me contacten' y nuestras ejecutivas se pondrán en contacto contigo",
+      "Debes indicar la descripción de la obra",
+      "Al comprar tu póliza de forma online no podemos cubrir más de 10 vehículos, pero podemos ayudarte mediante una ejecutiva. Presiona el botón de abajo 'Quiero que me contacten'.",
+      "Al comprar tu póliza de forma online no podemos cubrirte si transportas o almacenas material peligroso, pero podemos ayudarte mediante una ejecutiva. Presiona el botón de abajo 'Quiero que me contacten'.",
+      "Al comprar tu póliza de forma online no podemos cubrirte si la modalidad de trabajo de tu empresa es 100% remoto, pero podemos ayudarte mediante una ejecutiva. Presiona el botón de abajo 'Quiero que me contacten'.",
+      "Al comprar tu póliza de forma online no podemos cubrirte si has tenido siniestros en los ultimos 5 años, pero podemos ayudarte mediante una ejecutiva. Presiona el botón de abajo 'Quiero que me contacten'.",
+      "Al comprar tu póliza de forma online no podemos cubrirte si tu empresa realiza limpieza de altura, pero podemos ayudarte mediante una ejecutiva. Presiona el botón de abajo 'Quiero que me contacten'.",
+      "Al comprar tu póliza de forma online no podemos cubrirte si tu empresa realiza trabajos de alto voltaje, pero podemos ayudarte mediante una ejecutiva. Presiona el botón de abajo 'Quiero que me contacten'."
+    ],
+    "optionalInsurancesInfo": [
+      {
+        "icon": "heavy-truck",
+        "coverage_code": 3760,
+        "mainMessage": "Resp. Civil de Transporte de Carga",
+        "tooltipMessage": "Compensa por los daños ocasionados a terceros por tu carga."
+      },
+      {
+        "icon": "train",
+        "coverage_code": 2207,
+        "mainMessage": "Resp. Civil de Transporte de Pasajeros",
+        "tooltipMessage": "Cubre daños a bienes y/o lesiones y/o la muerte de terceros no transportados y/o de pasajeros."
+      }
+    ],
+    "whoPaysOptions": [
+      {
+        "text": "Selecciona una opción",
+        "value": null
+      },
+      {
+        "text": "La empresa asegurada",
+        "value": "same"
+      },
+      {
+        "text": "Otro",
+        "value": "other"
+      }
+    ],
+    "otherPersonType": [
+      {
+        "text": "Tipo de persona",
+        "value": null
+      },
+      {
+        "text": "Natural",
+        "value": "n"
+      },
+      {
+        "text": "Jurídica",
+        "value": "j"
+      }
+    ],
+    "general_exclutions": [
+      "Obras de embalses: presa, bocatomas, pozos, canales de devolución de aguas.",
+      "Canoas de relaves: cascadas y cruces de quebradas y cursos de agua.",
+      "Obras para el metro: trabajos subterráneos en estación con obras de hormigón y enfierradura y procesos de ventilación.",
+      "Obras de Túneles.",
+      "Autopistas de elevación.",
+      "Puentes, Obras de Minería (Subterráneas), Vías Férreas, cruces ferroviarios.",
+      "Exploración, prospección, perforación explotación de petróleo y de gas (Gasoductos/Oleoductos).",
+      "Líneas de Transmisión y Distribución.",
+      "Riesgos de técnicas marinas, operaciones costa afuera (off-shore), cualquier tipo de riesgo húmedo.",
+      "Demoliciones.",
+      "Uso de explosivos, municiones, combustibles, lubricantes, químicos, elementos corrosivos y/o contaminantes de cualquier tipo.",
+      "Mantenimiento de aeropuertos o sitios de lanzamiento y sus respectivas infraestructuras.",
+      "Minería subterránea."
+    ],
+    "nroLocationsOptions": [
+      {
+        "text": "N° de ubicaciones",
+        "value": null
+      },
+      {
+        "text": "1",
+        "value": 1
+      },
+      {
+        "text": "2",
+        "value": 2
+      },
+      {
+        "text": "3",
+        "value": 3
+      },
+      {
+        "text": "4",
+        "value": 4
+      },
+      {
+        "text": "5",
+        "value": 5
+      }
+    ],
+    "regionesChile": [
+      {
+        "text": "Región De Arica Y Parinacota",
+        "value": "Región De Arica Y Parinacota"
+      },
+      {
+        "text": "Región De Tarapacá",
+        "value": "Región De Tarapacá"
+      },
+      {
+        "text": "Región De Antofagasta",
+        "value": "Región De Antofagasta"
+      },
+      {
+        "text": "Región De Atacama",
+        "value": "Región De Atacama"
+      },
+      {
+        "text": "Región De Coquimbo",
+        "value": "Región De Coquimbo"
+      },
+      {
+        "text": "Región De Valparaíso",
+        "value": "Región De Valparaíso"
+      },
+      {
+        "text": "Región Metropolitana De Santiago",
+        "value": "Región Metropolitana De Santiago"
+      },
+      {
+        "text": "Región Del Libertador General Bernardo O'Higgins",
+        "value": "Región Del Libertador General Bernardo O'Higgins"
+      },
+      {
+        "text": "Región Del Maule",
+        "value": "Región Del Maule"
+      },
+      {
+        "text": "Región Del Ñuble",
+        "value": "Región Del Ñuble"
+      },
+      {
+        "text": "Región Del Bíobío",
+        "value": "Región Del Bíobío"
+      },
+      {
+        "text": "Región De La Araucanía",
+        "value": "Región De La Araucanía"
+      },
+      {
+        "text": "Región De Los Ríos",
+        "value": "Región De Los Ríos"
+      },
+      {
+        "text": "Región De Los Lagos",
+        "value": "Región De Los Lagos"
+      },
+      {
+        "text": "Región De Aysén Del General Carlos Ibáñez Del Campo",
+        "value": "Región De Aysén Del General Carlos Ibáñez Del Campo"
+      },
+      {
+        "text": "Región De Magallanes Y la Antártica Chilena",
+        "value": "Región De Magallanes Y la Antártica Chilena"
+      }
+    ],
+    "cities": [
+      {
+        "text": "Iquique",
+        "value": "Iquique"
+      },
+      {
+        "text": "Antofagasta",
+        "value": "Antofagasta"
+      },
+      {
+        "text": "Calama",
+        "value": "Calama"
+      },
+      {
+        "text": "Tocopilla",
+        "value": "Tocopilla"
+      },
+      {
+        "text": "Copiapó",
+        "value": "Copiapó"
+      },
+      {
+        "text": "Chañaral",
+        "value": "Chañaral"
+      },
+      {
+        "text": "Vallenar",
+        "value": "Vallenar"
+      },
+      {
+        "text": "La Serena",
+        "value": "La Serena"
+      },
+      {
+        "text": "Coquimbo",
+        "value": "Coquimbo"
+      },
+      {
+        "text": "Illapel",
+        "value": "Illapel"
+      },
+      {
+        "text": "Los Vilos",
+        "value": "Los Vilos"
+      },
+      {
+        "text": "Salamanca",
+        "value": "Salamanca"
+      },
+      {
+        "text": "Ovalle",
+        "value": "Ovalle"
+      },
+      {
+        "text": "Valparaíso",
+        "value": "Valparaíso"
+      },
+      {
+        "text": "Viña Del Mar",
+        "value": "Viña Del Mar"
+      },
+      {
+        "text": "Isla De Pascua",
+        "value": "Isla De Pascua"
+      },
+      {
+        "text": "Los Andes",
+        "value": "Los Andes"
+      },
+      {
+        "text": "La Ligua",
+        "value": "La Ligua"
+      },
+      {
+        "text": "Quillota",
+        "value": "Quillota"
+      },
+      {
+        "text": "Calera",
+        "value": "Calera"
+      },
+      {
+        "text": "San Antonio",
+        "value": "San Antonio"
+      },
+      {
+        "text": "San Felipe",
+        "value": "San Felipe"
+      },
+      {
+        "text": "Rancagua",
+        "value": "Rancagua"
+      },
+      {
+        "text": "Peumo",
+        "value": "Peumo"
+      },
+      {
+        "text": "Rengo",
+        "value": "Rengo"
+      },
+      {
+        "text": "San Vicente",
+        "value": "San Vicente"
+      },
+      {
+        "text": "Pichilemu",
+        "value": "Pichilemu"
+      },
+      {
+        "text": "San Fernando",
+        "value": "San Fernando"
+      },
+      {
+        "text": "Talca",
+        "value": "Talca"
+      },
+      {
+        "text": "Cauquenes",
+        "value": "Cauquenes"
+      },
+      {
+        "text": "Curicó",
+        "value": "Curicó"
+      },
+      {
+        "text": "Linares",
+        "value": "Linares"
+      },
+      {
+        "text": "Concepción",
+        "value": "Concepción"
+      },
+      {
+        "text": "Arauco",
+        "value": "Arauco"
+      },
+      {
+        "text": "Los Ángeles",
+        "value": "Los Ángeles"
+      },
+      {
+        "text": "San Carlos",
+        "value": "San Carlos"
+      },
+      {
+        "text": "Temuco",
+        "value": "Temuco"
+      },
+      {
+        "text": "Pucón",
+        "value": "Pucón"
+      },
+      {
+        "text": "Villarrica",
+        "value": "Villarrica"
+      },
+      {
+        "text": "Angol",
+        "value": "Angol"
+      },
+      {
+        "text": "Victoria",
+        "value": "Victoria"
+      },
+      {
+        "text": "Puerto Montt",
+        "value": "Puerto Montt"
+      },
+      {
+        "text": "Castro",
+        "value": "Castro"
+      },
+      {
+        "text": "Osorno",
+        "value": "Osorno"
+      },
+      {
+        "text": "Chaitén",
+        "value": "Chaitén"
+      },
+      {
+        "text": "Futaleufú",
+        "value": "Futaleufú"
+      },
+      {
+        "text": "Palena",
+        "value": "Palena"
+      },
+      {
+        "text": "Coyhaique",
+        "value": "Coyhaique"
+      },
+      {
+        "text": "Puerto Aysén",
+        "value": "Puerto Aysén"
+      },
+      {
+        "text": "Cochrane",
+        "value": "Cochrane"
+      },
+      {
+        "text": "Punta Arenas",
+        "value": "Punta Arenas"
+      },
+      {
+        "text": "Cabo de Hornos",
+        "value": "Cabo de Hornos"
+      },
+      {
+        "text": "Porvenir",
+        "value": "Porvenir"
+      },
+      {
+        "text": "Puerto Natales",
+        "value": "Puerto Natales"
+      },
+      {
+        "text": "Santiago",
+        "value": "Santiago"
+      },
+      {
+        "text": "Valdivia",
+        "value": "Valdivia"
+      },
+      {
+        "text": "Arica",
+        "value": "Arica"
+      },
+      {
+        "text": "Putre",
+        "value": "Putre"
+      },
+      {
+        "text": "Pica",
+        "value": "Pica"
+      },
+      {
+        "text": "Pozo Almonte",
+        "value": "Pozo Almonte"
+      },
+      {
+        "text": "Alto Hospicio",
+        "value": "Alto Hospicio"
+      },
+      {
+        "text": "Mejillones",
+        "value": "Mejillones"
+      },
+      {
+        "text": "Taltal",
+        "value": "Taltal"
+      },
+      {
+        "text": "Caldera",
+        "value": "Caldera"
+      },
+      {
+        "text": "Canela Baja",
+        "value": "Canela Baja"
+      },
+      {
+        "text": "Vicuña",
+        "value": "Vicuña"
+      },
+      {
+        "text": "Casablanca",
+        "value": "Casablanca"
+      },
+      {
+        "text": "Cabildo",
+        "value": "Cabildo"
+      },
+      {
+        "text": "Concón",
+        "value": "Concón"
+      },
+      {
+        "text": "Limache",
+        "value": "Limache"
+      },
+      {
+        "text": "Quilpué",
+        "value": "Quilpué"
+      },
+      {
+        "text": "Quintero",
+        "value": "Quintero"
+      },
+      {
+        "text": "Villa Alemana",
+        "value": "Villa Alemana"
+      },
+      {
+        "text": "Zapallar",
+        "value": "Zapallar"
+      },
+      {
+        "text": "Paine",
+        "value": "Paine"
+      },
+      {
+        "text": "Chimbarongo",
+        "value": "Chimbarongo"
+      },
+      {
+        "text": "Coltauco",
+        "value": "Coltauco"
+      },
+      {
+        "text": "Coinco",
+        "value": "Coinco"
+      },
+      {
+        "text": "Las Cabras",
+        "value": "Las Cabras"
+      },
+      {
+        "text": "Lolol",
+        "value": "Lolol"
+      },
+      {
+        "text": "Malloa",
+        "value": "Malloa"
+      },
+      {
+        "text": "Nancagua",
+        "value": "Nancagua"
+      },
+      {
+        "text": "Pichidegua",
+        "value": "Pichidegua"
+      },
+      {
+        "text": "Peralillo",
+        "value": "Peralillo"
+      },
+      {
+        "text": "Pumanque",
+        "value": "Pumanque"
+      },
+      {
+        "text": "Quinta De Tilcoco",
+        "value": "Quinta De Tilcoco"
+      },
+      {
+        "text": "Santa Cruz",
+        "value": "Santa Cruz"
+      },
+      {
+        "text": "Chanco",
+        "value": "Chanco"
+      },
+      {
+        "text": "Colbún",
+        "value": "Colbún"
+      },
+      {
+        "text": "Constitución",
+        "value": "Constitución"
+      },
+      {
+        "text": "Curepto",
+        "value": "Curepto"
+      },
+      {
+        "text": "Empedrado",
+        "value": "Empedrado"
+      },
+      {
+        "text": "Hualañé",
+        "value": "Hualañé"
+      },
+      {
+        "text": "Licantén",
+        "value": "Licantén"
+      },
+      {
+        "text": "San Rafael",
+        "value": "San Rafael"
+      },
+      {
+        "text": "Pelluhue",
+        "value": "Pelluhue"
+      },
+      {
+        "text": "Parral",
+        "value": "Parral"
+      },
+      {
+        "text": "Retiro",
+        "value": "Retiro"
+      },
+      {
+        "text": "San Javier",
+        "value": "San Javier"
+      },
+      {
+        "text": "Vichuquén",
+        "value": "Vichuquén"
+      },
+      {
+        "text": "Antuco",
+        "value": "Antuco"
+      },
+      {
+        "text": "Cabrero",
+        "value": "Cabrero"
+      },
+      {
+        "text": "Cañete",
+        "value": "Cañete"
+      },
+      {
+        "text": "Chiguayante",
+        "value": "Chiguayante"
+      },
+      {
+        "text": "Coronel",
+        "value": "Coronel"
+      },
+      {
+        "text": "Lebú",
+        "value": "Lebú"
+      },
+      {
+        "text": "Laja",
+        "value": "Laja"
+      },
+      {
+        "text": "Mulchén",
+        "value": "Mulchén"
+      },
+      {
+        "text": "Nacimiento",
+        "value": "Nacimiento"
+      },
+      {
+        "text": "Negrete",
+        "value": "Negrete"
+      },
+      {
+        "text": "Quilaco",
+        "value": "Quilaco"
+      },
+      {
+        "text": "Quilleco",
+        "value": "Quilleco"
+      },
+      {
+        "text": "Ralco",
+        "value": "Ralco"
+      },
+      {
+        "text": "Santa Bárbara",
+        "value": "Santa Bárbara"
+      },
+      {
+        "text": "San Rosendo",
+        "value": "San Rosendo"
+      },
+      {
+        "text": "Talcahuano",
+        "value": "Talcahuano"
+      },
+      {
+        "text": "Diguillín",
+        "value": "Diguillín"
+      },
+      {
+        "text": "Itata",
+        "value": "Itata"
+      },
+      {
+        "text": "Punilla",
+        "value": "Punilla"
+      },
+      {
+        "text": "Collipulli",
+        "value": "Collipulli"
+      },
+      {
+        "text": "Curacautín",
+        "value": "Curacautín"
+      },
+      {
+        "text": "Carahue",
+        "value": "Carahue"
+      },
+      {
+        "text": "Curarrehue",
+        "value": "Curarrehue"
+      },
+      {
+        "text": "Cunco",
+        "value": "Cunco"
+      },
+      {
+        "text": "Freire",
+        "value": "Freire"
+      },
+      {
+        "text": "Galvarino",
+        "value": "Galvarino"
+      },
+      {
+        "text": "Gorbea",
+        "value": "Gorbea"
+      },
+      {
+        "text": "Lautaro",
+        "value": "Lautaro"
+      },
+      {
+        "text": "Lonquimay",
+        "value": "Lonquimay"
+      },
+      {
+        "text": "Los Sauces",
+        "value": "Los Sauces"
+      },
+      {
+        "text": "Melipeuco",
+        "value": "Melipeuco"
+      },
+      {
+        "text": "Nueva Imperial",
+        "value": "Nueva Imperial"
+      },
+      {
+        "text": "Nueva Toltén",
+        "value": "Nueva Toltén"
+      },
+      {
+        "text": "Padre Las Casas",
+        "value": "Padre Las Casas"
+      },
+      {
+        "text": "Pitrufquén",
+        "value": "Pitrufquén"
+      },
+      {
+        "text": "Perquenco",
+        "value": "Perquenco"
+      },
+      {
+        "text": "Purén",
+        "value": "Purén"
+      },
+      {
+        "text": "Puerto Saavedra",
+        "value": "Puerto Saavedra"
+      },
+      {
+        "text": "Traiguén",
+        "value": "Traiguén"
+      },
+      {
+        "text": "Teodoro Schmidt",
+        "value": "Teodoro Schmidt"
+      },
+      {
+        "text": "Vilcún",
+        "value": "Vilcún"
+      },
+      {
+        "text": "Corral",
+        "value": "Corral"
+      },
+      {
+        "text": "Futrono",
+        "value": "Futrono"
+      },
+      {
+        "text": "Lago Ranco",
+        "value": "Lago Ranco"
+      },
+      {
+        "text": "La Unión",
+        "value": "La Unión"
+      },
+      {
+        "text": "Lanco",
+        "value": "Lanco"
+      },
+      {
+        "text": "Máfil",
+        "value": "Máfil"
+      },
+      {
+        "text": "Mariquina",
+        "value": "Mariquina"
+      },
+      {
+        "text": "Panguipulli",
+        "value": "Panguipulli"
+      },
+      {
+        "text": "Paillaco",
+        "value": "Paillaco"
+      },
+      {
+        "text": "Río Bueno",
+        "value": "Río Bueno"
+      },
+      {
+        "text": "Achao",
+        "value": "Achao"
+      },
+      {
+        "text": "Ancud",
+        "value": "Ancud"
+      },
+      {
+        "text": "Calbuco",
+        "value": "Calbuco"
+      },
+      {
+        "text": "Chonchi",
+        "value": "Chonchi"
+      },
+      {
+        "text": "Fresia",
+        "value": "Fresia"
+      },
+      {
+        "text": "Frutillar",
+        "value": "Frutillar"
+      },
+      {
+        "text": "Llanquihue",
+        "value": "Llanquihue"
+      },
+      {
+        "text": "Los Muermos",
+        "value": "Los Muermos"
+      },
+      {
+        "text": "Maullín",
+        "value": "Maullín"
+      },
+      {
+        "text": "Puerto Octay",
+        "value": "Puerto Octay"
+      },
+      {
+        "text": "Purranque",
+        "value": "Purranque"
+      },
+      {
+        "text": "Puyehue",
+        "value": "Puyehue"
+      },
+      {
+        "text": "Puerto Varas",
+        "value": "Puerto Varas"
+      },
+      {
+        "text": "Quellón",
+        "value": "Quellón"
+      },
+      {
+        "text": "Queilén",
+        "value": "Queilén"
+      },
+      {
+        "text": "Río Negro",
+        "value": "Río Negro"
+      },
+      {
+        "text": "Chile Chico",
+        "value": "Chile Chico"
+      },
+      {
+        "text": "Puerto Williams",
+        "value": "Puerto Williams"
+      }
+    ]
+  }

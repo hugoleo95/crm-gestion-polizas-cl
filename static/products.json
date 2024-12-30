@@ -1,0 +1,236 @@
+{
+  "asistencia": [
+    {
+      "value": "asistencia_viaje",
+      "text": "Asistencia viaje"
+    },
+    {
+      "text": "Asistencia Telemedicina",
+      "value": "asistencia_telemedicina"
+    }
+  ],
+  "garantia": [
+    {
+      "value": "garantia",
+      "text": "Garantia"
+    },
+    {
+      "value": "garantia_corfo",
+      "text": "Garantia CORFO"
+    },
+    {
+      "value": "seguro_de_credito",
+      "text": "Seguro Credito"
+    },
+    {
+      "value": "garantia_sercotec",
+      "text": "Garantia SERCOTEC"
+    }
+  ],
+  "generales": [
+    {
+      "value": "ap_digital",
+      "text": "AP Digital"
+    },
+    {
+      "value": "ap_colectivo",
+      "text": "AP colectivo"
+    },
+    {
+      "value": "ap_individual",
+      "text": "AP individual"
+    },
+    {
+      "value": "arriendo",
+      "text": "Arriendo"
+    },
+    {
+      "value": "asiento_pasajero",
+      "text": "Asientos de pasajeros"
+    },
+    {
+      "value": "automovil",
+      "text": "Automovil"
+    },
+    {
+      "value": "condominio",
+      "text": "Condominio"
+    },
+    {
+      "value": "risk_diagnostic",
+      "text": "Diagnóstico de riesgo"
+    },
+    {
+      "value": "equipo_movil",
+      "text": "Equipo movil"
+    },
+    {
+      "value": "espacios_comunes",
+      "text": "Espacios comunes"
+    },
+    {
+      "value": "d_and_o",
+      "text": "d&o"
+    },
+    {
+      "value": "flota_vehiculos",
+      "text": "Flota vehiculos"
+    },
+    {
+      "value": "hogar",
+      "text": "Hogar"
+    },
+    {
+      "value": "incendio",
+      "text": "Incendio"
+    },
+    {
+      "value": "moto",
+      "text": "Moto"
+    },
+    {
+      "value": "rc",
+      "text": "RC"
+    },
+    {
+      "value": "rc_mal_praxis",
+      "text": "RC Mal Praxis"
+    },
+    {
+      "value": "rc_profesional",
+      "text": "RC Profesional"
+    },
+    {
+      "value": "rc_drone",
+      "text": "RC Drone"
+    },
+    {
+      "value": "transporte_terrestre",
+      "text": "Transporte terrestre"
+    },
+    {
+      "value": "trc",
+      "text": "TRC"
+    },
+    {
+      "value": "vehiculos_pesados",
+      "text": "Vehiculos pesados"
+    },
+    {
+      "value": "rc_mop_digital",
+      "text": "RC MOP DIGITAL"
+    },
+    {
+      "value": "rc_construccion_digital",
+      "text": "RC CONSTRUCCION DIGITAL"
+    },
+    {
+      "value": "rc_empresas_digital",
+      "text": "RC EMPRESAS DIGITAL"
+    },
+    {
+      "value": "rc_mercosur",
+      "text": "RCI Mercosur"
+    },
+    {
+      "value": "rc_empresas",
+      "text": "RC EMPRESAS"
+    },
+    {
+      "value": "rc_construccion",
+      "text": "RC EMPRESAS CONSTRUCCIÓN"
+    },
+    {
+      "value": "rc_medica",
+      "text": "RC MEDICA"
+    },
+    {
+      "value": "todo_riesgo_de_construccion",
+      "text": "TODO RIESGO DE CONSTRUCCIÓN"
+    },
+    {
+      "value": "vehiculos_livianos",
+      "text": "VEHICULOS LIVIANOS"
+    },
+    {
+      "value": "property",
+      "text": "PROPERTY"
+    },
+    {
+      "value": "seguro_pyme",
+      "text": "SEGURO PYME"
+    },
+    {
+      "text": "Minipyme",
+      "value": "minipyme"
+    },
+    {
+      "value": "carga_anual",
+      "text": "CARGA ANUAL"
+    },
+    {
+      "value": "carga_unica",
+      "text": "CARGA UNICA"
+    },
+    {
+      "value": "vida_conductor",
+      "text": "VIDA EL CONDUCTOR"
+    },
+    {
+      "value": "garantia_publica",
+      "text": "GARANTIA PUBLICA"
+    },
+    {
+      "value": "garantia_privada",
+      "text": "GARANTIA PRIVADA"
+    },
+    {
+      "text": "Seriedad de oferta Digital",
+      "value": "seriedad_oferta"
+    },
+    {
+      "text": "Fiel Cumplimiento Digital",
+      "value": "fiel_cumplimiento"
+    }
+  ],
+  "vida": [
+    {
+      "value": "ap_individual",
+      "text": "AP individual"
+    },
+    {
+      "text": "Complementario Salud Individual",
+      "value": "complementario_salud_individual"
+    },
+    {
+      "value": "apv",
+      "text": "APV"
+    },
+    {
+      "value": "salud",
+      "text": "Salud"
+    },
+    {
+      "value": "vida_tradicional",
+      "text": "Vida Tradicional"
+    },
+    {
+      "value": "seguro_covid",
+      "text": "Seguro COVID"
+    }
+  ],
+  "colectivo_vida": [
+    {
+      "value": "colectivo_vida",
+      "text": "Colectivo vida"
+    },
+    {
+      "value": "colectivo_salud",
+      "text": "Colectivo salud"
+    },
+    {
+      "text": "Colectivo De Salud BCI",
+      "value": "colectivo_salud_bci"
+    }
+  ]
+}

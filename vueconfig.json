@@ -1,0 +1,8 @@
+{
+    "globalComponents": [{
+        "Nuxt": {
+          "moduleName": "nuxt",
+          "exportName": "Nuxt"
+        }
+      }]
+  }

@@ -1,0 +1,130 @@
+[
+  {
+    "value": "rc_actividades_inmuebles",
+    "text": "RC Actividades e Inmuebles"
+  },
+  {
+    "value": "rc_constratistas",
+    "text": "RC Contratistas"
+  },
+  {
+    "value": "rc_medica",
+    "text": "RC Médica"
+  },
+  {
+    "value": "rc_profesional",
+    "text": "RC Profesional"
+  },
+  {
+    "value": "d_and_o",
+    "text": "RC D&O"
+  },
+  {
+    "value": "rc_stand_eventos",
+    "text": "RC Stand & Eventos"
+  },
+  {
+    "value": "rc",
+    "text": "RC General (No valido)"
+  },
+  {
+    "value": "rc_motos_autos",
+    "text": "RC Motos/Auto (No valido)"
+  },
+  {
+    "value": "property",
+    "text": "Property"
+  },
+  {
+    "value": "maquinaria_pesada",
+    "text": "Maquinaria Pesada"
+  },
+  {
+    "value": "seguro_pyme",
+    "text": "Pyme"
+  },
+  {
+    "value": "hogar",
+    "text": "Hogar (No Valido)"
+  },
+  {
+    "value": "carga_anual",
+    "text": "Carga Anual"
+  },
+  {
+    "value": "carga_unica",
+    "text": "Carga Única"
+  },
+  {
+    "value": "transporte_terrestre",
+    "text": "Transporte Terrestre (No valido)"
+  },
+  {
+    "value": "vehiculos_pesados",
+    "text": "Vehículo Pesado"
+  },
+  {
+    "text": "Vehículo Liviano",
+    "value": "vehiculos_livianos"
+  },
+  {
+    "text": "Flota de Vehículos",
+    "value": "flota_vehiculos"
+  },
+  {
+    "text": "Motocicletas",
+    "value": "moto"
+  },
+  {
+    "text": "Automóvil (No Valido)",
+    "value": "automovil"
+  },
+  {
+    "text": "Cyber",
+    "value": "ciber"
+  },
+  {
+    "text": "Vida",
+    "value": "vida"
+  },
+  {
+    "text": "Accidentes Personales",
+    "value": "accidentes_personales"
+  },
+  {
+    "text": "Asistencia Telemedicina",
+    "value": "asistencia_telemedicina"
+  },
+  {
+    "text": "Equipo Móvil (No valido)",
+    "value": "equipo_movil"
+  },
+  {
+    "text": "Espacios Comunes (No valido)",
+    "value": "espacios_comunes"
+  },
+  {
+    "text": "Colectivo De Gastos Médicos Mayores",
+    "value": "gastos_medicos_mayores"
+  },
+  {
+    "text": "Plan De Salud PyME",
+    "value": "mok"
+  },
+  {
+    "text": "Gastos Médicos Mayores Individual",
+    "value": "gastos_medicos_mayores_individual"
+  },
+  {
+    "text": "Seguro Se Salud (No Valido)",
+    "value": "salud"
+  },
+  {
+    "text": "Paquete Vida",
+    "value": "paquetes_vida"
+  },
+  {
+    "text": "Paquete AP",
+    "value": "paquetes_ap"
+  }
+]

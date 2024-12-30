@@ -1,0 +1,38 @@
+[
+    {
+        "value": null,
+        "text": "Ninguno"
+    },
+    {
+        "value": "alianza_comercial",
+        "text": "Alianza comercial"
+    },
+    {
+        "value": "solicitud_cotizacion",
+        "text": "Cotización"
+    },
+    {
+        "value": "cancelacion_o_anulacion_de_poliza",
+        "text": "Cancelación o anulación de políza"
+    },
+    {
+        "value": "denuncia_siniestro",
+        "text": "Denuncia siniestro"
+    },
+    {
+        "value": "endosos",
+        "text": "Endosos"
+    },
+    {
+        "value": "renovacion",
+        "text": "Renovación"
+    },
+    {
+        "value": "soporte",
+        "text": "Soporte"
+    },
+    {
+        "value": "solicitud_informacion_productos",
+        "text": "Información de productos"
+    }
+]

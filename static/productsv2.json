@@ -1,0 +1,374 @@
+{
+    "asistencias": [
+        {
+            "asistencias": [
+                {
+                    "text": "Asistencia Telemedicina",
+                    "value": "asistencia_telemedicina"
+                }
+            ]
+        }
+    ],
+    "generales": [
+        {
+            "diagnostico_de_riesgo": [
+                {
+                    "value": "risk_diagnostic",
+                    "text": "Diagnóstico De Riesgo"
+                }
+            ]
+        },
+        {
+            "seguro_de_accidentes_personales_digitales": [
+                {
+                    "value": "ap_digital",
+                    "text": "AP Digital"
+                }
+            ]
+        },
+        {
+            "seguro_de_accidentes_personales": [
+                {
+                    "value": "ap_colectivo",
+                    "text": "AP Colectivo"
+                },
+                {
+                    "value": "ap_individual",
+                    "text": "AP Individual"
+                },
+                {
+                    "value": "ap_mas_vida_guardia",
+                    "text": "AP + Vida Guardias"
+                }
+            ]
+        },
+        {
+            "seguro_de_responsabilidad_civil_digital": [
+                {
+                    "value": "rc_empresas_digital",
+                    "text": "RC Digital Empresas"
+                },
+                {
+                    "value": "rc_mop_digital",
+                    "text": "RC Digital MOP"
+                },
+                {
+                    "value": "rc_construccion_digital",
+                    "text": "RC Digital Construcción"
+                }
+            ]
+        },
+        {
+            "seguro_de_responsabilidad_civil": [
+                {
+                    "value": "rc_mercosur",
+                    "text": "RCI Mercosur"
+                },
+                {
+                    "value": "rc_empresas",
+                    "text": "RC Empresa"
+                },
+                {
+                    "value": "rc_construccion",
+                    "text": "RC Construcción"
+                },
+                {
+                    "value": "rc_medica",
+                    "text": "RC Médica"
+                },
+                {
+                    "value": "rc_profesional",
+                    "text": "RC Profesional"
+                },
+                {
+                    "value": "rc_drone",
+                    "text": "RC Drone"
+                },
+                {
+                    "value": "d_and_o",
+                    "text": "RC D&O"
+                },
+                {
+                    "value": "rc",
+                    "text": "RC(No Valido)"
+                },
+                {
+                    "value": "rc_mal_praxis",
+                    "text": "RC Mal Praxis (No Valido)"
+                }
+            ]
+        },
+        {
+            "seguros_para_la_ingenieria": [
+                {
+                    "value": "todo_riesgo_de_construccion",
+                    "text": "Todo Riesgo De Construcción"
+                },
+                {
+                    "value": "equipo_movil",
+                    "text": "Equipo Movil"
+                },
+                {
+                    "value": "trc",
+                    "text": "TRC (No Valido)"
+                }
+            ]
+        },
+        {
+            "seguro_de_vehiculos": [
+                {
+                    "value": "vehiculos_pesados",
+                    "text": "Vehiculos Pesados"
+                },
+                {
+                    "value": "vehiculos_livianos",
+                    "text": "Vehículo Liviano"
+                },
+                {
+                    "value": "flota_vehiculos",
+                    "text": "Flota Vehiculos"
+                },
+                {
+                    "value": "moto",
+                    "text": "Motocicletas"
+                },
+                {
+                    "value": "automovil",
+                    "text": "Automovil (No Valido)"
+                }
+            ]
+        },
+        {
+            "seguro_de_incendio_sismo_y_robo_digital": [
+                {
+                    "text": "Minipyme",
+                    "value": "minipyme"
+                }
+            ]
+        },
+        {
+            "seguro_de_incendio_sismo_y_robo": [
+                {
+                    "value": "property",
+                    "text": "Property"
+                },
+                {
+                    "text": "Pyme",
+                    "value": "seguro_pyme"
+                },
+                {
+                    "text": "Hogar (No Valido)",
+                    "value": "hogar"
+                },
+                {
+                    "text": "Incendio (No Valido)",
+                    "value": "incendio"
+                }
+            ]
+        },
+        {
+            "seguro_de_transporte_y_carga": [
+                {
+                    "text": "Carga Anual",
+                    "value": "carga_anual"
+                },
+                {
+                    "text": "Carga Única",
+                    "value": "carga_unica"
+                },
+                {
+                    "text": "Transporte Terrestre (No Valido)",
+                    "value": "transporte_terrestre"
+                }
+            ]
+        },
+        {
+            "otros_seguros": [
+                {
+                    "text": "Asiento De Pasajeros",
+                    "value": "asiento_pasajero"
+                },
+                {
+                    "text": "Vida Conductor",
+                    "value": "vida_conductor"
+                },
+                {
+                    "text": "Condominio / Espacios Comunes",
+                    "value": "espacios_comunes"
+                },
+                {
+                    "text": "Asistencia En Viaje",
+                    "value": "asistencia_viaje"
+                },
+                {
+                    "text": "Condominio (No Valido)",
+                    "value": "condominio"
+                },
+                {
+                    "text": "Arriendo (No Valido)",
+                    "value": "arriendo"
+                },
+                {
+                    "text": "Vida Tradicional",
+                    "value": "vida_tradicional"
+                },
+                {
+                    "text": "APV (No Valido)",
+                    "value": "apv"
+                },
+                {
+                    "text": "Colectivo Vida (No Valido)",
+                    "value": "colectivo_vida"
+                }
+            ]
+        }
+    ],
+    "salud": [
+        {
+            "seguro_colectivo_de_salud": [
+                {
+                    "text": "Colectivo De Salud",
+                    "value": "colectivo_salud"
+                },
+                {
+                    "text": "Colectivo De Salud BCI",
+                    "value": "colectivo_salud_bci"
+                },
+                {
+                    "text": "Complementario Salud Individual",
+                    "value": "complementario_salud_individual"
+                },
+                {
+                    "text": "Salud (No Valido)",
+                    "value": "salud"
+                },
+                {
+                    "text": "Seguro COVID (No Valido)",
+                    "value": "seguro_covid"
+                }
+            ]
+        }
+    ],
+    "garantia": [
+        {
+            "seguro_de_garantia_digital_publica": [
+                {
+                    "text": "Seriedad de oferta",
+                    "value": "seriedad_oferta"
+                },
+                {
+                    "text": "Fiel Cumplimiento",
+                    "value": "fiel_cumplimiento"
+                }
+            ]
+        },
+        {
+            "seguro_de_garantia_digital_privada": [
+                {
+                    "text": "Seriedad de oferta",
+                    "value": "seriedad_oferta"
+                },
+                {
+                    "text": "Fiel Cumplimiento",
+                    "value": "fiel_cumplimiento"
+                }
+            ]
+        },
+        {
+            "seguro_de_garantia_publica": [
+                {
+                    "text": "Seriedad de oferta",
+                    "value": "seriedad_oferta"
+                },
+                {
+                    "text": "Fiel Cumplimiento",
+                    "value": "fiel_cumplimiento"
+                },
+                {
+                    "text": "Correcto Uso de Anticipo",
+                    "value": "correcto_uso"
+                },
+                {
+                    "text": "Otras Garantías",
+                    "value": "otras_garantias"
+                }
+            ]
+        },
+        {
+            "seguro_de_garantia_privada": [
+                {
+                    "text": "Seriedad de oferta",
+                    "value": "seriedad_oferta"
+                },
+                {
+                    "text": "Fiel Cumplimiento",
+                    "value": "fiel_cumplimiento"
+                },
+                {
+                    "text": "Correcto Uso de Anticipo",
+                    "value": "correcto_uso"
+                },
+                {
+                    "text": "Otras Garantías",
+                    "value": "otras_garantias"
+                }
+            ]
+        },
+        {
+            "seguro_de_garantia_fondos": [
+                {
+                    "text": "Seriedad de oferta",
+                    "value": "seriedad_oferta"
+                },
+                {
+                    "text": "Fiel Cumplimiento",
+                    "value": "fiel_cumplimiento"
+                },
+                {
+                    "text": "Correcto Uso de Anticipo",
+                    "value": "correcto_uso"
+                },
+                {
+                    "text": "Otras Garantías",
+                    "value": "otras_garantias"
+                }
+            ]
+        },
+        {
+            "seguro_de_garantia_creditos": [
+                {
+                    "text": "Seguros de Créditos",
+                    "value": "seguro_de_credito"
+                }
+            ]
+        },
+        {
+            "seguro_de_garantia": [
+                {
+                    "text": "Garantía Pública (No Valido)",
+                    "value": "garantia_publica"
+                },
+                {
+                    "text": "Garantía Privada (No Valido)",
+                    "value": "garantia_privada"
+                },
+                {
+                    "text": "Seguro de Crédito (No Valido)",
+                    "value": "seguro_de_credito"
+                },
+                {
+                    "text": "Garantía CORFO (No Valido)",
+                    "value": "garantia_corfo"
+                },
+                {
+                    "text": "Garantía SERCOTEC (No Valido)",
+                    "value": "garantia_sercotec"
+                },
+                {
+                    "text": "Garantía (No Valido)",
+                    "value": "garantia"
+                }
+            ]
+        }
+    ]
+}

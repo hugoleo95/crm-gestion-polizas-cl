@@ -1,0 +1,79 @@
+[
+    {
+        "value": {
+            "insurance": "seguro_covid",
+            "amount": 0
+        },
+        "text": "Seguro obligatorio Covid-19"
+    },
+    {
+        "value": {
+            "insurance": "incendio",
+            "amount": 0
+        },
+        "text": "Seguro de incendio, sismo y robo"
+    },
+    {
+        "value": {
+            "insurance": "rc",
+            "amount": 0
+        },
+        "text": "Seguro de responsabilidad civil"
+    },
+    {
+        "value": {
+            "insurance": "transporte_carga",
+            "amount": 0
+        },
+        "text": "Seguro de transporte y carga"
+    },
+    {
+        "value": {
+            "insurance": "colectivo_salud",
+            "amount": 0
+        },
+        "text": "Seguros de Salud"
+    },
+    {
+        "value": {
+            "insurance": "ACCIDENTES_PERSONALES",
+            "amount": 0
+        },
+        "text": "Seguro de accidentes personales"
+    },
+    {
+        "value": {
+            "insurance": "vehiculo",
+            "amount": 0
+        },
+        "text": "Seguro de vehiculo"
+    },
+    {
+        "value": {
+            "insurance": "equipo_movil",
+            "amount": 0
+        },
+        "text": "Seguro de equipo movil"
+    },
+    {
+        "value": {
+            "insurance": "riesgo_construccion",
+            "amount": 0
+        },
+        "text": "Seguro todo riesgo de construccion"
+    },
+    {
+        "value": {
+            "insurance": "d_and_o",
+            "amount": 0
+        },
+        "text": "Seguro D&O"
+    },
+    {
+        "value": {
+            "insurance": "garantia",
+            "amount": 0
+        },
+        "text": "Seguro de garantia"
+    }
+]

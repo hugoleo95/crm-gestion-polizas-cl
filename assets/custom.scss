@@ -1,0 +1,65 @@
+
+@font-face {
+    font-family: "Rubik";
+    src: url("~assets/fonts/Rubik-Regular.ttf") format("truetype");
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: "Rubik";
+    src: url("~assets/fonts/Rubik-Bold.ttf") format("truetype");
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Rubik";
+    src: url("~assets/fonts/Rubik-Light.ttf") format("truetype");
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Rubik";
+    src: url("~assets/fonts/Rubik-ExtraBold.ttf") format("truetype");
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "Rubik";
+    src: url("~assets/fonts/Rubik-Medium.ttf") format("truetype");
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Rubik";
+    src: url("~assets/fonts/Rubik-SemiBold.ttf") format("truetype");
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Rubik";
+    src: url("~assets/fonts/Rubik-Light.ttf") format("truetype");
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 300;
+}
+
+$font-family-sans-serif: 'Rubik' !default;
+
+$primary: #233348 !default;
+$light: #ffffff !default;
+$secondary: #ACACAC !default;
+
+
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'bootstrap-vue/src/index.scss';

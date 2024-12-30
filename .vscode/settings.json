@@ -1,0 +1,9 @@
+{
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "nuxt.isNuxtApp": true,
+}

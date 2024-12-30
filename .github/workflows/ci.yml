@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main-mx
+  pull_request: 
+    types: [opened, reopened, ready_for_review]
+    branches:
+      - main-mx
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  deploy_build_main-mx:
+    # needs: [test]
+    if: |
+      (github.ref == 'refs/heads/main-mx')
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install SleakOps CLI
+      run: pipx install sleakops
+
+    - name: Run SleakOps build
+      env:
+        SLEAKOPS_KEY: ${{ secrets.SLEAKOPS_KEY }}
+      run: sleakops build -p simplee-teams-mx-2 -b main-mx -w
+
+    - name: Run SleakOps deploy
+      env:
+        SLEAKOPS_KEY: ${{ secrets.SLEAKOPS_KEY }}
+      run: sleakops deploy -p simplee-teams-mx-2 -e prod-mx-2 -w

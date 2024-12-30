@@ -1,0 +1,44 @@
+{
+    "companies": {
+        "cl": [
+            "assist_card",
+            "auxilia",
+            "avla",
+            "bci",
+            "bice",
+            "bupa",
+            "chilena",
+            "cesce",
+            "chubb",
+            "consorcio",
+            "contempora",
+            "continental",
+            "euroasist",
+            "liberty",
+            "inge",
+            "maxxa",
+            "fid",
+            "hdi",
+            "mapfre",
+            "medismart",
+            "ohio",
+            "aspor",
+            "orion",
+            "orsan",
+            "reale",
+            "renta_nacional",
+            "southbridge",
+            "suaval",
+            "sura"
+        ],
+        "mx": [
+            "sura",
+            "aig",
+            "gmx",
+            "gnp",
+            "medismart",
+            "sura",
+            "atlas"
+        ]
+    }
+}

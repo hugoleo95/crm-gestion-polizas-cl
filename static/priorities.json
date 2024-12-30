@@ -1,0 +1,18 @@
+[
+    {
+        "value": "alta",
+        "text": "Alta"
+    },
+    {
+        "value": "media",
+        "text": "Media"
+    },
+    {
+        "value": "baja",
+        "text": "Baja"
+    },
+    {
+        "value": "sin_prioridad",
+        "text": "Sin prioridad"
+    }
+]

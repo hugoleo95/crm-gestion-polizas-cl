@@ -1,0 +1,130 @@
+[
+    {
+        "value": "ACTIVIDADES DEPORTIVAS Y GIMNASIOS",
+        "text": "ACTIVIDADES DEPORTIVAS Y GIMNASIOS"
+    },
+    {
+        "value": "AGRICUTURA, PESCA, GANADERIA Y SILVICULTURA",
+        "text": "AGRICUTURA, PESCA, GANADERÍA Y SILVICULTURA"
+    },
+    {
+        "value": "ALIMENTACION Y RESTAURANTES",
+        "text": "ALIMENTACIÓN Y RESTAURANTES"
+    },
+    {
+        "value": "ALQUILER DE VEHICULOS Y MAQUINARIAS",
+        "text": "ALQUILER DE VEHÍCULOS Y MAQUINARIAS"
+    },
+    {
+        "value": "ARQUITECTURA E INGENIERIA",
+        "text": "ARQUITECTURA E INGENIERÍA"
+    },
+    {
+        "value": "ARTE, ENTRETENIMIENTO, PUBLICIDAD Y MEDIOS",
+        "text": "ARTE, ENTRETENIMIENTO, PUBLICIDAD Y MEDIOS"
+    },
+    {
+        "value": "COMUNIDAD Y SERVICIOS SOCIALES",
+        "text": "COMUNIDAD Y SERVICIOS SOCIALES"
+    },
+    {
+        "value": "CONSTRUCCION Y EXTRACCION",
+        "text": "CONSTRUCCIÓN Y EXTRACCIÓN"
+    },
+    {
+        "value": "EDUCACION Y CAPACITACION",
+        "text": "EDUCACIÓN Y CAPACITACIÓN"
+    },
+    {
+        "value": "ESTETICA Y BELLEZA",
+        "text": "ESTÉTICA Y BELLEZA"
+    },
+    {
+        "value": "FABRICACION Y MANUFACTURA",
+        "text": "FABRICACIÓN Y MANUFACTURA"
+    },
+    {
+        "value": "FUMIGACION Y CONTROL DE PLAGAS",
+        "text": "FUMIGACIÓN Y CONTROL DE PLAGAS"
+    },
+    {
+        "value": "GESTION, ASESORIA Y CONSULTORIA",
+        "text": "GESTIÓN, ASESORÍA Y CONSULTORÍA"
+    },
+    {
+        "value": "HOTELERIA, HOSTELERIA Y TURISMO",
+        "text": "HOTELERÍA, HOSTELERÍA Y TURÍSMO"
+    },
+    {
+        "value": "INFORMATICA Y TECNOLOGIA",
+        "text": "INFORMÁTICA Y TECNOLOGÍA"
+    },
+    {
+        "value": "JADRINERIA Y PAISAJISMO",
+        "text": "JADRINERÍA Y PAISAJISMO"
+    },
+    {
+        "value": "LABORATORIOS MEDICOS Y DENTALES",
+        "text": "LABORATORIOS MÉDICOS Y DENTALES"
+    },
+    {
+        "value": "NEGOCIOS Y FINANZAS",
+        "text": "NEGOCIOS Y FINANZAS"
+    },
+    {
+        "value": "OFICINAS ADMINISTRATIVAS",
+        "text": "OFICINAS ADMINISTRATIVAS"
+    },
+    {
+        "value": "PERSONA FISICA SIN ACTIVIDAD COMERCIAL",
+        "text": "PERSONA FÍSICA SIN ACTIVIDAD COMERCIAL"
+    },
+    {
+        "value": "PRODUCCION DE EVENTOS",
+        "text": "PRODUCCIÓN DE EVENTOS"
+    },
+    {
+        "value": "SERVICIOS DE ASISTENCIA MEDICA Y SANITARIA",
+        "text": "SERVICIOS DE ASISTENCIA MÉDICA Y SANITARIA"
+    },
+    {
+        "value": "SERVICIOS DE INSTALACION, MANTENIMIENTO Y REPARACION",
+        "text": "SERVICIOS DE INSTALACIÓN, MANTENIMIENTO Y REPARACIÓN"
+    },
+    {
+        "value": "SERVICIOS DE LIMPIEZA Y RECICLAJE",
+        "text": "SERVICIOS DE LIMPIEZA Y RECICLAJE"
+    },
+    {
+        "value": "SERVICIOS DE PROTECCION",
+        "text": "SERVICIOS DE PROTECCIÓN"
+    },
+    {
+        "value": "SERVICIOS INMOBILIARIOS, BODEGAS Y ESTACIONAMIENTOS",
+        "text": "SERVICIOS INMOBILIARIOS, BODEGAS Y ESTACIONAMIENTOS"
+    },
+    {
+        "value": "SERVICIOS JURIDICOS",
+        "text": "SERVICIOS JURÍDICOS"
+    },
+    {
+        "value": "SERVICIOS TECNICOS Y DE T.I.",
+        "text": "SERVICIOS TÉCNICOS Y DE T.I."
+    },
+    {
+        "value": "TRANSPORTE Y TRASLADO",
+        "text": "TRANSPORTE Y TRASLADO"
+    },
+    {
+        "value": "VENTAS FISICAS",
+        "text": "VENTAS FÍSICAS"
+    },
+    {
+        "value": "VENTAS ONLINE",
+        "text": "VENTAS ONLINE"
+    },
+    {
+        "value": "OTROS",
+        "text": "OTROS"
+    }
+]

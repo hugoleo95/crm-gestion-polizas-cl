@@ -1,0 +1,108 @@
+{
+  "danos": [
+    {
+      "value": "accidentes_personales",
+      "text": "Accidentes personales"
+    },
+    {
+      "text": "Asistencia Telemedicina",
+      "value": "asistencia_telemedicina"
+    },
+    {
+      "value": "automovil",
+      "text": "Automovil"
+    },
+    {
+      "value": "d_and_o",
+      "text": "D&O"
+    },
+    {
+      "value": "rc_stand_eventos",
+      "text": "RC Stand & Eventos"
+    },
+    {
+      "value": "equipo_movil",
+      "text": "Equipo móvil"
+    },
+    {
+      "value": "equipo_pesado",
+      "text": "Equipo Pesado"
+    },
+    {
+      "value": "espacios_comunes",
+      "text": "Espacios comunes"
+    },
+    {
+      "value": "flota_vehiculos",
+      "text": "Flota vehiculos"
+    },
+    {
+      "value": "hogar",
+      "text": "Hogar"
+    },
+    {
+      "value": "moto",
+      "text": "Motos"
+    },
+    {
+      "value": "ciber",
+      "text": "Protección cibernética"
+    },
+    {
+      "value": "rc",
+      "text": "RC general"
+    },
+    {
+      "value": "rc_motos_autos",
+      "text": "RC motos/auto"
+    },
+    {
+      "value": "rc_profesional",
+      "text": "RC Profesional"
+    },
+    {
+      "value": "gastos_medicos_mayores",
+      "text": "Seguro de gastos médicos mayores"
+    },
+    {
+      "text": "Gastos Médicos Mayores Individual",
+      "value": "gastos_medicos_mayores_individual"
+    },
+    {
+      "value": "mok",
+      "text": "SALUD PYME DIGITAL"
+    },
+    {
+      "value": "salud",
+      "text": "Seguro de salud"
+    },
+    {
+      "value": "vida",
+      "text": "Seguro de vida"
+    },
+    {
+      "value": "seguro_pyme",
+      "text": "Seguro pyme"
+    },
+    {
+      "value": "transporte_terrestre",
+      "text": "Transporte"
+    }
+  ],
+  "affinity": [
+    {
+      "value": "paquetes_vida",
+      "text": "Paquetes Vida"
+    },
+    {
+      "value": "paquetes_ap",
+      "text": "Paquetes AP"
+    }
+  ],
+  "asistencia": [
+    {
+      "value": "mok",
+      "text": "Plan salud MOK"
+    }
+  ]
+}
